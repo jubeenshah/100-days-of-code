@@ -8,6 +8,6 @@ Please find the solution [here](./Question-1/Day-1-Q1.py)
 Please find the question [here](./Question-2/Day-1-Q2.pdf)
 Please find the solution [here](./Question-2/Day-1-Q2.py)
 
-## Question 2 (Jumping on Clouds)
+## Question 3 (Jumping on Clouds)
 Please find the question [here](./Question-3/Day-1-Q3.pdf)
 Please find the solution [here](./Question-3/Day-1-Q3.py)
