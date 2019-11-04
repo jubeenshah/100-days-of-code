@@ -11,3 +11,7 @@ Please find the solution [here](./Question-2/Day-1-Q2.py)
 ## Question 3 (Jumping on Clouds)
 Please find the question [here](./Question-3/Day-1-Q3.pdf) <br>
 Please find the solution [here](./Question-3/Day-1-Q3.py)
+
+## Question 3 (Repeated Strings)
+Please find the question [here](./Question-4/Day-1-Q4.pdf) <br>
+Please find the solution [here](./Question-4/Day-1-Q4.py)

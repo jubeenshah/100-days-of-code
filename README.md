@@ -14,3 +14,7 @@
 * Question 3 (Jumping on Clouds)
     * Please find the question [here](./Day-1/Question-3/Day-1-Q3.pdf)
     * Please find the solution [here](./Day-1/Question-3/Day-1-Q3.py)
+
+* Question 4 (Repeated Strings)
+    * Please find the question [here](./Day-1/Question-4/Day-1-Q4.pdf)
+    * Please find the solution [here](./Day-1/Question-4/Day-1-Q4.py)
