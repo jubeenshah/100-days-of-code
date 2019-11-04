@@ -4,6 +4,7 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+.DS_Store
 # Other files and folders
 .settings/
 
