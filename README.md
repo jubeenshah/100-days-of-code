@@ -22,3 +22,10 @@
 * Question 5 (Binary Search)
     * Please find the question [here](https://leetcode.com/explore/learn/card/binary-search/138/background/1038/)
     * Please find the solution [here](./Day-1/Question-5/Day-1-Q5.py)
+
+
+## DAY-2
+
+* Question 1 (Hourglass Sum)
+    * Please find the question [here](./Day-2/Question-1/Day-2-Q1.pdf)
+    * Please find the solution [here](./Day-2/Question-1/Day-2-Q1.py)
