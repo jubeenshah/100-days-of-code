@@ -19,6 +19,6 @@
     * Please find the question [here](./Day-1/Question-4/Day-1-Q4.pdf)
     * Please find the solution [here](./Day-1/Question-4/Day-1-Q4.py)
 
-* Question 5 (Repeated Strings)
+* Question 5 (Binary Search)
     * Please find the question [here](https://leetcode.com/explore/learn/card/binary-search/138/background/1038/)
     * Please find the solution [here](./Day-1/Question-5/Day-1-Q5.py)
