@@ -29,3 +29,7 @@
 * Question 1 (Hourglass Sum)
     * Please find the question [here](./Day-2/Question-1/Day-2-Q1.pdf)
     * Please find the solution [here](./Day-2/Question-1/Day-2-Q1.py)
+
+* Question 2 (Left Rotate)
+    * Please find the question [here](./Day-2/Question-2/Day-2-Q2.pdf)
+    * Please find the solution [here](./Day-2/Question-2/Day-2-Q2.py)
