@@ -33,3 +33,14 @@
 * Question 2 (Left Rotate)
     * Please find the question [here](./Day-2/Question-2/Day-2-Q2.pdf)
     * Please find the solution [here](./Day-2/Question-2/Day-2-Q2.py)
+
+
+## DAY-3
+
+* Question 1 (New Year Chaos)
+    * Please find the question [here](./Day-3/Question-1/Day-3-Q1.pdf)
+    * Please find the solution [here](./Day-3/Question-1/Day-3-Q1.py)
+
+* Question 2 (Minimum Swaps 2)
+    * Please find the question [here](./Day-3/Question-2/Day-3-Q2.pdf)
+    * Please find the solution [here](./Day-3/Question-2/Day-3-Q2.py)
