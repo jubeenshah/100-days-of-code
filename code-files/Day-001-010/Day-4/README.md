@@ -19,3 +19,8 @@ Please find the solution [here](./Question-3/Day-4-Q3.py)
 
 Please find the question [here](./Question-4/Day-4-Q4.pdf) <br>
 Please find the solution [here](./Question-4/Day-4-Q4.py)
+
+## Question 5 (Plus Minus)
+
+Please find the question [here](./Question-4/question.pdf) <br>
+Please find the solution [here](./Question-4/solution.py)
