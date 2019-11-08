@@ -43,7 +43,7 @@
 
 * Question 2 (Minimum Swaps 2)
     * Please find the question [here](./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.pdf)
-    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-3/Question-1/Day-3-Q2.py) [[.ipynb]](./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.ipynb)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.py) [[.ipynb]](./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.ipynb)
 
 ## Day-4
 
