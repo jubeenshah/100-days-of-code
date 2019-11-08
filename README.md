@@ -67,6 +67,6 @@
     * Please find the question [here](./code-files/Day-001-010/Day-4/Question-5/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-5/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-5/solution.ipynb)
 
-* Question 5 (Diagonal Difference)
+* Question 6 (Staircase)
     * Please find the question [here](./code-files/Day-001-010/Day-4/Question-6/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-6/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-6/solution.ipynb)
