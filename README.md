@@ -64,5 +64,5 @@
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.ipynb)
 
 * Question 5 (Diagonal Difference)
-    * Please find the question [here](./code-files/Day-001-010/Day-4/Question-4/question.pdf)
-    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-4/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-4/solution.ipynb)
+    * Please find the question [here](./code-files/Day-001-010/Day-4/Question-5/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-5/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-5/solution.ipynb)
