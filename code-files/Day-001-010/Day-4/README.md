@@ -40,3 +40,9 @@ Please find the solution [here](./Question-7/solution.py)
 
 Please find the question [here](./Question-8/question.pdf) <br>
 Please find the solution [here](./Question-8/solution.py)
+
+
+## Question 9 (Time Conversion)
+
+Please find the question [here](./Question-9/question.pdf) <br>
+Please find the solution [here](./Question-9/solution.py)
