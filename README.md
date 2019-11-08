@@ -53,4 +53,4 @@
 
 * Question 2 ()
     * Please find the question [here](./code-files/Day-001-010/Day-4/Question-1/Day-4-Q1.pdf)
-    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-3/Question-1/Day-3-Q2.py) [[.ipynb]](./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.ipynb)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-1/Day-4-Q2.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-2/Day-4-Q2.ipynb)
