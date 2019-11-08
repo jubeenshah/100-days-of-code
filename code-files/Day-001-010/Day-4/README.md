@@ -31,7 +31,12 @@ Please find the solution [here](./Question-5/solution.py)
 Please find the question [here](./Question-6/question.pdf) <br>
 Please find the solution [here](./Question-6/solution.py)
 
-## Question 7 (Mini-Max SUm)
+## Question 7 (Mini-Max Sum)
 
 Please find the question [here](./Question-7/question.pdf) <br>
 Please find the solution [here](./Question-7/solution.py)
+
+## Question 8 (Birthday Candles)
+
+Please find the question [here](./Question-8/question.pdf) <br>
+Please find the solution [here](./Question-8/solution.py)
