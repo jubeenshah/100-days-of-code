@@ -44,3 +44,13 @@
 * Question 2 (Minimum Swaps 2)
     * Please find the question [here](./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.pdf)
     * Please find the solution [here](./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.py)
+
+## Day-4
+
+* Question 1 (Array Manipulation)
+    * Please find the question [here](./code-files/Day-001-010/Day-4/Question-1/Day-4-Q1.pdf)
+    * Please find the solution [here](./code-files/Day-001-010/Day-4/Question-1/Day-4-Q1.py)
+
+* Question 2 ()
+    * Please find the question [here](./code-files/Day-001-010/Day-4/Question-1/Day-4-Q1.pdf)
+    * Please find the solution [here](./code-files/Day-001-010/Day-4/Question-1/Day-4-Q1.py)
