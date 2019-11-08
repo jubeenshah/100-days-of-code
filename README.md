@@ -17,11 +17,11 @@
 
 * Question 4 (Repeated Strings)
     * Please find the question [here](./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.pdf)
-    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-1/Question-4/Day-1-Q3.py) [[.ipynb]](./code-files/Day-001-010/Day-1/Question-4/Day-1-Q3.ipynb)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.py) [[.ipynb]](./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.ipynb)
 
 * Question 5 (Binary Search)
     * Please find the question [here](https://leetcode.com/explore/learn/card/binary-search/138/background/1038/)
-    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-1/Question-5/Day-1-Q3.py) [[.ipynb]](./code-files/Day-001-010/Day-1/Question-5/Day-1-Q3.ipynb)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.py) [[.ipynb]](./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.ipynb)
 
 
 ## DAY-2
