@@ -7,4 +7,4 @@ def compareTriplets(a,b):
         elif i < j:
             bobScore += 1
     print(aliceScore, bobScore)
-compareTriplets([17,28,30],[99,16,8])
+print(compareTriplets([17,28,30],[99,16,8]))

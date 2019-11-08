@@ -58,3 +58,7 @@
 * Question 3 (Compare Triplets)
     * Please find the question [here](./code-files/Day-001-010/Day-4/Question-3/Day-4-Q3.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-3/Day-4-Q3.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-3/Day-4-Q3.ipynb)
+
+* Question 4 (Diagonal Difference)
+    * Please find the question [here](./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.ipynb)
