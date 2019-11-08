@@ -5,7 +5,7 @@
 
 * Question 1 (Sock Merchant)
     * Please find the question [here](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf)
-    * Please find the solution here [.py](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py) [.ipynb](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.ipynb)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py) [.ipynb](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.ipynb)
 
 * Question 2 (Counting Valleys)
     * Please find the question [here](./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.pdf)
