@@ -54,3 +54,7 @@
 * Question 2 (Array-DS)
     * Please find the question [here](./code-files/Day-001-010/Day-4/Question-2/Day-4-Q2.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-2/Day-4-Q2.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-2/Day-4-Q2.ipynb)
+
+* Question 3 (Compare Triplets)
+    * Please find the question [here](./code-files/Day-001-010/Day-4/Question-3/Day-4-Q3.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-3/Day-4-Q3.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-3/Day-4-Q3.ipynb)
