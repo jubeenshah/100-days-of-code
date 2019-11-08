@@ -24,3 +24,9 @@ Please find the solution [here](./Question-4/Day-4-Q4.py)
 
 Please find the question [here](./Question-5/question.pdf) <br>
 Please find the solution [here](./Question-5/solution.py)
+
+
+## Question 6 (Staircase)
+
+Please find the question [here](./Question-6/question.pdf) <br>
+Please find the solution [here](./Question-6/solution.py)
