@@ -1,6 +1,6 @@
 # 100-days-of-code
-
-
+<html>
+<center>
 <table> 
     <tr> 
         <th>Day</th> 
@@ -114,7 +114,8 @@
         <td><a href="./code-files/Day-001-010/Day-5/Question-2/solution.ipynb">Notebook</a></td>
     </tr> 
 </table> 
-
+</center>
+</html>
 
 ## DAY-1
 
