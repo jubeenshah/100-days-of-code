@@ -90,6 +90,6 @@
     * Please find the question [here](./code-files/Day-001-010/Day-5/Question-1/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-5/Question-1/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-5/Question-1/solution.ipynb)
 
-* Question 2 (Time Conversion)
+* Question 2 (Two Strings)
     * Please find the question [here](./code-files/Day-001-010/Day-5/Question-2/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-5/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-5/Question-2/solution.ipynb)
