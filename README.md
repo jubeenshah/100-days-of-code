@@ -9,17 +9,17 @@
         <th>Solution(.ipynb)</th> 
     </tr> 
     <tr> 
-        <td rowspan="2">[Day-1](./code-files/Day-001-010/Day-1/)</td> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
         <td>Question 1</td>
-        <td>[Question](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf)</td>
-        <td>[Python file](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py)</td>
-        <td>[Notebook](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.ipynb)</td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td>Question 2</td>
-        <td>[Question](./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.pdf)</td>
-        <td>[Python file](./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.py)</td>
-        <td>[Notebook](./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.ipynb)</td>
+        <td>Question 1</td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.ipynb">Notebook</a></td>
     </tr> 
 </table> 
 ## DAY-1
