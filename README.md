@@ -82,3 +82,14 @@
 * Question 9 (Time Conversion)
     * Please find the question [here](./code-files/Day-001-010/Day-4/Question-9/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-9/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-9/solution.ipynb)
+
+
+## Day-5 
+
+* Question 1 (Ransom Note)
+    * Please find the question [here](./code-files/Day-001-010/Day-5/Question-1/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-5/Question-1/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-5/Question-1/solution.ipynb)
+
+* Question 2 (Time Conversion)
+    * Please find the question [here](./code-files/Day-001-010/Day-5/Question-2/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-5/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-5/Question-2/solution.ipynb)
