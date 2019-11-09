@@ -3,56 +3,106 @@
 <table> 
     <tr> 
         <th>Day</th> 
-        <th>Sr.</th>
         <th>Question</th>
         <th>Solution(.py)</th>
         <th>Solution(.ipynb)</th> 
     </tr> 
     <tr> 
         <td rowspan="5"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
-        <td>Sock Merchant</td>
-        <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">Sock Merchant</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td>Counting Valleys</td>
-        <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.pdf">Counting Valleys</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td>Jumping on Clouds</td>
-        <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.pdf">Jumping on Clouds</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td>Repeated Strings</td>
-        <td><a href="./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.pdf">Repeated Strings</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td>Binary Search</td>
-        <td><a href="https://leetcode.com/explore/learn/card/binary-search/138/background/1038/">Question</a></td>
+        <td><a href="https://leetcode.com/explore/learn/card/binary-search/138/background/1038/">Binary Search</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-001-010/Day-2/">Day-1</a></td> 
-        <td>Hourglass Sum</td>
-        <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.pdf">Question</a></td>
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-2/">Day-2</a></td> 
+        <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.pdf">Hourglass Sum</a></td>
         <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td>Left Rotate</td>
-        <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.pdf">Left Rotate</a></td>
         <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.ipynb">Notebook</a></td>
     </tr> 
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-3/">Day-3</a></td> 
+        <td><a href="./code-files/Day-001-010/Day-3/Question-1/Day-3-Q1.pdf">New Year Chaos</a></td>
+        <td><a href="./code-files/Day-001-010/Day-3/Question-1/Day-3-Q1.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-3/Question-1/Day-3-Q1.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td><a href="./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.pdf">Minimum Swaps 2</a></td>
+        <td><a href="./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.ipynb">Notebook</a></td>
+    </tr> 
+     <tr> 
+        <td rowspan="9"><a href="./code-files/Day-001-010/Day-4/">Day-4</a></td> 
+        <td><a href="./code-files/Day-001-010/Day-4/Question-1/Day-4-Q1.pdf">Array Manipulation</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-1/Day-4-Q1.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-1/Day-4-Q1.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q2.pdf">Array-DS</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q2.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q2.ipynb">Notebook</a></td>
+    </tr> 
+     <tr> 
+        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q3.pdf">Compare Triplets</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q3.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q3.ipynb">Notebook</a></td>
+    </tr> 
+     <tr> 
+        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q4.pdf">Diagonal Difference</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q4.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q4.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td><a href="./code-files/Day-001-010/Day-4/Question-5/question.pdf)">Plus Minus</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-5/solution.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-5/solution.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td><a href="./code-files/Day-001-010/Day-4/Question-6/question.pdf)">Staircase</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-6/solution.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-6/solution.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td><a href="./code-files/Day-001-010/Day-4/Question-7/question.pdf)">Mini-Max Sum</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-7/solution.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-7/solution.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td><a href="./code-files/Day-001-010/Day-4/Question-8/question.pdf)">Birthday Candles</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-8/solution.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-8/solution.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td><a href="./code-files/Day-001-010/Day-4/Question-9/question.pdf)">Time Conversion</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.ipynb">Notebook</a></td>
+    </tr> 
 </table> 
+
 ## DAY-1
 
 * Question 1 (Sock Merchant)
@@ -115,7 +165,7 @@
     * Please find the question [here](./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.ipynb)
 
-* Question 5 (Diagonal Difference)
+* Question 5 (Plus Minus)
     * Please find the question [here](./code-files/Day-001-010/Day-4/Question-5/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-4/Question-5/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-4/Question-5/solution.ipynb)
 
