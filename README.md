@@ -67,14 +67,14 @@
         <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q2.ipynb">Notebook</a></td>
     </tr> 
      <tr> 
-        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q3.pdf">Compare Triplets</a></td>
-        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q3.py">Python File</a></td>
-        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q3.ipynb">Notebook</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-3/Day-4-Q3.pdf">Compare Triplets</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-3/Day-4-Q3.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-3/Day-4-Q3.ipynb">Notebook</a></td>
     </tr> 
      <tr> 
-        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q4.pdf">Diagonal Difference</a></td>
-        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q4.py">Python File</a></td>
-        <td><a href="./code-files/Day-001-010/Day-4/Question-2/Day-4-Q4.ipynb">Notebook</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.pdf">Diagonal Difference</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
         <td><a href="./code-files/Day-001-010/Day-4/Question-5/question.pdf)">Plus Minus</a></td>
