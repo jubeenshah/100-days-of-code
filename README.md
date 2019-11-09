@@ -101,6 +101,17 @@
         <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.ipynb">Notebook</a></td>
     </tr> 
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-5/">Day-5</a></td> 
+       <td><a href="./code-files/Day-001-010/Day-5/Question-1/question.pdf">Ransom Note</a></td>
+        <td><a href="./code-files/Day-001-010/Day-5/Question-1/solution.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-5/Question-1/solution.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td><a href="./code-files/Day-001-010/Day-5/Question-2/question.pdf">Two Strings</a></td>
+        <td><a href="./code-files/Day-001-010/Day-5/Question-2/solution.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-5/Question-2/solution.ipynb">Notebook</a></td>
+    </tr> 
 </table> 
 
 ## DAY-1
