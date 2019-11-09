@@ -9,17 +9,35 @@
         <th>Solution(.ipynb)</th> 
     </tr> 
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
+        <td rowspan="5"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
         <td>Question 1</td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">Question</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td>Question 1</td>
+        <td>Question 2</td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.pdf">Question</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td>Question 3</td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td>Question 4</td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-4/Day-1-Q4.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td>Question 5</td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.ipynb">Notebook</a></td>
     </tr> 
 </table> 
 ## DAY-1
