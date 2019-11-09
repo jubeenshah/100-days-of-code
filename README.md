@@ -15,7 +15,7 @@
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">Sock Merchant</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.ipynb">Notebook</a></td>
-    </tr> 
+    </tr>
     <tr> 
         <td>2</td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.pdf">Counting Valleys</a></td>
@@ -40,6 +40,7 @@
         <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.ipynb">Notebook</a></td>
     </tr> 
+    <tr></tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-001-010/Day-2/">Day-2</a></td> 
         <td>1</td>
@@ -53,6 +54,7 @@
         <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.ipynb">Notebook</a></td>
     </tr> 
+    <tr></tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-001-010/Day-3/">Day-3</a></td> 
         <td>1</td>
@@ -66,6 +68,7 @@
         <td><a href="./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.ipynb">Notebook</a></td>
     </tr> 
+    <tr></tr>
      <tr> 
         <td rowspan="9"><a href="./code-files/Day-001-010/Day-4/">Day-4</a></td> 
         <td>1</td>
@@ -121,6 +124,7 @@
         <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.ipynb">Notebook</a></td>
     </tr> 
+    <tr></tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-001-010/Day-5/">Day-5</a></td> 
         <td>1</td>
