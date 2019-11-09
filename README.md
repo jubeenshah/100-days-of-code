@@ -1,6 +1,27 @@
 # 100-days-of-code
 
-
+<table> 
+    <tr> 
+        <th>Day</th> 
+        <th>Sr.</th>
+        <th>Question</th>
+        <th>Solution(.py)</th>
+        <th>Solution(.ipynb)</th> 
+    </tr> 
+    <tr> 
+        <td rowspan="2">[Day-1](./code-files/Day-001-010/Day-1/)</td> 
+        <td>Question 1</td>
+        <td>[Question](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf)</td>
+        <td>[Python file](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py)</td>
+        <td>[Notebook](./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.ipynb)</td>
+    </tr> 
+    <tr> 
+        <td>Question 2</td>
+        <td>[Question](./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.pdf)</td>
+        <td>[Python file](./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.py)</td>
+        <td>[Notebook](./code-files/Day-001-010/Day-1/Question-2/Day-1-Q2.ipynb)</td>
+    </tr> 
+</table> 
 ## DAY-1
 
 * Question 1 (Sock Merchant)
