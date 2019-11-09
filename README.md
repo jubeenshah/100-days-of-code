@@ -124,7 +124,9 @@
         <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.ipynb">Notebook</a></td>
     </tr> 
-    <tr></tr>
+    <tr>
+        <td></td>
+    </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-001-010/Day-5/">Day-5</a></td> 
         <td>1</td>
