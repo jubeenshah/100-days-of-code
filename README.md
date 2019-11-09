@@ -39,6 +39,19 @@
         <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.ipynb">Notebook</a></td>
     </tr> 
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-2/">Day-1</a></td> 
+        <td>Hourglass Sum</td>
+        <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.ipynb">Notebook</a></td>
+    </tr> 
+    <tr> 
+        <td>Left Rotate</td>
+        <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.pdf">Question</a></td>
+        <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.py">Python File</a></td>
+        <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.ipynb">Notebook</a></td>
+    </tr> 
 </table> 
 ## DAY-1
 
