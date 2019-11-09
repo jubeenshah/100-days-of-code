@@ -77,27 +77,27 @@
         <td><a href="./code-files/Day-001-010/Day-4/Question-4/Day-4-Q4.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td><a href="./code-files/Day-001-010/Day-4/Question-5/question.pdf)">Plus Minus</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-5/question.pdf">Plus Minus</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-5/solution.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-5/solution.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td><a href="./code-files/Day-001-010/Day-4/Question-6/question.pdf)">Staircase</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-6/question.pdf">Staircase</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-6/solution.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-6/solution.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td><a href="./code-files/Day-001-010/Day-4/Question-7/question.pdf)">Mini-Max Sum</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-7/question.pdf">Mini-Max Sum</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-7/solution.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-7/solution.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td><a href="./code-files/Day-001-010/Day-4/Question-8/question.pdf)">Birthday Candles</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-8/question.pdf">Birthday Candles</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-8/solution.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-8/solution.ipynb">Notebook</a></td>
     </tr> 
     <tr> 
-        <td><a href="./code-files/Day-001-010/Day-4/Question-9/question.pdf)">Time Conversion</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-9/question.pdf">Time Conversion</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.py">Python File</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-9/solution.ipynb">Notebook</a></td>
     </tr> 
