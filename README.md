@@ -1,6 +1,6 @@
 # 100 days of code
 
-Total Problems solved till date - **27**
+Total Problems solved till date - **28**
 
 <table> 
     <tr> 
@@ -172,7 +172,7 @@ Total Problems solved till date - **27**
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="7"><a href="./code-files/Day-001-010/Day-6/">Day-6</a></td> 
+        <td rowspan="8"><a href="./code-files/Day-001-010/Day-6/">Day-6</a></td> 
         <td>1</td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-1/question.pdf">Bubble Sort</a></td>
@@ -220,6 +220,13 @@ Total Problems solved till date - **27**
         <td><a href="./code-files/Day-001-010/Day-6/Question-7/question.pdf">Even Odd</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-7/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-7/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+     <tr> 
+        <td>8</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-8/question.pdf">Kangaroo</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-8/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-8/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -346,3 +353,7 @@ Total Problems solved till date - **27**
 * Question 7 (Even Odd)
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-7/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-7/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-7/solution.ipynb)
+
+* Question 8 (Kangaroo 🦘)
+    * Please find the question [here](./code-files/Day-001-010/Day-6/Question-8/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-8/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-8/solution.ipynb)

@@ -34,3 +34,8 @@ Please find the solution [here](./Question-6/solution.py)
 
 Please find the question [here](./Question-7/question.pdf) <br>
 Please find the solution [here](./Question-7/solution.py)
+
+## Question 8 (Kangaroo 🦘)
+
+Please find the question [here](./Question-8/question.pdf) <br>
+Please find the solution [here](./Question-8/solution.py)
