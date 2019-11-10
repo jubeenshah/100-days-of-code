@@ -171,7 +171,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="./code-files/Day-001-010/Day-6/">Day-6</a></td> 
+        <td rowspan="5"><a href="./code-files/Day-001-010/Day-6/">Day-6</a></td> 
         <td>1</td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-1/question.pdf">Bubble Sort</a></td>
@@ -197,7 +197,14 @@
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-4/question.pdf">Grading Students</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-4/solution.py">Solution.py</a></td>
-        <td>NA</td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>5</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-5/question.pdf">Alternating Charachters</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -311,4 +318,8 @@
 
 * Question 4 (🍎 and 🍊 )
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-4/question.pdf)
-    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-4/solution.py)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-4/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-4/solution.ipynb)
+
+* Question 4 (🍎 and 🍊 )
+    * Please find the question [here](./code-files/Day-001-010/Day-6/Question-5/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-5/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-5/solution.ipynb)
