@@ -321,6 +321,6 @@ Total Problems solved till date - **25**
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-4/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-4/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-4/solution.ipynb)
 
-* Question 4 (🍎 and 🍊 )
+* Question 5 (🍎 and 🍊 )
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-5/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-5/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-5/solution.ipynb)
