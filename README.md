@@ -171,7 +171,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-001-010/Day-6/">Day-6</a></td> 
+        <td rowspan="3"><a href="./code-files/Day-001-010/Day-6/">Day-6</a></td> 
         <td>1</td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-1/question.pdf">Bubble Sort</a></td>
