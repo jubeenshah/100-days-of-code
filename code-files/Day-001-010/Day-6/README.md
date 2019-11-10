@@ -10,7 +10,12 @@ Please find the solution [here](./Question-1/solution.py)
 Please find the question [here](./Question-2/question.pdf) <br>
 Please find the solution [here](./Question-2/solution.py)
 
-## Question 2 (Grading Students)
+## Question 3 (Grading Students)
 
 Please find the question [here](./Question-3/question.pdf) <br>
 Please find the solution [here](./Question-3/solution.py)
+
+## Question 4 (Apple and Orange)
+
+Please find the question [here](./Question-4/question.pdf) <br>
+Please find the solution [here](./Question-4/solution.py)
