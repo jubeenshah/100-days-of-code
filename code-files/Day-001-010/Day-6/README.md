@@ -29,3 +29,8 @@ Please find the solution [here](./Question-5/solution.py)
 
 Please find the question [here](./Question-6/question.pdf) <br>
 Please find the solution [here](./Question-6/solution.py)
+
+## Question 7 (Even Odd)
+
+Please find the question [here](./Question-7/question.pdf) <br>
+Please find the solution [here](./Question-7/solution.py)
