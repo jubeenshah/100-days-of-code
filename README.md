@@ -49,7 +49,6 @@ Total Problems solved till date - **28**
         <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-5/Day-1-Q5.ipynb">Solution.ipynb</a></td>
     </tr> 
-   
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-001-010/Day-2/">Day-2</a></td> 
         <td>1</td>
