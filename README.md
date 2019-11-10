@@ -1,6 +1,6 @@
 # 100 days of code
 
-Total Problems solved till date - **25**
+Total Problems solved till date - **26**
 
 <table> 
     <tr> 
@@ -172,7 +172,7 @@ Total Problems solved till date - **25**
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="5"><a href="./code-files/Day-001-010/Day-6/">Day-6</a></td> 
+        <td rowspan="6"><a href="./code-files/Day-001-010/Day-6/">Day-6</a></td> 
         <td>1</td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-1/question.pdf">Bubble Sort</a></td>
@@ -206,6 +206,13 @@ Total Problems solved till date - **25**
         <td><a href="./code-files/Day-001-010/Day-6/Question-5/question.pdf">Alternating Charachters</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-5/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+     <tr> 
+        <td>6</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-6/question.pdf">Flipping Bits</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-6/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-6/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -317,10 +324,14 @@ Total Problems solved till date - **25**
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-3/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-3/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-3/solution.ipynb)
 
-* Question 4 (🍎 and 🍊 )
+* Question 4 (🍎 and 🍊)
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-4/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-4/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-4/solution.ipynb)
 
-* Question 5 (Alternating Charachters )
+* Question 5 (Alternating Charachters)
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-5/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-5/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-5/solution.ipynb)
+
+* Question 6 (Flipping Bits)
+    * Please find the question [here](./code-files/Day-001-010/Day-6/Question-6/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-6/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-6/solution.ipynb)
