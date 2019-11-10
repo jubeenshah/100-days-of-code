@@ -188,9 +188,9 @@
      <tr> 
         <td>3</td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-6/Question-2/question.pdf">Grading Students</a></td>
-        <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-3/question.pdf">Grading Students</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
