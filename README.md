@@ -64,9 +64,6 @@ Total Problems solved till date - **28**
         <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-2/Question-2/Day-2-Q2.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-001-010/Day-3/">Day-3</a></td> 
         <td>1</td>
@@ -82,9 +79,6 @@ Total Problems solved till date - **28**
         <td><a href="./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-3/Question-2/Day-3-Q2.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
      <tr> 
         <td rowspan="9"><a href="./code-files/Day-001-010/Day-4/">Day-4</a></td> 
         <td>1</td>
