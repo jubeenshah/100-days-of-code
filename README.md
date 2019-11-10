@@ -185,6 +185,13 @@
         <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+     <tr> 
+        <td>3</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-2/question.pdf">Grading Students</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -290,3 +297,7 @@
 * Question 2 (Mark and Toys)
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-2/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-2/solution.ipynb)
+
+* Question 3 (Grading Students)
+    * Please find the question [here](./code-files/Day-001-010/Day-6/Question-3/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-3/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-3/solution.ipynb)
