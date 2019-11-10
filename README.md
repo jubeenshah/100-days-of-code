@@ -13,7 +13,7 @@ Total Problems solved till date - **28**
         <th>Notebook</th> 
     </tr> 
     <tr> 
-        <td rowspan="10"><a href="./code-files/Day-001-010/">TEST</a></td> 
+        <td rowspan="50"><a href="./code-files/Day-001-010/">10 Day</a></td> 
         <td rowspan="5"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
         <td>1</td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
