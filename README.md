@@ -1,6 +1,6 @@
 # 100 days of code
 
-Total Problems solved till date - 25
+Total Problems solved till date - **25**
 
 <table> 
     <tr> 
