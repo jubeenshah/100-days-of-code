@@ -4,7 +4,6 @@ Total Problems solved till date - **28**
 
 <table> 
     <tr> 
-        <th>DecDay</th>
         <th>Day</th> 
         <th>Sr.</th>
         <th>Portal</th>
