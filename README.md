@@ -158,7 +158,7 @@
     </tr> 
     <tr> 
         <td>2</td>
-        <td><a href="./code-files/Day-001-010/Day-6/Question-2/question.pdf"></a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-2/question.pdf">Mark and Toys</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -264,6 +264,6 @@
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-1/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-1/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-1/solution.ipynb)
 
-* Question 2 (Two Strings)
+* Question 2 (Mark and Toys)
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-2/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-2/solution.ipynb)
