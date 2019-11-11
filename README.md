@@ -244,7 +244,7 @@ Total Problems solved till date - **28**
     <tr> 
         <td>2</td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-7/Question-2/question.pdf">[EMPTY]]</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-2/question.pdf">Minimum Absolute Difference in Arrays</a></td>
         <td><a href="./code-files/Day-001-010/Day-7/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-7/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -384,6 +384,6 @@ Total Problems solved till date - **28**
     * Please find the question [here](./code-files/Day-001-010/Day-7/Question-1/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-7/Question-1/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-7/Question-1/solution.ipynb)
 
-* Question 2 (Mark and Toys)
+* Question 2 (Minimum Absolute Difference in Arrays)
     * Please find the question [here](./code-files/Day-001-010/Day-7/Question-2/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-7/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-7/Question-2/solution.ipynb)
