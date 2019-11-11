@@ -230,6 +230,24 @@ Total Problems solved till date - **28**
         <td><a href="./code-files/Day-001-010/Day-6/Question-8/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-8/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+     <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-7/">Day-7</a></td> 
+        <td>1</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-1/question.pdf">Making Anagrams</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>2</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-2/question.pdf">[EMPTY]]</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -359,3 +377,13 @@ Total Problems solved till date - **28**
 * Question 8 (Kangaroo 🦘)
     * Please find the question [here](./code-files/Day-001-010/Day-6/Question-8/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-6/Question-8/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-6/Question-8/solution.ipynb)
+
+## Day-7 
+
+* Question 1 (Making Anagrams)
+    * Please find the question [here](./code-files/Day-001-010/Day-7/Question-1/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-7/Question-1/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-7/Question-1/solution.ipynb)
+
+* Question 2 (Mark and Toys)
+    * Please find the question [here](./code-files/Day-001-010/Day-7/Question-2/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-7/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-7/Question-2/solution.ipynb)
