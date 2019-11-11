@@ -1,6 +1,6 @@
 # 100 days of code
 
-Total Problems solved till date - **30**
+Total Problems solved till date - **31**
 
 <table> 
     <tr>
@@ -234,7 +234,7 @@ Total Problems solved till date - **30**
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-001-010/Day-7/">Day-7</a></td> 
+        <td rowspan="3"><a href="./code-files/Day-001-010/Day-7/">Day-7</a></td> 
         <td>1</td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-7/Question-1/question.pdf">Making Anagrams</a></td>
@@ -247,6 +247,13 @@ Total Problems solved till date - **30**
         <td><a href="./code-files/Day-001-010/Day-7/Question-2/question.pdf">Minimum Absolute Difference in Arrays</a></td>
         <td><a href="./code-files/Day-001-010/Day-7/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-7/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+     <tr> 
+        <td>3</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-3/question.pdf">Breaking the Records</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-7/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -387,3 +394,7 @@ Total Problems solved till date - **30**
 * Question 2 (Minimum Absolute Difference in Arrays)
     * Please find the question [here](./code-files/Day-001-010/Day-7/Question-2/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-7/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-7/Question-2/solution.ipynb)
+
+* Question 3 (Breaking the Records)
+    * Please find the question [here](./code-files/Day-001-010/Day-7/Question-3/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-7/Question-3/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-7/Question-3/solution.ipynb)
