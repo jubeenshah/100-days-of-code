@@ -290,6 +290,10 @@ Total Problems solved till date - **35**
 </table> 
 
 
+# Day 001-010
+
+Nov 4, 2019 - Nov 14, 2019
+
 ## DAY-1
 
 * Question 1 (Sock Merchant)
