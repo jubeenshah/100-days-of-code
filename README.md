@@ -281,7 +281,7 @@ Total Problems solved till date - **35**
         <td><a href="./code-files/Day-001-010/Day-8/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>1</td>
+        <td>4</td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-8/Question-4/question.pdf">Migratory Birds</a></td>
         <td><a href="./code-files/Day-001-010/Day-8/Question-4/solution.py">Solution.py</a></td>
