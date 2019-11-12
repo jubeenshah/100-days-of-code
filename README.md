@@ -255,6 +255,31 @@ Total Problems solved till date - **31**
         <td><a href="./code-files/Day-001-010/Day-7/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-7/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+     <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="3"><a href="./code-files/Day-001-010/Day-8/">Day-8</a></td> 
+        <td>1</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-1/question.pdf">Divisible Sum Pairs</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>2</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-2/question.pdf">Minimum Absolute Difference in Arrays</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+     <tr> 
+        <td>3</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-3/question.pdf">Breaking the Records</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -398,3 +423,17 @@ Total Problems solved till date - **31**
 * Question 3 (Breaking the Records)
     * Please find the question [here](./code-files/Day-001-010/Day-7/Question-3/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-7/Question-3/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-7/Question-3/solution.ipynb)
+
+## Day-8 
+
+* Question 1 (Divisible Sum Pairs)
+    * Please find the question [here](./code-files/Day-001-010/Day-8/Question-1/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-8/Question-1/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-8/Question-1/solution.ipynb)
+
+* Question 2 (Minimum Absolute Difference in Arrays)
+    * Please find the question [here](./code-files/Day-001-010/Day-8/Question-2/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-8/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-8/Question-2/solution.ipynb)
+
+* Question 3 (Breaking the Records)
+    * Please find the question [here](./code-files/Day-001-010/Day-8/Question-3/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-8/Question-3/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-8/Question-3/solution.ipynb)
