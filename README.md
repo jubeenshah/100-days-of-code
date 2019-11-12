@@ -1,6 +1,6 @@
 # 100 days of code
 
-Total Problems solved till date - **33**
+Total Problems solved till date - **34**
 
 <table> 
     <tr>
@@ -275,8 +275,8 @@ Total Problems solved till date - **33**
     </tr> 
      <tr> 
         <td>3</td>
-        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-8/Question-3/question.pdf">Breaking the Records</a></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/reverse-integer/">Reverse Integers</a></td>
         <td><a href="./code-files/Day-001-010/Day-8/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-8/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -430,10 +430,10 @@ Total Problems solved till date - **33**
     * Please find the question [here](./code-files/Day-001-010/Day-8/Question-1/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-8/Question-1/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-8/Question-1/solution.ipynb)
 
-* Question 2 (Minimum Absolute Difference in Arrays)
+* Question 2 (Two-Sum)
     * Please find the question [here](https://leetcode.com/problems/two-sum/)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-8/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-8/Question-2/solution.ipynb)
 
-* Question 3 (Breaking the Records)
-    * Please find the question [here](./code-files/Day-001-010/Day-8/Question-3/question.pdf)
+* Question 3 (Reverse Integers)
+    * Please find the question [here](https://leetcode.com/problems/reverse-integer/)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-8/Question-3/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-8/Question-3/solution.ipynb)
