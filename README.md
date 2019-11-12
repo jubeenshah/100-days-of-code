@@ -1,5 +1,10 @@
 # 100 days of code
-
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
+[![Easy](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
+[![Medium](https://img.shields.io/packagecontrol/dw/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
+[![Hard](https://img.shields.io/packagecontrol/dd/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
 Total Problems solved till date - **35**
 
 <table> 
@@ -292,7 +297,7 @@ Total Problems solved till date - **35**
 
 # Day 001-010
 
-Nov 4, 2019 - Nov 14, 2019
+Nov 4, 2019 - Nov 14, 2019 
 
 ## DAY-1
 
