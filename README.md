@@ -1,6 +1,6 @@
 # 100 days of code
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br>
-Total Problems solved till date - **35**
+Total Problems solved till date - **37**
 
 <table> 
     <tr>
@@ -287,6 +287,24 @@ Total Problems solved till date - **35**
         <td><a href="./code-files/Day-001-010/Day-8/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-8/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+     <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-9/">Day-9</a></td> 
+        <td>1</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-9/Question-1/question.pdf">Phone Numbers</a></td>
+        <td><a href="./code-files/Day-001-010/Day-9/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-9/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>2</td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/palindrome-number/">Pallindrome Number</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -452,3 +470,13 @@ Nov 4, 2019 - Nov 14, 2019
 * Question 4 (Migratory Birds)
     * Please find the question [here](./code-files/Day-001-010/Day-8/Question-4/question.pdf)
     * Please find the solution here [[.py]](./code-files/Day-001-010/Day-8/Question-4/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-8/Question-4/solution.ipynb)
+
+## Day-8 
+
+* Question 1 (Phone Numbers)
+    * Please find the question [here](./code-files/Day-001-010/Day-9/Question-1/question.pdf)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-9/Question-1/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-9/Question-1/solution.ipynb)
+
+* Question 2 (Pallindrome Numbers)
+    * Please find the question [here](https://leetcode.com/problems/palindrome-number/)
+    * Please find the solution here [[.py]](./code-files/Day-001-010/Day-9/Question-2/solution.py) [[.ipynb]](./code-files/Day-001-010/Day-9/Question-2/solution.ipynb)
