@@ -15,15 +15,17 @@
         <th>Day</th>  
         <th>Day</th> 
         <th>Sr.</th>
+        <th>Difficulty</th>
         <th>Portal</th>
         <th>Question</th>
         <th>Python File</th>
         <th>Notebook</th> 
     </tr> 
-    <tr bgcolor="#00FF00"> 
+    <tr>
         <td rowspan="50"><a href="./code-files/Day-001-010/">10 Day</a></td> 
         <td rowspan="5"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
         <td>1</td>
+        <td><img src=https://placehold.it/15/f03c15/000000?></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">Sock Merchant</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py">Solution.py</a></td>
