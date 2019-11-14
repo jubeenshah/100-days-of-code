@@ -1,5 +1,5 @@
 # 100 days of code
-[![Python!](https://img.shields.io/static/v1?label=Solved%20with&message=Python&color=blueviolet)](./)
+[![Python!](https://img.shields.io/static/v1?label=Solved%20with&message=Python&color=blueviolet)](#)
 ![NumberOfQuestions](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=blue)
 [![Ask Me Anything !](https://img.shields.io/static/v1?label=Visit&message=Website&color=40E0D0)](http://jubeenshah.com) <br>
 ![Easy](https://img.shields.io/static/v1?label=Easy&message=34&color=success)
