@@ -23,7 +23,7 @@
     </tr> 
     <tr>
         <td rowspan="50"><a href="./code-files/Day-001-010/">10 Day</a></td> 
-        <td rowspan="5"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
+        <td rowspan="5"><a href="./code-files/Day-001-010/Day-1/">1</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -67,7 +67,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-001-010/Day-2/">Day-2</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-2/">2</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -87,7 +87,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-001-010/Day-3/">Day-3</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-3/">3</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -107,7 +107,7 @@
         <td></td>
     </tr>
      <tr> 
-        <td rowspan="9"><a href="./code-files/Day-001-010/Day-4/">Day-4</a></td> 
+        <td rowspan="9"><a href="./code-files/Day-001-010/Day-4/">4</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -183,7 +183,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-001-010/Day-5/">Day-5</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-5/">5</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -203,7 +203,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="8"><a href="./code-files/Day-001-010/Day-6/">Day-6</a></td> 
+        <td rowspan="8"><a href="./code-files/Day-001-010/Day-6/">6</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -271,7 +271,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="3"><a href="./code-files/Day-001-010/Day-7/">Day-7</a></td> 
+        <td rowspan="3"><a href="./code-files/Day-001-010/Day-7/">7</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -299,7 +299,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="./code-files/Day-001-010/Day-8/">Day-8</a></td> 
+        <td rowspan="4"><a href="./code-files/Day-001-010/Day-8/">8</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -335,7 +335,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-001-010/Day-9/">Day-9</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-9/">9</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -355,7 +355,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-001-010/Day-10/">Day-10</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-10/">10</a></td> 
         <td>1</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
