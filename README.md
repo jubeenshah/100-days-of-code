@@ -15,7 +15,7 @@
         <th>Day</th>  
         <th>Day</th> 
         <th>Sr.</th>
-        <th>Difficulty</th>
+        <th>Diff</th>
         <th>Portal</th>
         <th>Question</th>
         <th>Python File</th>
@@ -25,7 +25,7 @@
         <td rowspan="50"><a href="./code-files/Day-001-010/">10 Day</a></td> 
         <td rowspan="5"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
         <td>1</td>
-        <td><img src=https://placehold.it/15/00ff00/></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">Sock Merchant</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py">Solution.py</a></td>
