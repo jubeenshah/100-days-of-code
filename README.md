@@ -3,9 +3,9 @@
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=blue)](#100-days-of-code)
 [![Ask Me Anything !](https://img.shields.io/static/v1?label=Visit&message=Website&color=40E0D0)](http://jubeenshah.com) 
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)<br>
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=34&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=3&color=yellow)](#100-days-of-code)
-[![Hard !](https://img.shields.io/static/v1?label=Hard&message=1&color=red)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=36&color=success)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=2&color=yellow)](#100-days-of-code)
+[![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
 
 
 
@@ -89,7 +89,7 @@
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-001-010/Day-3/">3</a></td> 
         <td>1</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-3/Question-1/Day-3-Q1.pdf">New Year Chaos</a></td>
         <td><a href="./code-files/Day-001-010/Day-3/Question-1/Day-3-Q1.py">Solution.py</a></td>
