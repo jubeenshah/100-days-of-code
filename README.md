@@ -1,6 +1,6 @@
 # 100 days of code
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
-![test](https://img.shields.io/static/v1?label=QuestionsSolved&message=38&color=success)
+![Python](https://img.shields.io/static/v1?label=Questions Solved&message=38&color=success)
+![NumberOfQuestions](https://img.shields.io/static/v1?label=QuestionsSolved&message=38&color=success)
 
 <table> 
     <tr>
