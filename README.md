@@ -1,6 +1,9 @@
 # 100 days of code
-![Python](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=success)
-![NumberOfQuestions](https://img.shields.io/static/v1?label=QuestionsSolved&message=38&color=success)
+![Python](https://img.shields.io/static/v1?label=Solved%20with&message=Python&color=blueviolet)
+![NumberOfQuestions](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=success)
+![Easy](https://img.shields.io/static/v1?label=Easy&message=Python&color=success)
+![Medium](https://img.shields.io/static/v1?label=Medium&message=38&color=yellow)
+![Hard](https://img.shields.io/static/v1?label=Hard&message=0&color=red)
 
 <table> 
     <tr>
