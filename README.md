@@ -1,6 +1,6 @@
 # 100 days of code
-[![Python!](https://img.shields.io/static/v1?label=Solved%20with&message=Python&color=blueviolet)](#)
-![NumberOfQuestions](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=blue)
+[![Python!](https://img.shields.io/static/v1?label=Solved%20with&message=Python&color=blueviolet)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=blue)](#100-days-of-code)
 [![Ask Me Anything !](https://img.shields.io/static/v1?label=Visit&message=Website&color=40E0D0)](http://jubeenshah.com) <br>
 ![Easy](https://img.shields.io/static/v1?label=Easy&message=34&color=success)
 ![Medium](https://img.shields.io/static/v1?label=Medium&message=3&color=yellow)
