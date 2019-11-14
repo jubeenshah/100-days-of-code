@@ -25,7 +25,7 @@
         <td rowspan="50"><a href="./code-files/Day-001-010/">10 Day</a></td> 
         <td rowspan="5"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
         <td>1</td>
-        <td><img src=https://placehold.it/15/00ff00/000000?></td>
+        <td><img src=https://placehold.it/15/00ff00/></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">Sock Merchant</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py">Solution.py</a></td>
