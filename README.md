@@ -305,6 +305,24 @@ Total Problems solved till date - **37**
         <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+     <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-001-010/Day-10/">Day-10</a></td> 
+        <td>1</td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-001-010/Day-10/Question-1/question.pdf">Triple Sum</a></td>
+        <td><a href="./code-files/Day-001-010/Day-10/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-10/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>2</td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/palindrome-number/">Pallindrome Number</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -377,3 +395,8 @@ Nov 4, 2019 - Nov 14, 2019
 
 * Question 1 (Phone Numbers) - Please find the question [here](./code-files/Day-001-010/Day-9/Question-1/question.pdf)
 * Question 2 (Pallindrome Numbers) - Please find the question [here](https://leetcode.com/problems/palindrome-number/)
+
+## Day-10
+
+* Question 1 (Triple Sum) - Please find the question [here](./code-files/Day-001-010/Day-10/Question-1/question.pdf)
+* Question 2 (EMPTY) - Please find the question [here](https://leetcode.com/problems/palindrome-number/)
