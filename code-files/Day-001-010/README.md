@@ -174,6 +174,6 @@
     * Please find the question [here](./Day-10/Question-1/question.pdf)
     * Please find the solution here [[.py]](./Day-10/Question-1/solution.py) [[.ipynb]](./Day-10/Question-1/solution.ipynb)
 
-* Question 2 (EMPTY)
-    * Please find the question [here](https://leetcode.com/problems/palindrome-number/)
-    * Please find the solution here [[.py]](./Day-9/Question-2/solution.py) [[.ipynb]](./Day-9/Question-2/solution.ipynb)
+* Question 2 (Roman to Integer)
+    * Please find the question [here](https://leetcode.com/problems/roman-to-integer/)
+    * Please find the solution here [[.py]](./Day-10/Question-2/solution.py) [[.ipynb]](./Day-10/Question-2/solution.ipynb)

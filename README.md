@@ -3,8 +3,8 @@
 [![Ask Me Anything !](https://img.shields.io/static/v1?label=Visit&message=Website&color=40E0D0)](http://jubeenshah.com) 
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)<br>
 
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=36&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=39&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=37&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=2&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
 
@@ -349,8 +349,8 @@
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/palindrome-number/">Pallindrome Number</a></td>
-        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-001-010/Day-9/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-9/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
      <tr>
         <td></td>
@@ -368,9 +368,9 @@
         <td>2</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/palindrome-number/">Pallindrome Number</a></td>
-        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-001-010/Day-8/Question-2/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="https://leetcode.com/problems/roman-to-integer/">Roman to Integer</a></td>
+        <td><a href="./code-files/Day-001-010/Day-10/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-001-010/Day-10/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -448,4 +448,4 @@ Nov 4, 2019 - Nov 14, 2019
 ## Day-10
 
 * Question 1 (Triple Sum) - Please find the question [here](./code-files/Day-001-010/Day-10/Question-1/question.pdf)
-* Question 2 (EMPTY) - Please find the question [here](https://leetcode.com/problems/palindrome-number/)
+* Question 2 (Roman to Integer) - Please find the question [here](https://leetcode.com/problems/roman-to-integer/)
