@@ -12,7 +12,7 @@
 
 <table> 
     <tr>
-        <th>Day</th>  
+        <th>Span</th>  
         <th>Day</th> 
         <th>Sr.</th>
         <th>Diff</th>
@@ -357,7 +357,7 @@
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-001-010/Day-10/">Day-10</a></td> 
         <td>1</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-001-010/Day-10/Question-1/question.pdf">Triple Sum</a></td>
         <td><a href="./code-files/Day-001-010/Day-10/Question-1/solution.py">Solution.py</a></td>
