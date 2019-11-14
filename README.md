@@ -1,5 +1,5 @@
 # 100 days of code
-![Python](https://img.shields.io/static/v1?label=Questions_Solved&message=38&color=success)
+![Python](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=success)
 ![NumberOfQuestions](https://img.shields.io/static/v1?label=QuestionsSolved&message=38&color=success)
 
 <table> 
