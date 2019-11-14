@@ -172,7 +172,7 @@
 
 * Question 1 (Triple Sum)
     * Please find the question [here](./Day-10/Question-1/question.pdf)
-    * Please find the solution here [[.py]](./Day-10/Question-1/solution.py) [[.ipynb]](./Day-9/Question-10/solution.ipynb)
+    * Please find the solution here [[.py]](./Day-10/Question-1/solution.py) [[.ipynb]](./Day-10/Question-1/solution.ipynb)
 
 * Question 2 (EMPTY)
     * Please find the question [here](https://leetcode.com/problems/palindrome-number/)
