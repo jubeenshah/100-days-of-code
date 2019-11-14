@@ -20,7 +20,7 @@
         <th>Python File</th>
         <th>Notebook</th> 
     </tr> 
-    <tr> 
+    <tr bgcolor="#00FF00"> 
         <td rowspan="50"><a href="./code-files/Day-001-010/">10 Day</a></td> 
         <td rowspan="5"><a href="./code-files/Day-001-010/Day-1/">Day-1</a></td> 
         <td>1</td>
