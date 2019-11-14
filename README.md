@@ -1,5 +1,6 @@
 # 100 days of code
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br>
+![https://img.shields.io/static/v1?label=Questions-Solved&message=MESSAGE&color=success](test)
 Total Problems solved till date - **37**
 
 <table> 
