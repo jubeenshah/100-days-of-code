@@ -1,10 +1,11 @@
 # 100 days of code
 ![Python](https://img.shields.io/static/v1?label=Solved%20with&message=Python&color=blueviolet)
-![NumberOfQuestions](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=blue)<br>
+![NumberOfQuestions](https://img.shields.io/static/v1?label=Questions%20Solved&message=38&color=blue)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](http://jubeenshah.com) <br>
 ![Easy](https://img.shields.io/static/v1?label=Easy&message=34&color=success)
 ![Medium](https://img.shields.io/static/v1?label=Medium&message=3&color=yellow)
 ![Hard](https://img.shields.io/static/v1?label=Hard&message=1&color=red)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
 
 <table> 
     <tr>
