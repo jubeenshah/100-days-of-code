@@ -8,9 +8,6 @@
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=2&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
 
-
-
-
 <table> 
     <tr>
         <th>Span</th>  
