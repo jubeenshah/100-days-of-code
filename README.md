@@ -372,6 +372,27 @@
         <td><a href="./code-files/Day-001-010/Day-10/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-10/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+     <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="50"><a href="./code-files/Day-011-020/">20 Day</a></td>
+        <td rowspan="3"><a href="./code-files/Day-011-020/Day-11/">11</a></td> 
+        <td>40</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-11/Question-1/question.pdf">Binary Count</a></td>
+        <td><a href="./code-files/Day-011-020/Day-11/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-11/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>41</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/longest-common-prefix/">Longest Common Prefix</a></td>
+        <td><a href="./code-files/Day-011-020/Day-11/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-11/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
