@@ -487,4 +487,4 @@ Nov 15, 2019 - Nov 25, 2019
 
 * Question 1 (Binary Count)- Please find the question [here](./code-files/Day-011-020/Day-1/Question-1/Day-1-Q1.pdf)
 * Question 2 (Longest Common Prefix)- Please find the question [here](https://leetcode.com/problems/longest-common-prefix/)
-* Question 3 (Jumping on Clouds)- Please find the question [here](https://leetcode.com/problems/valid-parentheses)
+* Question 3 (Valid Parantheses)- Please find the question [here](https://leetcode.com/problems/valid-parentheses)
