@@ -3,8 +3,8 @@
 [![Ask Me Anything !](https://img.shields.io/static/v1?label=Visit&message=Website&color=40E0D0)](http://jubeenshah.com) 
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)<br>
 
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=41&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=39&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=42&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=40&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=2&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
 
@@ -393,6 +393,14 @@
         <td><a href="./code-files/Day-011-020/Day-11/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-11/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+    <tr> 
+        <td>42</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/valid-parentheses">Valid Parantheses</a></td>
+        <td><a href="./code-files/Day-011-020/Day-11/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-11/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -475,8 +483,8 @@ Nov 4, 2019 - Nov 14, 2019
 
 Nov 15, 2019 - Nov 25, 2019 
 
-## DAY-1
+## DAY-11
 
 * Question 1 (Binary Count)- Please find the question [here](./code-files/Day-011-020/Day-1/Question-1/Day-1-Q1.pdf)
 * Question 2 (Longest Common Prefix)- Please find the question [here](https://leetcode.com/problems/longest-common-prefix/)
-* Question 3 (Jumping on Clouds)- Please find the question [here](./code-files/Day-011-020/Day-1/Question-3/Day-1-Q3.pdf)
+* Question 3 (Jumping on Clouds)- Please find the question [here](https://leetcode.com/problems/valid-parentheses)
