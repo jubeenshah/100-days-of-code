@@ -403,7 +403,7 @@
         <td>43</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <<td><a href="./code-files/Day-011-020/Day-11/Question-4/question.pdf">Programmer's Day</a></td>
+        <td><a href="./code-files/Day-011-020/Day-11/Question-4/question.pdf">Programmer's Day</a></td>
         <td><a href="./code-files/Day-011-020/Day-11/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-11/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
