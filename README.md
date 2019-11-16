@@ -423,9 +423,9 @@
         <td>45</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/longest-common-prefix/">Longest Common Prefix</a></td>
+        <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Merge Sorted List</a></td>
         <td><a href="./code-files/Day-011-020/Day-12/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-011-020/Day-12/Question-2/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-011-020/Day-12/Question-2/solution.py">NA</a></td>
     </tr> 
 </table> 
 
@@ -519,4 +519,4 @@ Nov 15, 2019 - Nov 25, 2019
 ## DAY-12
 
 * Question 1 (Luck Balance)- Please find the question [here](./code-files/Day-011-020/Day-12/Question-1/question.pdf)
-* Question 2 (Longest Common Prefix)- Please find the question [here](https://leetcode.com/problems/longest-common-prefix/)
+* Question 2 (Merge Sorted List)- Please find the question [here](https://leetcode.com/problems/merge-two-sorted-lists/)

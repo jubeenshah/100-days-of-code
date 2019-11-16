@@ -23,6 +23,6 @@
     * Please find the question [here](./Day-12/Question-1/question.pdf)
     * Please find the solution here [[.py]](./Day-12/Question-1/solution.py) [[.ipynb]](./Day-12/Question-1/solution.ipynb)
 
-* Question 2 (Longest Common Prefix)
-    * Please find the question [here](https://leetcode.com/problems/longest-common-prefix/)
-    * Please find the solution here [[.py]](/Day-12/Question-2/solution.py) [[.ipynb]](./Day-12/Question-2/solution.ipynb)
+* Question 2 (Merge Sorted List)
+    * Please find the question [here](https://leetcode.com/problems/merge-two-sorted-lists/)
+    * Please find the solution here [[.py]](/Day-12/Question-2/solution.py)
