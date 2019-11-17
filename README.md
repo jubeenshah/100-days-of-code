@@ -435,7 +435,7 @@
         <td>46</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-011-020/Day-13/Question-1/question.pdf"></a>Bon Apetit</td>
+        <td><a href="./code-files/Day-011-020/Day-13/Question-1/question.pdf">Bon Apetit</a></td>
         <td><a href="./code-files/Day-011-020/Day-13/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-13/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
