@@ -35,6 +35,11 @@
 
 * Question 2 (Remove duplicates)
     * Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-    * Please find the solution here [[.py]](./Day-13/Question-2/solution.py)
+    * Please find the solution here [[.py]](./Day-13/Question-2/solution.py) [[.ipynb]](./Day-13/Question-2/solution.ipynb)
+
+* Question 3 (Remove Value)
+    * Please find the question [here](https://leetcode.com/problems/remove-element/submissions/)
+    * Please find the solution here [[.py]](./Day-13/Question-3/solution.py) [[.ipynb]](./Day-13/Question-3/solution.ipynb)
+
 
 
