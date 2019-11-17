@@ -6,4 +6,4 @@
 
 * Question 2 (Remove Duplicates)
     * Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-    * Please find the solution here [[.py]](./Question-2/solution.py)
+    * Please find the solution here [[.py]](./Question-2/solution.py) [[.ipynb]](./Day-13/Question-2/solution.ipynb)
