@@ -445,7 +445,7 @@
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Remove Duplicates</a></td>
         <td><a href="./code-files/Day-011-020/Day-13/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-011-020/Day-13/Question-2/solution.py">NA</a></td>
+        <td><a href="./code-files/Day-011-020/Day-13/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
