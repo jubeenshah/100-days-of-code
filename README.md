@@ -8,7 +8,7 @@
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=46&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=3&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
-
+<iframe src="https://hackerrank-badge.herokuapp.com/jnshah2" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 <table> 
     <tr>
         <th>Span</th>  
