@@ -41,5 +41,7 @@
     * Please find the question [here](https://leetcode.com/problems/remove-element/submissions/)
     * Please find the solution here [[.py]](./Day-13/Question-3/solution.py) [[.ipynb]](./Day-13/Question-3/solution.ipynb)
 
-
+* Question 4 (Number of Pairs)
+    * Please find the question [here](./Day-13/Question-4/question.pdf)
+    * Please find the solution here [[.py]](./Day-13/Question-4/solution.py) [[.ipynb]](./Day-13/Question-4/solution.ipynb)
 

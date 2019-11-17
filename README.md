@@ -4,9 +4,9 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=48&color=blue)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=49&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=46&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=2&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=3&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
 
 <table> 
@@ -431,7 +431,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="3"><a href="./code-files/Day-011-020/Day-13/">13</a></td> 
+        <td rowspan="4"><a href="./code-files/Day-011-020/Day-13/">13</a></td> 
         <td>46</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -454,6 +454,14 @@
         <td><a href="https://leetcode.com/problems/remove-element/">Remove Value</a></td>
         <td><a href="./code-files/Day-011-020/Day-13/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-13/Question-3/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>49</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-13/Question-4/question.pdf">Number of Pairs</a></td>
+        <td><a href="./code-files/Day-011-020/Day-13/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-13/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -554,4 +562,5 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 1 (Bon Apetit) - Please find the question [here](./Question-1/question.pdf)
 * Question 2 (Remove Duplicates) - Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * Question 3 (Remove Value)- Please find the question [here](https://leetcode.com/problems/remove-element/)
+* Question 4 (Number of Pairs)- Please find the question [here](./Question-4/question.pdf)
     
