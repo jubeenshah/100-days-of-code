@@ -6,7 +6,7 @@
 
 * Question 2 (Abstract Class)
     * Please find the question [here](./Question-2/question.pdf)
-    * Please find the solution here [[.py]](./Question-2/solution.py) [[.ipynb]](./Question-2solution.ipynb)
+    * Please find the solution here [[.py]](./Question-2/solution.py) [[.ipynb]](./Question-2/solution.ipynb)
 
 * Question 3 (Implement strStr())
     * Please find the question [here](https://leetcode.com/problems/implement-strstr)
