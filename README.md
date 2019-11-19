@@ -4,12 +4,12 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=53&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=50&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=56&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=52&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=3&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-42-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-11-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-43-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-13-orange)](#100-days-of-code)
 
 
 <table> 
@@ -502,6 +502,34 @@
         <td><a href="./code-files/Day-011-020/Day-14/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-14/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="3"><a href="./code-files/Day-011-020/Day-15/">15</a></td> 
+        <td>54</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-15/Question-1/question.pdf">Scope</a></td>
+        <td><a href="./code-files/Day-011-020/Day-15/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-15/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>55</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/count-and-say/">Count and Say</a></td>
+        <td><a href="./code-files/Day-011-020/Day-15/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-15/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>56</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-subarray">Maximum Subarray</a></td>
+        <td><a href="./code-files/Day-011-020/Day-15/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-15/Question-3/solution.py">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -610,4 +638,8 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 3 (Implement strStr()) - Please find the question [here](https://leetcode.com/problems/implement-strstr)
 * Question 4 (Search Insert Position) - Please find the question [here](https://leetcode.com/problems/search-insert-position/)
 
-    
+# DAY-15
+
+* Question 1 (Scope)- Please find the question [here](./Day-15/Question-1/question.pdf)
+* Question 2 (Count and Say)- Please find the question [here](https://leetcode.com/problems/count-and-say/)
+* Question 3 (Maximum Subarray)- Please find the question [here](https://leetcode.com/problems/maximum-subarray)   
