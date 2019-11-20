@@ -83,3 +83,7 @@
 * Question 1 (Drawing 📚 )
     * Please find the question [here](./Day-16/Question-1/question.pdf)
     * Please find the solution here [[.py]](./Day-16/Question-1/solution.py) [[.ipynb]](./Day-16/Question-1/solution.ipynb)
+
+* Question 2 (Electronics Shop)
+    * Please find the question [here](./Day-16/Question-2/question.pdf)
+    * Please find the solution here [[.py]](./Day-16/Question-2/solution.py) [[.ipynb]](./Day-16/Question-2/solution.ipynb)
