@@ -530,6 +530,18 @@
         <td><a href="./code-files/Day-011-020/Day-15/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-15/Question-3/solution.py">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="3"><a href="./code-files/Day-011-020/Day-16/">16</a></td> 
+        <td>55</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-16/Question-1/question.pdf">Drawing 📚 </a></td>
+        <td><a href="./code-files/Day-011-020/Day-16/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-16/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -642,4 +654,8 @@ Nov 15, 2019 - Nov 25, 2019
 
 * Question 1 (Scope)- Please find the question [here](./Day-15/Question-1/question.pdf)
 * Question 2 (Count and Say)- Please find the question [here](https://leetcode.com/problems/count-and-say/)
-* Question 3 (Maximum Subarray)- Please find the question [here](https://leetcode.com/problems/maximum-subarray)   
+* Question 3 (Maximum Subarray)- Please find the question [here](https://leetcode.com/problems/maximum-subarray)
+
+# DAY-16
+
+* Question 1 (Drawing 📚 ) - Please find the question [here](./Day-16/Question-1/question.pdf)

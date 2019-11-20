@@ -76,4 +76,10 @@
 
 * Question 3 (Maximum Subarray)
     * Please find the question [here](https://leetcode.com/problems/maximum-subarray)
-    * Please find the solution here [[.py]](./Day-15Question-3/solution.py) [[.ipynb]](./Day-15Question-3/solution.ipynb)
+    * Please find the solution here [[.py]](./Day-15/Question-3/solution.py) [[.ipynb]](./Day-15/Question-3/solution.ipynb)
+
+# DAY-16
+
+* Question 1 (Drawing 📚 )
+    * Please find the question [here](./Day-16/Question-1/question.pdf)
+    * Please find the solution here [[.py]](./Day-16/Question-1/solution.py) [[.ipynb]](./Day-16/Question-1/solution.ipynb)
