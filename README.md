@@ -4,12 +4,12 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=58&color=blue)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=59&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=55&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=3&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-45-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-13-orange)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-14-orange)](#100-days-of-code)
 
 
 <table> 
@@ -550,6 +550,14 @@
         <td><a href="./code-files/Day-011-020/Day-16/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-16/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
+    <tr> 
+        <td>59</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/length-of-last-word">Length of Last Word</a></td>
+        <td><a href="./code-files/Day-011-020/Day-16/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-16/Question-3/solution.py">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -667,4 +675,5 @@ Nov 15, 2019 - Nov 25, 2019
 # DAY-16
 
 * Question 1 (Drawing 📚 ) - Please find the question [here](./Day-16/Question-1/question.pdf)
-* Question 2 (Electronics Shop ) - Please find the question [here](./Day-16/Question-2/question.pdf)
+* Question 2 (Electronics Shop) - Please find the question [here](./Day-16/Question-2/question.pdf)
+* Question 2 (Length of Last Word) - Please find the question [here](https://leetcode.com/problems/length-of-last-word)
