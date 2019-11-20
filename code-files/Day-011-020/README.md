@@ -92,6 +92,10 @@
     * Please find the question [here](https://leetcode.com/problems/length-of-last-word)
     * Please find the solution here [[.py]](./Day-16/Question-3/solution.py) [[.ipynb]](./Day-16/Question-3/solution.ipynb)
 
+* Question 4 (Plus One)
+    * Please find the question [here](https://leetcode.com/problems/plus-one/)
+    * Please find the solution here [[.py]](./Day-16/Question-4/solution.py) [[.ipynb]](./Day-16/Question-4/solution.ipynb)
+
 
 
     
