@@ -102,7 +102,7 @@
     * Please find the question [here](./Day-17/Question-1/question.pdf)
     * Please find the solution here [[.py]](./Day-17/Question-1/solution.py) [[.ipynb]](./Day-17/Question-1/solution.ipynb)
 
-* Question 2 (Electronics Shop )
+* Question 2 (Cats and Mouse)
     * Please find the question [here](./Day-17/Question-2/question.pdf)
     * Please find the solution here [[.py]](./Day-17/Question-2/solution.py) [[.ipynb]](./Day-17/Question-2/solution.ipynb)
 
