@@ -106,8 +106,8 @@
     * Please find the question [here](./Day-17/Question-2/question.pdf)
     * Please find the solution here [[.py]](./Day-17/Question-2/solution.py) [[.ipynb]](./Day-17/Question-2/solution.ipynb)
 
-* Question 3 (Length of Last Word)
-    * Please find the question [here](https://leetcode.com/problems/length-of-last-word)
+* Question 3 (Add Binary)
+    * Please find the question [here](https://leetcode.com/problems/add-binary/)
     * Please find the solution here [[.py]](./Day-17/Question-3/solution.py) [[.ipynb]](./Day-17/Question-3/solution.ipynb)
 
 * Question 4 (Plus ☝️)
