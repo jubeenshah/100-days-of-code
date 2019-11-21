@@ -566,6 +566,42 @@
         <td><a href="./code-files/Day-011-020/Day-16/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-16/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="4"><a href="./code-files/Day-011-020/Day-17/">17</a></td> 
+        <td>61</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-1/question.pdf">is Leap Year</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>62</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-2/question.pdf">Electronics Shop</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>63</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/length-of-last-word">Length of Last Word</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-3/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>64</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/plus-one/">Plus ☝️</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-4/solution.py">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -686,3 +722,13 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 2 (Electronics Shop) - Please find the question [here](./Day-16/Question-2/question.pdf)
 * Question 3 (Length of Last Word) - Please find the question [here](https://leetcode.com/problems/length-of-last-word)
 * Question 4 (Plus ☝️) - Please find the question [here](https://leetcode.com/problems/plus-one/)
+
+# DAY-17
+
+* Question 1 (is Leap Year) - Please find the question [here](./Question-1/question.pdf)
+* Question 2 (Electronics Shop ) - Please find the question [here](./Question-2/question.pdf)
+* Question 3 (Length of Last Word) - Please find the question [here](https://leetcode.com/problems/length-of-last-word)
+* Question 4 (Plus ☝️) - Please find the question [here](https://leetcode.com/problems/plus-one/)
+
+
+    
