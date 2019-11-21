@@ -12,8 +12,8 @@
     * Please find the question [here](https://leetcode.com/problems/add-binary/)
     * Please find the solution here [[.py]](./Question-3/solution.py) [[.ipynb]](./Question-3/solution.ipynb)
 
-* Question 4 (Plus ☝️)
-    * Please find the question [here](https://leetcode.com/problems/plus-one/)
+* Question 4 (Square Root)
+    * Please find the question [here](https://leetcode.com/problems/sqrtx/)
     * Please find the solution here [[.py]](./Question-4/solution.py) [[.ipynb]](./Question-4/solution.ipynb)
 
 
