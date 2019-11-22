@@ -618,7 +618,7 @@
         <td>66</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-011-020/Day-18/Question-2/question.pdf">Cats and Mouse</a></td>
+        <td><a href="./code-files/Day-011-020/Day-18/Question-2/question.pdf">Stacks and Queues</a></td>
         <td><a href="./code-files/Day-011-020/Day-18/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-18/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -769,6 +769,6 @@ Nov 15, 2019 - Nov 25, 2019
 # DAY-18
 
 * Question 1 (More Exceptions)- Please find the question [here](./Day-18/Question-1/question.pdf)
-* Question 2 (Cats and Mouse)- Please find the question [here](./Day-18/Question-2/question.pdf)
+* Question 2 (Stacks and Queues)- Please find the question [here](./Day-18/Question-2/question.pdf)
 * Question 3 (Add Binary)- Please find the question [here](https://leetcode.com/problems/add-binary/)
 * Question 4 (Square Root)- Please find the question [here](https://leetcode.com/problems/sqrtx/)

@@ -121,7 +121,7 @@
     * Please find the question [here](./Day-18/Question-1/question.pdf)
     * Please find the solution here [[.py]](./Day-18/Question-1/solution.py) [[.ipynb]](./Day-18/Question-1/solution.ipynb)
 
-* Question 2 (Cats and Mouse)
+* Question 2 (Stacks and Queues)
     * Please find the question [here](./Day-18/Question-2/question.pdf)
     * Please find the solution here [[.py]](./Day-18/Question-2/solution.py) [[.ipynb]](./Day-18/Question-2/solution.ipynb)
 
