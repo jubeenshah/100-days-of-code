@@ -626,7 +626,7 @@
         <td>67</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/add-binary/">Add Binary</a></td>
+        <td><a href="https://leetcode.com/problems/climbing-stairs/">Climbing Stairs</a></td>
         <td><a href="./code-files/Day-011-020/Day-18/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-18/Question-3/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -770,5 +770,5 @@ Nov 15, 2019 - Nov 25, 2019
 
 * Question 1 (More Exceptions)- Please find the question [here](./Day-18/Question-1/question.pdf)
 * Question 2 (Stacks and Queues)- Please find the question [here](./Day-18/Question-2/question.pdf)
-* Question 3 (Add Binary)- Please find the question [here](https://leetcode.com/problems/add-binary/)
+* Question 3 (Climbing Stairs)- Please find the question [here](https://leetcode.com/problems/climbing-stairs/)
 * Question 4 (Square Root)- Please find the question [here](https://leetcode.com/problems/sqrtx/)

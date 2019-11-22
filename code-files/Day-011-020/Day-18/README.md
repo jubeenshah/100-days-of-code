@@ -8,8 +8,8 @@
     * Please find the question [here](./Question-2/question.pdf)
     * Please find the solution here [[.py]](./Question-2/solution.py) [[.ipynb]](./Question-2/solution.ipynb)
 
-* Question 3 (Add Binary)
-    * Please find the question [here](https://leetcode.com/problems/add-binary/)
+* Question 3 (Climbing Stairs)
+    * Please find the question [here](https://leetcode.com/problems/climbing-stairs/)
     * Please find the solution here [[.py]](./Question-3/solution.py) [[.ipynb]](./Question-3/solution.ipynb)
 
 * Question 4 (Square Root)
