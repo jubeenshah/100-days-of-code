@@ -15,7 +15,3 @@
 * Question 4 (Square Root)
     * Please find the question [here](https://leetcode.com/problems/sqrtx/)
     * Please find the solution here [[.py]](./Question-4/solution.py) [[.ipynb]](./Question-4/solution.ipynb)
-
-
-
-    
