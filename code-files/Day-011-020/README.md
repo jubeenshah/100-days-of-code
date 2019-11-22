@@ -117,7 +117,7 @@
 
 # DAY-18
 
-* Question 1 (is Leap Year)
+* Question 1 (More Exceptions)
     * Please find the question [here](./Day-18/Question-1/question.pdf)
     * Please find the solution here [[.py]](./Day-18/Question-1/solution.py) [[.ipynb]](./Day-18/Question-1/solution.ipynb)
 
