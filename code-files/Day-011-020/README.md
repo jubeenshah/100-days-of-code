@@ -129,6 +129,6 @@
     * Please find the question [here](https://leetcode.com/problems/climbing-stairs/)
     * Please find the solution here [[.py]](./Day-18/Question-3/solution.py) [[.ipynb]](./Day-18/Question-3/solution.ipynb)
 
-* Question 4 (Square Root)
-    * Please find the question [here](https://leetcode.com/problems/sqrtx/)
+* Question 4 (deleteDuplicates)
+    * Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
     * Please find the solution here [[.py]](./Day-18/Question-4/solution.py) [[.ipynb]](./Day-18/Question-4/solution.ipynb)
