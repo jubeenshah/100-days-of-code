@@ -148,8 +148,8 @@
     * Please find the question [here](https://leetcode.com/problems/merge-sorted-array)
     * Please find the solution here [[.py]](./Day-19/Question-3/solution.py) [[.ipynb]](./Day-19/Question-3/solution.ipynb)
 
-* Question 4 ()
-    * Please find the question [here]()
+* Question 4 (Same 🌳)
+    * Please find the question [here](https://leetcode.com/problems/same-tree/)
     * Please find the solution here [[.py]](./Day-19/Question-4/solution.py) [[.ipynb]](./Day-19/Question-4/solution.ipynb)
 
 * Question 5 (Forming Magic Squares)
