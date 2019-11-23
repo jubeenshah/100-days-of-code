@@ -151,3 +151,7 @@
 * Question 4 ()
     * Please find the question [here]()
     * Please find the solution here [[.py]](./Day-19/Question-4/solution.py) [[.ipynb]](./Day-19/Question-4/solution.ipynb)
+
+* Question 5 (Forming Magic Squares)
+    * Please find the question [here](./Day-19/Question-5/question.pdf)
+    * Please find the solution here [[.py]](./Day-19/Question-5/solution.py) [[.ipynb]](./Day-19/Question-5/solution.ipynb)

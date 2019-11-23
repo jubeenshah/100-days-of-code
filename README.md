@@ -4,11 +4,11 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=72&color=blue)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=73&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=68&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=4&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=5&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-51-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-52-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-21-orange)](#100-days-of-code)
 
 
@@ -642,7 +642,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="./code-files/Day-011-020/Day-19/">19</a></td> 
+        <td rowspan="5"><a href="./code-files/Day-011-020/Day-19/">19</a></td> 
         <td>69</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -673,6 +673,14 @@
         <td><a href="https://leetcode.com/problems/"></a></td>
         <td><a href="./code-files/Day-011-020/Day-19/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-19/Question-4/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>73</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-5/question.pdf">Form Magic Squares</a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-5/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -816,3 +824,4 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 2 (findRunnersUp)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-2/question.pdf)
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here]()
+* Question 5 (Forming Magic Squares)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-5/question.pdf)
