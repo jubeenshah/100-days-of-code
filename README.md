@@ -662,7 +662,7 @@
         <td>71</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems//"></a></td>
+        <td><a href="https://leetcode.com/problems/merge-sorted-array">Merge Sorted Array</a></td>
         <td><a href="./code-files/Day-011-020/Day-19/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-19/Question-3/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -670,7 +670,7 @@
         <td>72</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/merge-sorted-array">Merge Sorted Array</a></td>
+        <td><a href="https://leetcode.com/problems//"></a></td>
         <td><a href="./code-files/Day-011-020/Day-19/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-19/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
