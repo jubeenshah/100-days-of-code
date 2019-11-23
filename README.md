@@ -4,12 +4,12 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=68&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=64&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=72&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=68&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=4&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-49-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-19-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-51-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-21-orange)](#100-days-of-code)
 
 
 <table> 
@@ -638,6 +638,42 @@
         <td><a href="./code-files/Day-011-020/Day-18/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-18/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="4"><a href="./code-files/Day-011-020/Day-19/">19</a></td> 
+        <td>69</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-1/question.pdf"></a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>70</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-2/question.pdf"></a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>71</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems//"></a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-3/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>72</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/"></a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-19/Question-4/solution.py">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -734,41 +770,49 @@ Nov 15, 2019 - Nov 25, 2019
 
 ## DAY-13
 
-* Question 1 (Bon Apetit) - Please find the question [here](./Question-1/question.pdf)
+* Question 1 (Bon Apetit) - Please find the question [here](./code-files/Day-011-020/Day-13/Question-1/question.pdf)
 * Question 2 (Remove Duplicates) - Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 * Question 3 (Remove Value)- Please find the question [here](https://leetcode.com/problems/remove-element/)
-* Question 4 (Number of Pairs)- Please find the question [here](./Question-4/question.pdf)
+* Question 4 (Number of Pairs)- Please find the question [here](./code-files/Day-011-020/Day-13/Question-4/question.pdf)
 
 # DAY-14
 
-* Question 1 (Inheritance) - Please find the question [here](./Question-1/question.pdf)
-* Question 2 (Abstract Class) - Please find the question [here](./Question-2/question.pdf)
+* Question 1 (Inheritance) - Please find the question [here](./code-files/Day-011-020/Day-14/Question-1/question.pdf)
+* Question 2 (Abstract Class) - Please find the question [here](./code-files/Day-011-020/Day-14/Question-2/question.pdf)
 * Question 3 (Implement strStr()) - Please find the question [here](https://leetcode.com/problems/implement-strstr)
 * Question 4 (Search Insert Position) - Please find the question [here](https://leetcode.com/problems/search-insert-position/)
 
 # DAY-15
 
-* Question 1 (Scope)- Please find the question [here](./Day-15/Question-1/question.pdf)
+* Question 1 (Scope)- Please find the question [here](./code-files/Day-011-020/Day-15/Question-1/question.pdf)
 * Question 2 (Count and Say)- Please find the question [here](https://leetcode.com/problems/count-and-say/)
 * Question 3 (Maximum Subarray)- Please find the question [here](https://leetcode.com/problems/maximum-subarray)
 
 # DAY-16
 
-* Question 1 (Drawing 📚 ) - Please find the question [here](./Day-16/Question-1/question.pdf)
-* Question 2 (Electronics Shop) - Please find the question [here](./Day-16/Question-2/question.pdf)
+* Question 1 (Drawing 📚 ) - Please find the question [here](./code-files/Day-011-020/Day-16/Question-1/question.pdf)
+* Question 2 (Electronics Shop) - Please find the question [here](./code-files/Day-011-020/Day-16/Question-2/question.pdf)
 * Question 3 (Length of Last Word) - Please find the question [here](https://leetcode.com/problems/length-of-last-word)
 * Question 4 (Plus ☝️) - Please find the question [here](https://leetcode.com/problems/plus-one/)
 
 # DAY-17
 
-* Question 1 (is Leap Year) - Please find the question [here](./Question-1/question.pdf)
-* Question 2 (Cats and Mouse) - Please find the question [here](./Question-2/question.pdf)
+* Question 1 (is Leap Year) - Please find the question [here](./code-files/Day-011-020/Day-17/Question-1/question.pdf)
+* Question 2 (Cats and Mouse) - Please find the question [here](./code-files/Day-011-020/Day-17/Question-2/question.pdf)
 * Question 3 (Add Binary) - Please find the question [here](https://leetcode.com/problems/add-binary/)
 * Question 4 (Square Root) - Please find the question [here](https://leetcode.com/problems/sqrtx/)
 
 # DAY-18
 
-* Question 1 (More Exceptions)- Please find the question [here](./Day-18/Question-1/question.pdf)
-* Question 2 (Stacks and Queues)- Please find the question [here](./Day-18/Question-2/question.pdf)
+* Question 1 (More Exceptions)- Please find the question [here](./code-files/Day-011-020/Day-18/Question-1/question.pdf)
+* Question 2 (Stacks and Queues)- Please find the question [here](./code-files/Day-011-020/Day-18/Question-2/question.pdf)
 * Question 3 (Climbing Stairs)- Please find the question [here](https://leetcode.com/problems/climbing-stairs/)
 * Question 4 (deleteDuplicates)- Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
+
+
+# DAY-19
+
+* Question 1 ()- Please find the question [here](./code-files/Day-011-020/Day-19/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here](./code-files/Day-011-020/Day-19/Question-2/question.pdf)
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here]()
