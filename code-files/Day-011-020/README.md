@@ -140,7 +140,7 @@
     * Please find the question [here](./Day-19/Question-1/question.pdf)
     * Please find the solution here [[.py]](./Day-19/Question-1/solution.py) [[.ipynb]](./Day-19/Question-1/solution.ipynb)
 
-* Question 2 ()
+* Question 2 (findRunnersUp)
     * Please find the question [here](./Day-19/Question-2/question.pdf)
     * Please find the solution here [[.py]](./Day-19/Question-2/solution.py) [[.ipynb]](./Day-19/Question-2/solution.ipynb)
 
