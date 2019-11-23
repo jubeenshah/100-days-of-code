@@ -144,8 +144,8 @@
     * Please find the question [here](./Day-19/Question-2/question.pdf)
     * Please find the solution here [[.py]](./Day-19/Question-2/solution.py) [[.ipynb]](./Day-19/Question-2/solution.ipynb)
 
-* Question 3 ()
-    * Please find the question [here]()
+* Question 3 (Merge Sorted Arrays)
+    * Please find the question [here](https://leetcode.com/problems/merge-sorted-array)
     * Please find the solution here [[.py]](./Day-19/Question-3/solution.py) [[.ipynb]](./Day-19/Question-3/solution.ipynb)
 
 * Question 4 ()

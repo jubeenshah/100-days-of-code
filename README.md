@@ -670,7 +670,7 @@
         <td>72</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/"></a></td>
+        <td><a href="https://leetcode.com/problems/merge-sorted-array">Merge Sorted Array</a></td>
         <td><a href="./code-files/Day-011-020/Day-19/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-19/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -822,6 +822,6 @@ Nov 15, 2019 - Nov 25, 2019
 
 * Question 1 (List Comprehensions)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-1/question.pdf)
 * Question 2 (findRunnersUp)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-2/question.pdf)
-* Question 3 ()- Please find the question [here]()
+* Question 3 (Merge Sorted Array)- Please find the question [here](https://leetcode.com/problems/merge-sorted-array)
 * Question 4 ()- Please find the question [here]()
 * Question 5 (Forming Magic Squares)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-5/question.pdf)

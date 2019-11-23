@@ -8,8 +8,8 @@
     * Please find the question [here](./Question-2/question.pdf)
     * Please find the solution here [[.py]](./Question-2/solution.py) [[.ipynb]](./Question-2/solution.ipynb)
 
-* Question 3 ()
-    * Please find the question [here]()
+* Question 3 (Merge Sorted Array)
+    * Please find the question [here](https://leetcode.com/problems/merge-sorted-array)
     * Please find the solution here [[.py]](./Question-3/solution.py) [[.ipynb]](./Question-3/solution.ipynb)
 
 * Question 4 ()
