@@ -136,7 +136,7 @@
 
 # DAY-19
 
-* Question 1 ()
+* Question 1 (List Comprehensions)
     * Please find the question [here](./Day-19/Question-1/question.pdf)
     * Please find the solution here [[.py]](./Day-19/Question-1/solution.py) [[.ipynb]](./Day-19/Question-1/solution.ipynb)
 
