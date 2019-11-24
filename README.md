@@ -4,12 +4,12 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=73&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=68&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=5&color=yellow)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=78&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=71&color=success)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=7&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-52-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-21-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-55-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-23-orange)](#100-days-of-code)
 
 
 <table> 
@@ -825,3 +825,11 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 3 (Merge Sorted Array)- Please find the question [here](https://leetcode.com/problems/merge-sorted-array)
 * Question 4 (Same 🌳 )- Please find the question [here](https://leetcode.com/problems/same-tree/)
 * Question 5 (Forming Magic Squares)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-5/question.pdf)
+
+# DAY-20
+
+* Question 1 () - Please find the question [here](./code-files/Day-011-020/Day-20/Question-1/question.pdf)
+* Question 2 () - Please find the question [here](./code-files/Day-011-020/Day-20/Question-2/question.pdf)solution.ipynb)
+* Question 3 () - Please find the question [here]()
+* Question 4 () - Please find the question [here]()
+* Question 5 () - Please find the question [here](./code-files/Day-011-020/Day-20/Question-5/question.pdf)solution.ipynb
