@@ -682,6 +682,50 @@
         <td><a href="./code-files/Day-011-020/Day-19/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-19/Question-5/solution.py">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="5"><a href="./code-files/Day-011-020/Day-19/">19</a></td> 
+        <td>74</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-1/question.pdf">Interfaces</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>75</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-2/question.pdf">findRunnersUp</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>76</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/merge-sorted-array">Merge Sorted Array</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-3/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>77</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/same-tree/">Same 🌳</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-4/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>78</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-5/question.pdf">Form Magic Squares</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-5/solution.py">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -828,8 +872,8 @@ Nov 15, 2019 - Nov 25, 2019
 
 # DAY-20
 
-* Question 1 () - Please find the question [here](./code-files/Day-011-020/Day-20/Question-1/question.pdf)
-* Question 2 () - Please find the question [here](./code-files/Day-011-020/Day-20/Question-2/question.pdf)solution.ipynb)
+* Question 1 (Interfaces) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-1/question.pdf)
+* Question 2 () - Please find the question [here](./code-files/Day-011-020/Day-20/Question-2/question.pdf)
 * Question 3 () - Please find the question [here]()
 * Question 4 () - Please find the question [here]()
-* Question 5 () - Please find the question [here](./code-files/Day-011-020/Day-20/Question-5/question.pdf)solution.ipynb
+* Question 5 () - Please find the question [here](./code-files/Day-011-020/Day-20/Question-5/question.pdf)

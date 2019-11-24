@@ -158,7 +158,7 @@
 
 # DAY-20
 
-* Question 1 ()
+* Question 1 (Interfaces)
     * Please find the question [here](./Day-20/Question-1/question.pdf)
     * Please find the solution here [[.py]](./Question-1/solution.py) [[.ipynb]](./Day-20/Question-1/solution.ipynb)
 
