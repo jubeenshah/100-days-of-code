@@ -722,7 +722,7 @@
         <td>78</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-011-020/Day-20/Question-5/question.pdf">Form Magic Squares</a></td>
+        <td><a href="./code-files/Day-011-020/Day-20/Question-5/question.pdf">Climbing Leaderboard</a></td>
         <td><a href="./code-files/Day-011-020/Day-20/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-20/Question-5/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -876,4 +876,4 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 2 (Picking Numbers) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-2/question.pdf)
 * Question 3 () - Please find the question [here]()
 * Question 4 () - Please find the question [here]()
-* Question 5 () - Please find the question [here](./code-files/Day-011-020/Day-20/Question-5/question.pdf)
+* Question 5 (Climbing Leaderboard) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-5/question.pdf)
