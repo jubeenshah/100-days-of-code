@@ -166,8 +166,8 @@
     * Please find the question [here](./Day-20/Question-2/question.pdf)
     * Please find the solution here [[.py]](./Day-20/Question-2/solution.py) [[.ipynb]](./Day-20/Question-2/solution.ipynb)
 
-* Question 3 ()
-    * Please find the question [here]()
+* Question 3 (Add Two Numbers)
+    * Please find the question [here](https://leetcode.com/problems/add-two-numbers/)
     * Please find the solution here [[.py]](./Day-20/Question-3/solution.py) [[.ipynb]](./Day-20/Question-3/solution.ipynb)
 
 * Question 4 ()

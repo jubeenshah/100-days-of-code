@@ -704,9 +704,9 @@
     </tr> 
     <tr> 
         <td>76</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/merge-sorted-array">Merge Sorted Array</a></td>
+        <td><a href="https://leetcode.com/problems/add-two-numbers/">Add two numbers</a></td>
         <td><a href="./code-files/Day-011-020/Day-20/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-20/Question-3/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -874,6 +874,6 @@ Nov 15, 2019 - Nov 25, 2019
 
 * Question 1 (Interfaces) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-1/question.pdf)
 * Question 2 (Picking Numbers) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-2/question.pdf)
-* Question 3 () - Please find the question [here]()
+* Question 3 (Add Two Numbers) - Please find the question [here](https://leetcode.com/problems/add-two-numbers/)
 * Question 4 () - Please find the question [here]()
 * Question 5 (Climbing Leaderboard) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-5/question.pdf)
