@@ -686,7 +686,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="5"><a href="./code-files/Day-011-020/Day-19/">19</a></td> 
+        <td rowspan="5"><a href="./code-files/Day-011-020/Day-20/">20</a></td> 
         <td>74</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -725,6 +725,43 @@
         <td><a href="./code-files/Day-011-020/Day-20/Question-5/question.pdf">Climbing Leaderboard</a></td>
         <td><a href="./code-files/Day-011-020/Day-20/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-20/Question-5/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="50"><a href="./code-files/Day-021-030/">30 Day</a></td>
+        <td rowspan="4"><a href="./code-files/Day-021-030/Day-21/">21</a></td> 
+        <td>79</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-1/question.pdf"></a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>80</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/longest-common-prefix/"></a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>81</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/valid-parentheses"></a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>82</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-4/question.pdf"></a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -813,7 +850,7 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 1 (Binary Count)- Please find the question [here](./code-files/Day-011-020/Day-11/Question-1/question.pdf)
 * Question 2 (Longest Common Prefix)- Please find the question [here](https://leetcode.com/problems/longest-common-prefix/)
 * Question 3 (Valid Parantheses)- Please find the question [here](https://leetcode.com/problems/valid-parentheses)
-* Question 4 (Programmers day))- Please find the question [here](./code-files/Day-011-020/Day-11/Question-4/question.pdf)
+* Question 4 (Programmers day)- Please find the question [here](./code-files/Day-011-020/Day-11/Question-4/question.pdf)
 
 ## DAY-12
 
@@ -877,3 +914,78 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 3 (Add Two Numbers) - Please find the question [here](https://leetcode.com/problems/add-two-numbers/)
 * Question 4 (Longest Substring) - Please find the question [here](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 * Question 5 (Climbing Leaderboard) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-5/question.pdf)
+
+# Day 021-030
+
+Nov 25, 2019 - Dec 4, 2019 
+
+## DAY-21
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-21/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-21/Question-4/question.pdf)
+
+## DAY-22
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-22/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-22/Question-4/question.pdf)
+
+## DAY-23
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-23/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-23/Question-4/question.pdf)
+
+## DAY-24
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-24/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-24/Question-4/question.pdf)
+
+## DAY-25
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-25/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-25/Question-4/question.pdf)
+
+## DAY-26
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-26/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-26/Question-4/question.pdf)
+
+## DAY-27
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-27/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-27/Question-4/question.pdf)
+
+## DAY-28
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-28/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-28/Question-4/question.pdf)
+
+## DAY-29
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-29/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-29/Question-4/question.pdf)
+
+## DAY-30
+
+* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-30/Question-1/question.pdf)
+* Question 2 ()- Please find the question [here]()
+* Question 3 ()- Please find the question [here]()
+* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-31/Question-4/question.pdf)
+
