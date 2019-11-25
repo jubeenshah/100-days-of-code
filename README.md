@@ -6,8 +6,8 @@
 
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=82&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=72&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=10&color=yellow)](#100-days-of-code)
-[![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=9&color=yellow)](#100-days-of-code)
+[![Hard !](https://img.shields.io/static/v1?label=Hard&message=1&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-57-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-25-orange)](#100-days-of-code)
 
@@ -749,9 +749,9 @@
     </tr> 
     <tr> 
         <td>81</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=red></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/valid-parentheses"></a></td>
+        <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of two arrays</a></td>
         <td><a href="./code-files/Day-021-030//Day-21/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-21/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -923,7 +923,7 @@ Nov 25, 2019 - Dec 4, 2019
 
 * Question 1 (Nested Lists)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-1/question.pdf)
 * Question 2 (Longest Pallindrome)- Please find the question [here](https://leetcode.com/problems/longest-palindromic-substring/)
-* Question 3 ()- Please find the question [here]()
+* Question 3 (Median of Two Arrays)- Please find the question [here](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * Question 4 (Finding the percentage)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-4/question.pdf)
 
 ## DAY-22
