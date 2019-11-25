@@ -5,8 +5,8 @@
 <br>
 
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=82&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=74&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=8&color=yellow)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=72&color=success)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=10&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-57-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-25-orange)](#100-days-of-code)
@@ -741,9 +741,9 @@
     </tr> 
     <tr> 
         <td>80</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/longest-common-prefix/"></a></td>
+        <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Pallindrome</a></td>
         <td><a href="./code-files/Day-021-030//Day-21/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-21/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -922,7 +922,7 @@ Nov 25, 2019 - Dec 4, 2019
 ## DAY-21
 
 * Question 1 (Nested Lists)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-1/question.pdf)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Longest Pallindrome)- Please find the question [here](https://leetcode.com/problems/longest-palindromic-substring/)
 * Question 3 ()- Please find the question [here]()
 * Question 4 (Finding the percentage)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-4/question.pdf)
 
