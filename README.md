@@ -4,12 +4,12 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=78&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=70&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=82&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=74&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=8&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=0&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-55-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-23-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-57-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-25-orange)](#100-days-of-code)
 
 
 <table> 
@@ -735,7 +735,7 @@
         <td>79</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-21/Question-1/question.pdf"></a></td>
+        <td><a href="./code-files/Day-021-030//Day-21/Question-1/question.pdf">Nested Lists</a></td>
         <td><a href="./code-files/Day-021-030//Day-21/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-21/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -921,7 +921,7 @@ Nov 25, 2019 - Dec 4, 2019
 
 ## DAY-21
 
-* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-21/Question-1/question.pdf)
+* Question 1 (Nested Lists)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-1/question.pdf)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-21/Question-4/question.pdf)
