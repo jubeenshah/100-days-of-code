@@ -1,9 +1,11 @@
 # 100 days of code
 [![Python!](https://img.shields.io/static/v1?label=Solved%20with&message=Python&color=blueviolet)](#100-days-of-code)
+[![Python!](https://img.shields.io/static/v1?label=Solved%20with&message=Swift&color=red)](#100-days-of-code)
 [![Ask Me Anything !](https://img.shields.io/static/v1?label=Visit&message=Website&color=40E0D0)](http://jubeenshah.com) 
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=22&color=ff69b4)](#100-days-of-code)
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=88&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=76&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=10&color=yellow)](#100-days-of-code)
