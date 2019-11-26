@@ -803,7 +803,7 @@
         <td>82</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-22/Question-4/question.pdf"></a></td>
+        <td><a href="./code-files/Day-021-030//Day-22/Question-4/question.pdf">Hurdle Race</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -984,7 +984,7 @@ Nov 25, 2019 - Dec 4, 2019
 * Question 1 (Generics)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-1/question.pdf)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
-* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-22/Question-4/question.pdf)
+* Question 4 (Hurdle Race)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-4/question.pdf)
 
 ## DAY-23
 

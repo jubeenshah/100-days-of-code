@@ -8,10 +8,10 @@
 
 ## DAY-22
 
-* Question 1 ()- Please find the question [here](./Day-22/Question-1/question.pdf)
+* Question 1 (Generics)- Please find the question [here](./Day-22/Question-1/question.pdf)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
-* Question 4 ()- Please find the question [here](./Day-22/Question-4/question.pdf)
+* Question 4 (Hurdle Race)- Please find the question [here](./Day-22/Question-4/question.pdf)
 
 ## DAY-23
 
