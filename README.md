@@ -775,13 +775,13 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="./code-files/Day-021-030/Day-22/">22</a></td> 
+        <td rowspan="5"><a href="./code-files/Day-021-030/Day-22/">22</a></td> 
         <td>79</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-1/question.pdf">Generics</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-1/solution.playground">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-22/Question-1/background.pdf">background</a></td>
+        <td><a href="./code-files/Day-021-030//Day-22/Question-1/background.pdf">Background.pdf</a></td>
     </tr> 
     <tr> 
         <td>80</td>
