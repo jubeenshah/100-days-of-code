@@ -6,7 +6,7 @@
 
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=88&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=76&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=9&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=10&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=1&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-58-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-25-orange)](#100-days-of-code)
@@ -776,7 +776,7 @@
     </tr>
     <tr> 
         <td rowspan="5"><a href="./code-files/Day-021-030/Day-22/">22</a></td> 
-        <td>79</td>
+        <td>84</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-1/question.pdf">Generics</a></td>
@@ -784,15 +784,15 @@
         <td><a href="./code-files/Day-021-030//Day-22/Question-1/background.pdf">Background.pdf</a></td>
     </tr> 
     <tr> 
-        <td>80</td>
+        <td>85</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/longest-palindromic-substring/"></a></td>
+        <td><a href="https://leetcode.com/problems/zigzag-conversion/">Zig-Zag Conversation</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>81</td>
+        <td>86</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=red></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/"></a></td>
@@ -800,7 +800,7 @@
         <td><a href="./code-files/Day-021-030//Day-22/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>82</td>
+        <td>87</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-4/question.pdf">Hurdle Race</a></td>
@@ -808,7 +808,7 @@
         <td><a href="./code-files/Day-021-030//Day-22/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>83</td>
+        <td>88</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-5/question.pdf">PDF Viewer</a></td>
@@ -982,7 +982,7 @@ Nov 25, 2019 - Dec 4, 2019
 ## DAY-22
 
 * Question 1 (Generics)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-1/question.pdf)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Zig-Zag Conversation)- Please find the question [here](https://leetcode.com/problems/zigzag-conversion/)
 * Question 3 ()- Please find the question [here]()
 * Question 4 (Hurdle Race)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-4/question.pdf)
 * Question 5 (PDF Viewer)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-5/question.pdf)
