@@ -817,6 +817,50 @@
         <td><a href="./code-files/Day-021-030//Day-22/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-22/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="5"><a href="./code-files/Day-021-030/Day-23/">23</a></td> 
+        <td>89</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-1/question.pdf">Generics</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-1/solution.playground">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-1/background.pdf">Background.pdf</a></td>
+    </tr> 
+    <tr> 
+        <td>90</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/zigzag-conversion/">Zig-Zag Conversation</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>91</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=red></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/regular-expression-matching/">Regex Match</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>92</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-4/question.pdf">Hurdle Race</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>93</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-5/question.pdf">PDF Viewer</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-5/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
