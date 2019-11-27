@@ -827,7 +827,7 @@
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-1/question.pdf">Binary Search Tree</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-1/solution.playground">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-1/background.pdf">Background.pdf</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-1/background.pdf">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>90</td>
