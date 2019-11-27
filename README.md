@@ -831,7 +831,7 @@
     </tr> 
     <tr> 
         <td>90</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-2/question.pdf">Level Order Traversal</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-2/solution.py">Solution.py</a></td>
