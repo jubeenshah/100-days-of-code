@@ -825,7 +825,7 @@
         <td>89</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-1/question.pdf">Generics</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-1/question.pdf">Binary Search Tree</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-1/solution.playground">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-1/background.pdf">Background.pdf</a></td>
     </tr> 
@@ -1035,7 +1035,7 @@ Nov 25, 2019 - Dec 4, 2019
 
 ## DAY-23
 
-* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-23/Question-1/question.pdf)
+* Question 1 (Binary Search Tree)- Please find the question [here](./code-files/Day-021-030/Day-23/Question-1/question.pdf)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-23/Question-4/question.pdf)

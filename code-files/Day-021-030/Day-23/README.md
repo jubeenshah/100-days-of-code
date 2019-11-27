@@ -1,6 +1,6 @@
 # DAY-23
 
-* Question 1 ()- Please find the question [here](./Question-1/question.pdf)
+* Question 1 (Binary Search Tree)- Please find the question [here](./Question-1/question.pdf)
 * Question 2 ()- Please find the question [here](https://leetcode.com/problems/zigzag-conversion/)
 * Question 3 ()- Please find the question [here](https://leetcode.com/problems/regular-expression-matching/)
 * Question 4 ()- Please find the question [here](./Question-4/question.pdf)
