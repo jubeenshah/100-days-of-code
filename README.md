@@ -5,12 +5,12 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=22&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=88&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=76&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=23&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=90&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=78&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=10&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-61-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-63-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-27-orange)](#100-days-of-code)
 
 
@@ -837,30 +837,6 @@
         <td><a href="./code-files/Day-021-030//Day-23/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr> 
-        <td>91</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=red></td>
-        <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/regular-expression-matching/">Regex Match</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-3/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-3/solution.ipynb">Solution.ipynb</a></td>
-    </tr> 
-    <tr> 
-        <td>92</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
-        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-4/question.pdf">Hurdle Race</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-4/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-4/solution.ipynb">Solution.ipynb</a></td>
-    </tr> 
-    <tr> 
-        <td>93</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
-        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-5/question.pdf">PDF Viewer</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-5/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-23/Question-5/solution.ipynb">Solution.ipynb</a></td>
-    </tr> 
 </table> 
 
 
@@ -1036,9 +1012,7 @@ Nov 25, 2019 - Dec 4, 2019
 ## DAY-23
 
 * Question 1 (Binary Search Tree)- Please find the question [here](./code-files/Day-021-030/Day-23/Question-1/question.pdf)
-* Question 2 ()- Please find the question [here]()
-* Question 3 ()- Please find the question [here]()
-* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-23/Question-4/question.pdf)
+* Question 2 (Level Order Traversal)- Please find the question [here](./code-files/Day-021-030/Day-23/Question-2/question.pdf)
 
 ## DAY-24
 
