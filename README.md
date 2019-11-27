@@ -832,8 +832,8 @@
     <tr> 
         <td>90</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
-        <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/zigzag-conversion/">Zig-Zag Conversation</a></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-23/Question-2/question.pdf">Level Order Traversal</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 

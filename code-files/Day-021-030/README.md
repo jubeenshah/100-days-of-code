@@ -17,7 +17,7 @@
 ## DAY-23
 
 * Question 1 (Binary Search Tree)- Please find the question [here](./Day-23/Question-1/question.pdf)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Level Order Traversal)- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./Day-23/Question-4/question.pdf)
 
