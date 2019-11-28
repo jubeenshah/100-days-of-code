@@ -821,7 +821,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="5"><a href="./code-files/Day-021-030/Day-23/">23</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-021-030/Day-23/">23</a></td> 
         <td>89</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -836,6 +836,26 @@
         <td><a href="./code-files/Day-021-030//Day-23/Question-2/question.pdf">Level Order Traversal</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-23/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="5"><a href="./code-files/Day-021-030/Day-24/">24</a></td> 
+        <td>91</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-1/question.pdf">Linked List</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-1/solution.playground">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-1/background.pdf">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>92</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-2/question.pdf">Level Order Traversal</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -1016,7 +1036,7 @@ Nov 25, 2019 - Dec 4, 2019
 
 ## DAY-24
 
-* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-24/Question-1/question.pdf)
+* Question 1 (Linked List)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-1/question.pdf)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-24/Question-4/question.pdf)
