@@ -5,12 +5,12 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=23&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=90&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=78&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=24&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=91&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=79&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=10&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-63-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-64-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-27-orange)](#100-days-of-code)
 
 
