@@ -867,7 +867,7 @@
     </tr> 
     <tr> 
         <td>94</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=red></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String To Integer</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.py">Solution.py</a></td>
