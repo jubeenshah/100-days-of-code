@@ -6,12 +6,12 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=24&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=93&color=blue)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=94&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=81&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=10&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=11&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-66-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-27-orange)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-28-orange)](#100-days-of-code)
 
 
 <table> 
@@ -865,6 +865,14 @@
         <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+    <tr> 
+        <td>94</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=red></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String To Integer</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -1047,7 +1055,7 @@ Nov 25, 2019 - Dec 4, 2019
 * Question 1 (Linked List)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-1/question.pdf)
 * Question 2 (Utopian Tree)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-2/question.pdf)
 * Question 3 (Angry Professor)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-2/question.pdf)
-* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-24/Question-4/question.pdf)
+* Question 4 (String to Integer)- Please find the question [here](https://leetcode.com/problems/string-to-integer-atoi/)
 
 ## DAY-25
 
