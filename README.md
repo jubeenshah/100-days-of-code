@@ -8,10 +8,10 @@
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=25&color=ff69b4)](#100-days-of-code)
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=100&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=85&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=11&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=13&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-70-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-31-orange)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-30-orange)](#100-days-of-code)
 
 
 <table> 
@@ -877,7 +877,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="6"><a href="./code-files/Day-021-030/Day-24/">24</a></td> 
+        <td rowspan="7"><a href="./code-files/Day-021-030/Day-24/">24</a></td> 
         <td>95</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -904,21 +904,29 @@
     <tr> 
         <td>98</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
-        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-4/question.pdf">Beautiful Day</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>99</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
-        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-3/question.pdf">Angry Profoessor</a></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/container-with-most-water/">Most water</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>100</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String To Integer</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>101</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String To Integer</a></td>
@@ -1115,7 +1123,7 @@ Nov 25, 2019 - Dec 4, 2019
 * Question 2 (Welcome Pattern)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-2/question.pdf)
 * Question 3 (Format String)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-3/question.pdf)
 * Question 4 (Beautiful Day)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-4/question.pdf)
-* Question 5 ()- Please find the question [here](./code-files/Day-021-030/Day-25/Question-4/question.pdf)
+* Question 5 (Most water)- Please find the question [here](https://leetcode.com/problems/container-with-most-water/)
 
 ## DAY-26
 
