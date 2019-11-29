@@ -28,7 +28,7 @@
 
 ## DAY-25
 
-* Question 1 ()- Please find the question [here](./Day-25/Question-1/question.pdf)
+* Question 1 (Text Wrap)- Please find the question [here](./Day-25/Question-1/question.pdf)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./Day-25/Question-4/question.pdf)
