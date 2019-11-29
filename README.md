@@ -7,7 +7,7 @@
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=25&color=ff69b4)](#100-days-of-code)
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=100&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=83&color=success)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=84&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=11&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-69-brightgreen)](#100-days-of-code)
@@ -889,7 +889,7 @@
         <td>96</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-2/question.pdf">Welcom Tree</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-2/question.pdf">Welcome Tree</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -897,7 +897,7 @@
         <td>97</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-3/question.pdf">Angry Profoessor</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-3/question.pdf">Format String</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1113,7 +1113,7 @@ Nov 25, 2019 - Dec 4, 2019
 
 * Question 1 (Text Wrap)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-1/question.pdf)
 * Question 2 (Welcome Pattern)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-2/question.pdf)
-* Question 3 ()- Please find the question [here]()
+* Question 3 (Format String)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-3/question.pdf)
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-25/Question-4/question.pdf)
 
 ## DAY-26
