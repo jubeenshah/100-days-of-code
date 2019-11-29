@@ -5,13 +5,13 @@
 [![Resume!](https://img.shields.io/static/v1?label=See&message=Resume&color=B284BE)](http://www.jubeenshah.com/wp-content/uploads/2019/11/Resume-DevOps.pdf)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=24&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=94&color=blue)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=25&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=100&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=81&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=11&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-66-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-28-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-69-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-31-orange)](#100-days-of-code)
 
 
 <table> 
@@ -841,7 +841,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="5"><a href="./code-files/Day-021-030/Day-24/">24</a></td> 
+        <td rowspan="4"><a href="./code-files/Day-021-030/Day-24/">24</a></td> 
         <td>91</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -867,6 +867,58 @@
     </tr> 
     <tr> 
         <td>94</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String To Integer</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="6"><a href="./code-files/Day-021-030/Day-24/">24</a></td> 
+        <td>95</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-1/question.pdf">Linked List</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-1/solution.playground">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-1/background.pdf">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>96</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-2/question.pdf">Utopian Tree</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>97</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-3/question.pdf">Angry Profoessor</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>98</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String To Integer</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>99</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-3/question.pdf">Angry Profoessor</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>100</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/string-to-integer-atoi/">String To Integer</a></td>
