@@ -42,6 +42,7 @@
 * Question 3 (Word Rangoli)- Please find the question [here](./Day-26/Question-3/question.pdf)
 * Question 4 (Three Sum)- Please find the question [here](https://leetcode.com/problems/3sum)
 * Question 5 (CPP-Hello World)- Please find the question [here](./Day-26/Question-5/question.pdf)
+* Question 6 (CPP -Input/Output)- Please find the question [here](./Day-26/Question-6/question.pdf)
 
 ## DAY-27
 

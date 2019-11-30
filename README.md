@@ -929,7 +929,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="5"><a href="./code-files/Day-021-030/Day-26/">25</a></td> 
+        <td rowspan="7"><a href="./code-files/Day-021-030/Day-26/">25</a></td> 
         <td>101</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -968,6 +968,14 @@
         <td><a href="https://leetcode.com/problems/3sum">Three Sum</a></td>
         <td><a href="./code-files/Day-021-030//Day-26/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-26/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr> 
+        <td>106</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-6/question.pdf">CPP input/output</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-6/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-6/solution.ipynb">Solution.ipynb</a></td>
     </tr>
 </table> 
 
@@ -1169,6 +1177,7 @@ Nov 25, 2019 - Dec 4, 2019
 * Question 3 (Word Rangoli)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-3/question.pdf)
 * Question 4 (Three Sum)- Please find the question [here](https://leetcode.com/problems/3sum)
 * Question 5 (CPP -Hello World)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-5/question.pdf)
+* Question 6 (CPP -Input/Output)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-6/question.pdf)
 
 ## DAY-27
 
