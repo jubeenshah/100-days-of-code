@@ -948,7 +948,7 @@
         <td>103</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-26/Question-3/question.pdf">Format String</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-3/question.pdf">Word Rangoli</a></td>
         <td><a href="./code-files/Day-021-030//Day-26/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-26/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1165,7 +1165,7 @@ Nov 25, 2019 - Dec 4, 2019
 
 * Question 1 (Is Prime)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-1/question.pdf)
 * Question 2 (Viral Advertising)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-2/question.pdf)
-* Question 3 ()- Please find the question [here]()
+* Question 3 (Word Rangoli)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-3/question.pdf)
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-26/Question-4/question.pdf)
 
 ## DAY-27
