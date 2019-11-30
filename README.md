@@ -6,12 +6,12 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=26&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=104&color=blue)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=105&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=88&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=14&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=15&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-74-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-30-orange)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-31-orange)](#100-days-of-code)
 
 
 <table> 
@@ -929,7 +929,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="./code-files/Day-021-030/Day-26/">25</a></td> 
+        <td rowspan="5"><a href="./code-files/Day-021-030/Day-26/">25</a></td> 
         <td>101</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -960,6 +960,14 @@
         <td><a href="./code-files/Day-021-030//Day-26/Question-5/question.pdf">CPP Hello World</a></td>
         <td><a href="./code-files/Day-021-030//Day-26/Question-5/solution.cpp">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-26/Question-5/solution">Solution</a></td>
+    </tr>
+    <tr> 
+        <td>105</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/3sum">Three Sum</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr>
 </table> 
 
@@ -1159,6 +1167,7 @@ Nov 25, 2019 - Dec 4, 2019
 * Question 1 (Is Prime)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-1/question.pdf)
 * Question 2 (Viral Advertising)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-2/question.pdf)
 * Question 3 (Word Rangoli)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-3/question.pdf)
+* Question 4 (Three Sum)- Please find the question [here](https://leetcode.com/problems/3sum)
 * Question 5 (CPP -Hello World)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-5/question.pdf)
 
 ## DAY-27
