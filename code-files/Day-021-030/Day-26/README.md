@@ -6,3 +6,4 @@
 * Question 4 (Three Sum)- Please find the question [here](https://leetcode.com/problems/3sum)
 * Question 5 (CPP- Hellow World)- Please find the question [here](./Question-5/question.pdf)
 * Question 6 (CPP -Input/Output)- Please find the question [here](./Question-6/question.pdf)
+* Question 7 (3 Sum Closest)- Please find the question [here](https://leetcode.com/problems/3sum-closest/)

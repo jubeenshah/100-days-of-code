@@ -43,6 +43,7 @@
 * Question 4 (Three Sum)- Please find the question [here](https://leetcode.com/problems/3sum)
 * Question 5 (CPP-Hello World)- Please find the question [here](./Day-26/Question-5/question.pdf)
 * Question 6 (CPP -Input/Output)- Please find the question [here](./Day-26/Question-6/question.pdf)
+* Question 7 (3 Sum Closest)- Please find the question [here](https://leetcode.com/problems/3sum-closest/)
 
 ## DAY-27
 
