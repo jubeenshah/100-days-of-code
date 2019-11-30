@@ -4,12 +4,12 @@
 
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=25&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=100&color=blue)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=26&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=105&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=85&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=13&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=14&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-70-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-71-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-30-orange)](#100-days-of-code)
 
 
@@ -880,50 +880,94 @@
         <td>95</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-1/question.pdf">Text Wrap</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-1/solution.playground">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-1/background.pdf">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-1/question.pdf">Text Wrap</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-1/solution.playground">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-1/background.pdf">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>96</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-2/question.pdf">Welcome Tree</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-2/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-2/question.pdf">Welcome Tree</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>97</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-3/question.pdf">Format String</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-3/question.pdf">Format String</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>98</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-4/question.pdf">Beautiful Day</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-4/question.pdf">Beautiful Day</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>99</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/container-with-most-water/">Most water</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-5/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-5/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>100</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/integer-to-roman/">Integer to Roman</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-4/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="5"><a href="./code-files/Day-021-030/Day-26/">25</a></td> 
+        <td>101</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-1/question.pdf">Is Prime</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-1/solution.playground">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-1/background.pdf">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>102</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-2/question.pdf">Viral Advertising</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>103</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-3/question.pdf">Format String</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>104</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-4/question.pdf">Beautiful Day</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>105</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/container-with-most-water/">Most water</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-5/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
 </table> 
 
 
@@ -1119,8 +1163,8 @@ Nov 25, 2019 - Dec 4, 2019
 
 ## DAY-26
 
-* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-26/Question-1/question.pdf)
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Is Prime)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-1/question.pdf)
+* Question 2 (Viral Advertising)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-2/question.pdf)
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-26/Question-4/question.pdf)
 
