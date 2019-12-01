@@ -5,9 +5,9 @@
 
 <br>
 
-[![Python!](https://img.shields.io/static/v1?label=Tools%Used&message=Jupyter&color=yellow)](#100-days-of-code)
-[![Python!](https://img.shields.io/static/v1?label=Tools%Used&message=Xcode&color=green)](#100-days-of-code)
-[![Python!](https://img.shields.io/static/v1?label=Tools%Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
+[![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Jupyter&color=yellow)](#100-days-of-code)
+[![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Xcode&color=green)](#100-days-of-code)
+[![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 
 <br>
 
