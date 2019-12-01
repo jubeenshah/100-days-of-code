@@ -5,12 +5,12 @@
 
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=26&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=108&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=89&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=27&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=110&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=91&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=17&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-75-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-77-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-33-orange)](#100-days-of-code)
 
 
@@ -993,6 +993,74 @@
         <td><a href="./code-files/Day-021-030//Day-26/Question-8/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-26/Question-8/solution.ipynb">Solution.ipynb</a></td>
     </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="8"><a href="./code-files/Day-021-030/Day-27/">27</a></td> 
+        <td>109</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-1/question.pdf">Library Fine Calculation</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-1/solution.playground">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-1/background.pdf">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>110</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-2/question.pdf">Capatalize Word</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>111</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-3/question.pdf">Word Rangoli</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>112</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/3sum">Three Sum</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr> 
+        <td>113</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-5/question.pdf">CPP Hello World</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-5/solution.cpp">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-5/solution">Solution</a></td>
+    </tr>
+    <tr> 
+        <td>114</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-6/question.pdf">CPP input/output</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-6/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-6/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr> 
+        <td>115</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/3sum-closest/">Three Sum Closest</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-7/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-7/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr> 
+        <td>116</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/letter-combinations-of-a-phone-number/">Combination of Phone Number</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-8/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-27/Question-8/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
 </table> 
 
 
@@ -1199,8 +1267,8 @@ Nov 25, 2019 - Dec 4, 2019
 
 ## DAY-27
 
-* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-27/Question-1/question.pdf)
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Libray Fine Collection)- Please find the question [here](https://www.hackerrank.com/challenges/30-nested-logic/problem)
+* Question 2 (Capatalize Word)- Please find the question [here](https://www.hackerrank.com/challenges/capitalize/problem)
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-27/Question-4/question.pdf)
 
