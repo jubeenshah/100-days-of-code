@@ -50,7 +50,7 @@
 
 * Question 1 (Libray Fine Collection)- Please find the question [here](https://www.hackerrank.com/challenges/30-nested-logic/problem)
 * Question 2 (Capatalize Word)- Please find the question [here](https://www.hackerrank.com/challenges/capitalize/problem)
-* Question 3 ()- Please find the question [here]()
+* Question 3 (The Minion Game)- Please find the question [here](https://www.hackerrank.com/challenges/the-minion-game/problem)
 * Question 4 ()- Please find the question [here](./Day-27/Question-4/question.pdf)
 
 ## DAY-28
