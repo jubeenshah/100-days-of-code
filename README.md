@@ -10,11 +10,11 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=28&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=116&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=94&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=117&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=95&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=20&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-82-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-83-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-34-orange)](#100-days-of-code)
 
 
@@ -1037,7 +1037,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="./code-files/Day-021-030/Day-28/">28</a></td> 
+        <td rowspan="5"><a href="./code-files/Day-021-030/Day-28/">28</a></td> 
         <td>113</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1068,6 +1068,14 @@
         <td><a href="./code-files/Day-021-030//Day-28/Question-4/question.pdf">Itertools.Permutations</a></td>
         <td><a href="./code-files/Day-021-030//Day-28/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-28/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr> 
+        <td>117</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-28/Question-5/question.pdf">Itertools.Combinations</a></td>
+        <td><a href="./code-files/Day-021-030//Day-28/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-28/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr>
 </table> 
 
@@ -1286,6 +1294,7 @@ Nov 25, 2019 - Dec 4, 2019
 * Question 2 (Merge the Tools)- Please find the question [here](https://www.hackerrank.com/challenges/merge-the-tools/problem)
 * Question 3 (itertools.product())- Please find the question [here](https://www.hackerrank.com/challenges/itertools-product/problem)
 * Question 4 (itertools.permutations())- Please find the question [here](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+* Question 5 (itertools.combinations())- Please find the question [here](https://www.hackerrank.com/challenges/itertools-combinations/problem)
 
 ## DAY-29
 
