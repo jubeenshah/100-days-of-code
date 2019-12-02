@@ -1042,8 +1042,8 @@
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-28/Question-1/question.pdf">Unit Testing</a></td>
-        <td><a href="./code-files/Day-021-030//Day-28/Question-1/solution.cpp">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-28/Question-1/solution">Solution</a></td>
+        <td><a href="./code-files/Day-021-030//Day-28/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-28/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr> 
         <td>114</td>
