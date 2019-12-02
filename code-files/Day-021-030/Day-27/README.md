@@ -4,7 +4,3 @@
 * Question 2 (Capatalize Word)- Please find the question [here](https://www.hackerrank.com/challenges/capitalize/problem)
 * Question 3 (The Minion Game)- Please find the question [here](https://www.hackerrank.com/challenges/the-minion-game/problem)
 * Question 4 (Remove Nth Node)- Please find the question [here](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-* Question 5 ()- Please find the question [here](./Question-5/question.pdf)
-* Question 6 ()- Please find the question [here](./Question-6/question.pdf)
-* Question 7 ()- Please find the question [here](https://leetcode.com/problems/3sum-closest/)
-* Question 8 ()- Please find the question [here](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
