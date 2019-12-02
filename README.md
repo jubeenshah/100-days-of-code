@@ -26,8 +26,8 @@
         <th>Diff</th>
         <th>Portal</th>
         <th>Question</th>
-        <th>Python File</th>
-        <th>Notebook</th> 
+        <th>Code File</th>
+        <th>Supplement</th> 
     </tr> 
     <tr>
         <td rowspan="48"><a href="./code-files/Day-001-010/">10 Day</a></td> 
