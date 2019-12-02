@@ -23,7 +23,7 @@
         <th>Span</th>  
         <th>Day</th> 
         <th>Sr.</th>
-        <th>Diff</th>
+        <th>Difficulty</th>
         <th>Portal</th>
         <th>Question</th>
         <th>Code File</th>
