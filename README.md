@@ -1089,7 +1089,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="3"><a href="./code-files/Day-021-030/Day-29/">29</a></td> 
+        <td rowspan="4"><a href="./code-files/Day-021-030/Day-29/">29</a></td> 
         <td>119</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1112,6 +1112,14 @@
         <td><a href="./code-files/Day-021-030//Day-29/Question-3/question.pdf">Save the Prisoner</a></td>
         <td><a href="./code-files/Day-021-030//Day-29/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-29/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr> 
+        <td>122</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/valid-palindrome">Is Pallindrome</a></td>
+        <td><a href="./code-files/Day-021-030//Day-28/Question-6/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-28/Question-6/solution.ipynb">Solution.ipynb</a></td>
     </tr>
 </table> 
 
@@ -1340,7 +1348,7 @@ Nov 25, 2019 - Dec 4, 2019
 * Question 1 (Regex Match)- Please find the question [here](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
 * Question 2 (collections.Counter())- Please find the question [here](https://www.hackerrank.com/challenges/collections-counter/problem)
 * Question 3 (Save The Prisoner)- Please find the question [here](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
-* Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-29/Question-4/question.pdf)
+* Question 4 (Is Pallindrome)- Please find the question [here](https://leetcode.com/problems/valid-palindrome)
 
 ## DAY-30
 
