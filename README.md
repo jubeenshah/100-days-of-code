@@ -10,11 +10,11 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=29&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=122&color=blue)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=123&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=98&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=22&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=23&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-86-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-87-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-36-orange)](#100-days-of-code)
 
 
@@ -1121,6 +1121,14 @@
         <td><a href="./code-files/Day-021-030//Day-28/Question-6/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-28/Question-6/solution.ipynb">Solution.ipynb</a></td>
     </tr>
+     <tr> 
+        <td>123</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-29/Question-5/question.pdf">And Operation</a></td>
+        <td><a href="./code-files/Day-021-030//Day-29/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-29/Question-5/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
 </table> 
 
 
@@ -1349,6 +1357,7 @@ Nov 25, 2019 - Dec 4, 2019
 * Question 2 (collections.Counter())- Please find the question [here](https://www.hackerrank.com/challenges/collections-counter/problem)
 * Question 3 (Save The Prisoner)- Please find the question [here](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 * Question 4 (Is Pallindrome)- Please find the question [here](https://leetcode.com/problems/valid-palindrome)
+* Question 5 (And Operation)- Please find the question [here](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
 
 ## DAY-30
 
