@@ -1091,7 +1091,7 @@
     <tr> 
         <td rowspan="3"><a href="./code-files/Day-021-030/Day-29/">29</a></td> 
         <td>119</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-29/Question-1/question.pdf">Regex Match</a></td>
         <td><a href="./code-files/Day-021-030//Day-29/Question-1/solution.py">Solution.py</a></td>
