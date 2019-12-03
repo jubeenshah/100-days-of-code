@@ -736,7 +736,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="50"><a href="./code-files/Day-021-030/">30 Day</a></td>
+        <td rowspan="60"><a href="./code-files/Day-021-030/">30 Day</a></td>
         <td rowspan="5"><a href="./code-files/Day-021-030/Day-21/">21</a></td> 
         <td>79</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
