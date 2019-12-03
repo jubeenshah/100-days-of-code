@@ -10,11 +10,11 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=29&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=119&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=95&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=120&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=96&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=22&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-84-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-85-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-35-orange)](#100-days-of-code)
 
 
@@ -1099,9 +1099,9 @@
     </tr>
     <tr> 
         <td>120</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-29/Question-2/question.pdf">Merge the tools</a></td>
+        <td><a href="./code-files/Day-021-030//Day-29/Question-2/question.pdf">collections.Counter()</a></td>
         <td><a href="./code-files/Day-021-030//Day-29/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-29/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1338,7 +1338,7 @@ Nov 25, 2019 - Dec 4, 2019
 ## DAY-29
 
 * Question 1 (Regex Match)- Please find the question [here](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (collections.Counter())- Please find the question [here](https://www.hackerrank.com/challenges/collections-counter/problem)
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-29/Question-4/question.pdf)
 
