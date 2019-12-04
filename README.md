@@ -1135,7 +1135,7 @@
     <tr> 
         <td rowspan="5"><a href="./code-files/Day-021-030/Day-30/">30</a></td> 
         <td>124</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-30/Question-1/question.pdf">Circular Array</a></td>
         <td><a href="./code-files/Day-021-030//Day-30/Question-1/solution.py">Solution.py</a></td>
@@ -1145,7 +1145,7 @@
         <td>125</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-30/Question-2/question.pdf">collections.Counter()</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-2/question.pdf">Sequence Equation</a></td>
         <td><a href="./code-files/Day-021-030//Day-30/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-30/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1406,7 +1406,7 @@ Nov 25, 2019 - Dec 4, 2019
 ## DAY-30
 
 * Question 1 (Circular Array)- Please find the question [here](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Sequence Equation)- Please find the question [here](https://www.hackerrank.com/challenges/permutation-equation/problem)
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-31/Question-4/question.pdf)
 
