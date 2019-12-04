@@ -9,12 +9,12 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=29&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=123&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=98&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=30&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=124&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=99&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=23&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-87-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-88-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-36-orange)](#100-days-of-code)
 
 
@@ -1118,8 +1118,8 @@
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/valid-palindrome">Is Pallindrome</a></td>
-        <td><a href="./code-files/Day-021-030//Day-28/Question-6/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-28/Question-6/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-021-030//Day-29/Question-6/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-29/Question-6/solution.ipynb">Solution.ipynb</a></td>
     </tr>
      <tr> 
         <td>123</td>
@@ -1128,6 +1128,50 @@
         <td><a href="./code-files/Day-021-030//Day-29/Question-5/question.pdf">And Operation</a></td>
         <td><a href="./code-files/Day-021-030//Day-29/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-29/Question-5/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="5"><a href="./code-files/Day-021-030/Day-30/">30</a></td> 
+        <td>124</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-1/question.pdf">Circular Array</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr> 
+        <td>125</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-2/question.pdf">collections.Counter()</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr> 
+        <td>126</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-3/question.pdf">Save the Prisoner</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr> 
+        <td>127</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/valid-palindrome">Is Pallindrome</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-6/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-6/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+     <tr> 
+        <td>128</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-5/question.pdf">And Operation</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-30/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr>
 </table> 
 
@@ -1361,7 +1405,7 @@ Nov 25, 2019 - Dec 4, 2019
 
 ## DAY-30
 
-* Question 1 ()- Please find the question [here](./code-files/Day-021-030/Day-30/Question-1/question.pdf)
+* Question 1 (Circular Array)- Please find the question [here](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here](./code-files/Day-021-030/Day-31/Question-4/question.pdf)
