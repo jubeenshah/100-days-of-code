@@ -1188,9 +1188,9 @@
     </tr> 
     <tr> 
         <td>130</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
-        <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Pallindrome</a></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-2/question.pdf">Find Digits</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1464,7 +1464,7 @@ Dec 5, 2019 - Dec 15, 2019
 ## DAY-31
 
 * Question 1 (Jumping Clouds)- Please find the question [here](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Find Digits)- Please find the question [here](https://www.hackerrank.com/challenges/find-digits/problem)
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here]()
 

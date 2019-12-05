@@ -1,7 +1,7 @@
 ## DAY-31
 
 * Question 1 (Jumping Clouds)- Please find the question [here](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Find Digits)- Please find the question [here](https://www.hackerrank.com/challenges/find-digits/problem)
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here]()
 
