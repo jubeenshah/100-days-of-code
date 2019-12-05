@@ -1173,6 +1173,51 @@
         <td><a href="./code-files/Day-021-030//Day-30/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-30/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day</a></td>
+        <td rowspan="5"><a href="../code-files/Day-031-040/ay-23/">21</a></td> 
+        <td>129</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-1/question.pdf">Nested Lists</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>130</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/longest-palindromic-substring/">Longest Pallindrome</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>131</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=red></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of two arrays</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>132</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-4/question.pdf">Finding the percentage</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>133</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-5/question.pdf">List</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-5/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
