@@ -9,13 +9,13 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=30&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=128&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=103&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=31&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=131&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=106&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=23&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-91-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-37-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-93-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-38-orange)](#100-days-of-code)
 
 
 <table> 
@@ -1196,9 +1196,9 @@
     </tr> 
     <tr> 
         <td>131</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=red></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">Median of two arrays</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Max Depth</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1465,7 +1465,7 @@ Dec 5, 2019 - Dec 15, 2019
 
 * Question 1 (Jumping Clouds)- Please find the question [here](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
 * Question 2 (Find Digits)- Please find the question [here](https://www.hackerrank.com/challenges/find-digits/problem)
-* Question 3 ()- Please find the question [here]()
+* Question 3 (Max Depth)- Please find the question [here](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 * Question 4 ()- Please find the question [here]()
 
 ## DAY-32
