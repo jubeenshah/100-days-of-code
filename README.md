@@ -1178,11 +1178,11 @@
     </tr>
     <tr> 
         <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day</a></td>
-        <td rowspan="5"><a href="../code-files/Day-031-040/ay-23/">21</a></td> 
+        <td rowspan="5"><a href="../code-files/Day-031-040/ay-23/">31</a></td> 
         <td>129</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-031-040/Day-31/Question-1/question.pdf">Nested Lists</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-1/question.pdf">Jumping Clouds</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1319,34 +1319,34 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 3 (Remove Value)- Please find the question [here](https://leetcode.com/problems/remove-element/)
 * Question 4 (Number of Pairs)- Please find the question [here](./code-files/Day-011-020/Day-13/Question-4/question.pdf)
 
-# DAY-14
+## DAY-14
 
 * Question 1 (Inheritance) - Please find the question [here](./code-files/Day-011-020/Day-14/Question-1/question.pdf)
 * Question 2 (Abstract Class) - Please find the question [here](./code-files/Day-011-020/Day-14/Question-2/question.pdf)
 * Question 3 (Implement strStr()) - Please find the question [here](https://leetcode.com/problems/implement-strstr)
 * Question 4 (Search Insert Position) - Please find the question [here](https://leetcode.com/problems/search-insert-position/)
 
-# DAY-15
+## DAY-15
 
 * Question 1 (Scope)- Please find the question [here](./code-files/Day-011-020/Day-15/Question-1/question.pdf)
 * Question 2 (Count and Say)- Please find the question [here](https://leetcode.com/problems/count-and-say/)
 * Question 3 (Maximum Subarray)- Please find the question [here](https://leetcode.com/problems/maximum-subarray)
 
-# DAY-16
+## DAY-16
 
 * Question 1 (Drawing 📚 ) - Please find the question [here](./code-files/Day-011-020/Day-16/Question-1/question.pdf)
 * Question 2 (Electronics Shop) - Please find the question [here](./code-files/Day-011-020/Day-16/Question-2/question.pdf)
 * Question 3 (Length of Last Word) - Please find the question [here](https://leetcode.com/problems/length-of-last-word)
 * Question 4 (Plus ☝️) - Please find the question [here](https://leetcode.com/problems/plus-one/)
 
-# DAY-17
+## DAY-17
 
 * Question 1 (is Leap Year) - Please find the question [here](./code-files/Day-011-020/Day-17/Question-1/question.pdf)
 * Question 2 (Cats and Mouse) - Please find the question [here](./code-files/Day-011-020/Day-17/Question-2/question.pdf)
 * Question 3 (Add Binary) - Please find the question [here](https://leetcode.com/problems/add-binary/)
 * Question 4 (Square Root) - Please find the question [here](https://leetcode.com/problems/sqrtx/)
 
-# DAY-18
+## DAY-18
 
 * Question 1 (More Exceptions)- Please find the question [here](./code-files/Day-011-020/Day-18/Question-1/question.pdf)
 * Question 2 (Stacks and Queues)- Please find the question [here](./code-files/Day-011-020/Day-18/Question-2/question.pdf)
@@ -1354,7 +1354,7 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 4 (deleteDuplicates)- Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
 
 
-# DAY-19
+## DAY-19
 
 * Question 1 (List Comprehensions)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-1/question.pdf)
 * Question 2 (findRunnersUp)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-2/question.pdf)
@@ -1362,7 +1362,7 @@ Nov 15, 2019 - Nov 25, 2019
 * Question 4 (Same 🌳 )- Please find the question [here](https://leetcode.com/problems/same-tree/)
 * Question 5 (Forming Magic Squares)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-5/question.pdf)
 
-# DAY-20
+## DAY-20
 
 * Question 1 (Interfaces) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-1/question.pdf)
 * Question 2 (Picking Numbers) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-2/question.pdf)
@@ -1463,7 +1463,7 @@ Dec 5, 2019 - Dec 15, 2019
 
 ## DAY-31
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Jumping Clouds)- Please find the question [here](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here]()
