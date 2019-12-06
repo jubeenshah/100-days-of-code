@@ -1218,7 +1218,7 @@
         <td>133</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href=".https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">Binary Level Order Traversal</a></td>
+        <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">Binary Level Order Traversal</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1240,7 +1240,7 @@
     </tr> 
     <tr> 
         <td>136</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/pascals-triangle-ii/">Pascal's Triangle II</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-4/solution.py">Solution.py</a></td>
