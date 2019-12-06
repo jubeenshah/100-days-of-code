@@ -10,12 +10,12 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=32&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=135&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=109&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=136&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=110&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=24&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-93-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-42-orange)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-43-orange)](#100-days-of-code)
 
 
 <table> 
@@ -1242,7 +1242,7 @@
         <td>136</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/generate-parentheses/">Generate Parantheses</a></td>
+        <td><a href="https://leetcode.com/problems/pascals-triangle-ii/">Pascal's Triangle II</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1500,8 +1500,8 @@ Dec 5, 2019 - Dec 15, 2019
 
 * Question 1 (Binary Level Order Traversal)- Please find the question [here](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 * Question 2 (Minimum Depth)- Please find the question [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-* Question 3 (Pascals Triangle)- Please find the question [here](https://leetcode.com/problems/pascals-triangle/)
-* Question 4 ()- Please find the question [here]()
+* Question 3 (Pascal's Triangle)- Please find the question [here](https://leetcode.com/problems/pascals-triangle/)
+* Question 4 (Pascal's Triangle II)- Please find the question [here](https://leetcode.com/problems/pascals-triangle-ii/submissions/)
 
 ## DAY-33
 

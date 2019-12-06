@@ -10,7 +10,7 @@
 * Question 1 (Binary Level Order Traversal)- Please find the question [here](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 * Question 2 (Minimum Depth)- Please find the question [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * Question 3 (Pascals Triangle)- Please find the question [here](https://leetcode.com/problems/pascals-triangle/)
-* Question 4 ()- Please find the question [here]()
+* Question 4 (Pascal's Triangle II)- Please find the question [here](https://leetcode.com/problems/pascals-triangle-ii/submissions/)
 
 ## DAY-33
 
