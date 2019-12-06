@@ -1163,7 +1163,7 @@
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-30/Question-4/question.pdf">Vector Erase</a></td>
         <td><a href="./code-files/Day-021-030//Day-30/Question-4/solution.cpp">Solution.cpp</a></td>
-        <td><a href="./">N/A</a></td>
+        <td><a href="#">N/A</a></td>
     </tr>
      <tr> 
         <td>128</td>
@@ -1214,7 +1214,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="./code-files/Day-031-040/Day-32/">32</a></td> 
+        <td rowspan="4"><a href="../code-files/Day-031-040/Day-32/">32</a></td> 
         <td>133</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
