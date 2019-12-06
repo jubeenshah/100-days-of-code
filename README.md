@@ -10,11 +10,11 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=32&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=136&color=blue)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=137&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=110&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=24&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=25&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-93-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-94-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-43-orange)](#100-days-of-code)
 
 
@@ -1214,7 +1214,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="../code-files/Day-031-040/Day-32/">32</a></td> 
+        <td rowspan="5"><a href="../code-files/Day-031-040/Day-32/">32</a></td> 
         <td>133</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
@@ -1245,6 +1245,14 @@
         <td><a href="https://leetcode.com/problems/pascals-triangle-ii/">Pascal's Triangle II</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>130</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-5/question.pdf">Extra Long Factorials</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-5/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -1502,6 +1510,7 @@ Dec 5, 2019 - Dec 15, 2019
 * Question 2 (Minimum Depth)- Please find the question [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * Question 3 (Pascal's Triangle)- Please find the question [here](https://leetcode.com/problems/pascals-triangle/)
 * Question 4 (Pascal's Triangle II)- Please find the question [here](https://leetcode.com/problems/pascals-triangle-ii/submissions/)
+* Question 5 (Extra Long Factorials)- Please find the question [here](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 
 ## DAY-33
 
