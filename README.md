@@ -1178,7 +1178,7 @@
     </tr>
     <tr> 
         <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day</a></td>
-        <td rowspan="4"><a href="../code-files/Day-031-040/Day-31/">31</a></td> 
+        <td rowspan="4"><a href="./code-files/Day-031-040/Day-31/">31</a></td> 
         <td>129</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1214,7 +1214,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="../code-files/Day-031-040/Day-32/">32</a></td> 
+        <td rowspan="4"><a href="./code-files/Day-031-040/Day-32/">32</a></td> 
         <td>133</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
