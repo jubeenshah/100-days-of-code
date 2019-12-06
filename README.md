@@ -10,12 +10,12 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=32&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=133&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=107&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=134&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=108&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=24&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-93-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-40-orange)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-41-orange)](#100-days-of-code)
 
 
 <table> 
@@ -1225,8 +1225,8 @@
     <tr> 
         <td>134</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
-        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-031-040/Day-32/Question-2/question.pdf">Find Digits</a></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/">Minimum Depth</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1499,7 +1499,7 @@ Dec 5, 2019 - Dec 15, 2019
 ## DAY-32
 
 * Question 1 (Binary Level Order Traversal)- Please find the question [here](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Minimum Depth)- Please find the question [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here]()
 
