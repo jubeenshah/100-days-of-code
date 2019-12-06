@@ -9,13 +9,13 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=31&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=132&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=106&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=32&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=133&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=107&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=24&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-93-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-39-orange)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-40-orange)](#100-days-of-code)
 
 
 <table> 
@@ -1178,7 +1178,7 @@
     </tr>
     <tr> 
         <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day</a></td>
-        <td rowspan="4"><a href="../code-files/Day-031-040/ay-23/">31</a></td> 
+        <td rowspan="4"><a href="../code-files/Day-031-040/Day-31/">31</a></td> 
         <td>129</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1209,6 +1209,42 @@
         <td><a href="https://leetcode.com/problems/generate-parentheses/">Generate Parantheses</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="4"><a href="../code-files/Day-031-040/Day-32/">32</a></td> 
+        <td>133</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href=".https://leetcode.com/problems/binary-tree-level-order-traversal-ii/">Binary Level Order Traversal</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>134</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-2/question.pdf">Find Digits</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>135</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">Max Depth</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>136</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/generate-parentheses/">Generate Parantheses</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-32/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
@@ -1462,7 +1498,7 @@ Dec 5, 2019 - Dec 15, 2019
 
 ## DAY-32
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Binary Level Order Traversal)- Please find the question [here](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here]()
