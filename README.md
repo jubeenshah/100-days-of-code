@@ -10,11 +10,11 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=34&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=142&color=blue)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=143&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=115&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=25&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=26&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-98-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-99-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-44-orange)](#100-days-of-code)
 
 
@@ -1302,8 +1302,16 @@
         <td><a href="./code-files/Day-031-040/Day-34/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-34/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
-     <tr> 
+    <tr> 
         <td>143</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-34/Question-3/question.pdf">Non-Divisible Subset</a></td>
+        <td><a href="./code-files/Day-031-040/Day-34/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-34/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>144</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
@@ -1578,7 +1586,7 @@ Dec 5, 2019 - Dec 15, 2019
 
 * Question 1 (Library Fine)- Please find the question [here](https://www.hackerrank.com/challenges/library-fine/problem)
 * Question 2 (Cut The Sticks)- Please find the question [here](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
-* Question 3 ()- Please find the question [here]()
+* Question 3 (Non-Divisible Subset)- Please find the question [here](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
 * Question 4 ()- Please find the question [here]()
 
 ## DAY-35
