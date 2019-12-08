@@ -21,7 +21,7 @@
 
 ## DAY-34
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Library Fine)- Please find the question [here](https://www.hackerrank.com/challenges/library-fine/problem)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here]()
