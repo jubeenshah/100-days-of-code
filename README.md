@@ -1286,7 +1286,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="3"><a href="../code-files/Day-031-040/Day-34/">34</a></td> 
+        <td rowspan="4"><a href="../code-files/Day-031-040/Day-34/">34</a></td> 
         <td>141</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
