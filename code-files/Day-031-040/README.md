@@ -28,10 +28,8 @@
 
 ## DAY-35
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Equalize the Array)- Please find the question [here](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
 * Question 2 ()- Please find the question [here]()
-* Question 3 ()- Please find the question [here]()
-* Question 4 ()- Please find the question [here]()
 
 ## DAY-36
 
