@@ -1346,7 +1346,7 @@
         <td>147</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-031-040/Day-36/Question-1/question.pdf">Equalize the array</a></td>
+        <td><a href="./code-files/Day-031-040/Day-36/Question-1/question.pdf">Polar Coordinates</a></td>
         <td><a href="./code-files/Day-031-040/Day-36/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-36/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1636,7 +1636,7 @@ Dec 5, 2019 - Dec 15, 2019
 
 ## DAY-36
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Polar Coordinates)- Please find the question [here](https://www.hackerrank.com/challenges/polar-coordinates/problem)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here]()
