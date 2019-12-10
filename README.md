@@ -9,13 +9,13 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=35&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=146&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=117&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=36&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=148&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=119&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=27&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-100-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-46-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-101-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-47-orange)](#100-days-of-code)
 
 
 <table> 
@@ -1337,6 +1337,26 @@
         <td><a href="https://leetcode.com/problems/excel-sheet-column-title/">Excel Collumn Name</a></td>
         <td><a href="./code-files/Day-031-040/Day-35/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-35/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="../code-files/Day-031-040/Day-36/">36</a></td> 
+        <td>147</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-36/Question-1/question.pdf">Equalize the array</a></td>
+        <td><a href="./code-files/Day-031-040/Day-36/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-36/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+   <tr> 
+        <td>148</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/excel-sheet-column-title/">Excel Collumn Name</a></td>
+        <td><a href="./code-files/Day-031-040/Day-36/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-36/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
 </table> 
 
