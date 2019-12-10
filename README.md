@@ -1354,7 +1354,7 @@
         <td>148</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/excel-sheet-column-title/">Excel Collumn Name</a></td>
+        <td><a href="https://leetcode.com/problems/factorial-trailing-zeroes/">Trailing Zeros</a></td>
         <td><a href="./code-files/Day-031-040/Day-36/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-36/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1637,9 +1637,7 @@ Dec 5, 2019 - Dec 15, 2019
 ## DAY-36
 
 * Question 1 (Polar Coordinates)- Please find the question [here](https://www.hackerrank.com/challenges/polar-coordinates/problem)
-* Question 2 ()- Please find the question [here]()
-* Question 3 ()- Please find the question [here]()
-* Question 4 ()- Please find the question [here]()
+* Question 2 (Trailing Zeros)- Please find the question [here](https://leetcode.com/problems/factorial-trailing-zeroes/)
 
 ## DAY-37
 
