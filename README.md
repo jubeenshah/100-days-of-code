@@ -11,8 +11,8 @@
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=37&color=ff69b4)](#100-days-of-code)
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=150&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=120&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=28&color=yellow)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=119&color=success)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=29&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-102-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-48-orange)](#100-days-of-code)
@@ -1372,9 +1372,9 @@
     </tr> 
    <tr> 
         <td>150</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/factorial-trailing-zeroes/">Trailing Zeros</a></td>
+        <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in rotated array</a></td>
         <td><a href="./code-files/Day-031-040/Day-37/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-37/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1662,7 +1662,7 @@ Dec 5, 2019 - Dec 15, 2019
 ## DAY-37
 
 * Question 1 (Queen Attack)- Please find the question [here](https://www.hackerrank.com/challenges/queens-attack-2/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Search in rotated array)- Please find the question [here](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 ## DAY-38
 
