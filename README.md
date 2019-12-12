@@ -1214,7 +1214,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="5"><a href="../code-files/Day-031-040/Day-32/">32</a></td> 
+        <td rowspan="5"><a href="./code-files/Day-031-040/Day-32/">32</a></td> 
         <td>133</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
@@ -1258,7 +1258,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="3"><a href="../code-files/Day-031-040/Day-33/">33</a></td> 
+        <td rowspan="3"><a href="./code-files/Day-031-040/Day-33/">33</a></td> 
         <td>138</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1286,7 +1286,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="4"><a href="../code-files/Day-031-040/Day-34/">34</a></td> 
+        <td rowspan="4"><a href="./code-files/Day-031-040/Day-34/">34</a></td> 
         <td>141</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1322,7 +1322,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="../code-files/Day-031-040/Day-35/">35</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-031-040/Day-35/">35</a></td> 
         <td>145</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1342,7 +1342,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="../code-files/Day-031-040/Day-36/">36</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-031-040/Day-36/">36</a></td> 
         <td>147</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1362,7 +1362,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="../code-files/Day-031-040/Day-37/">37</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-031-040/Day-37/">37</a></td> 
         <td>149</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1382,7 +1382,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="../code-files/Day-031-040/Day-38/">38</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-031-040/Day-38/">38</a></td> 
         <td>151</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
