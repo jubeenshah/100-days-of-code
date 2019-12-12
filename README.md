@@ -9,13 +9,13 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=37&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=150&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=119&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=38&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=152&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=121&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=29&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-102-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-48-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-103-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-49-orange)](#100-days-of-code)
 
 
 <table> 
