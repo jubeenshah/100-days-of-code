@@ -1378,6 +1378,26 @@
         <td><a href="./code-files/Day-031-040/Day-37/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-37/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="../code-files/Day-031-040/Day-38/">38</a></td> 
+        <td>151</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-38/Question-1/question.pdf">ACM ICPC Team</a></td>
+        <td><a href="./code-files/Day-031-040/Day-38/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-38/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+   <tr> 
+        <td>152</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in rotated array</a></td>
+        <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -1666,7 +1686,7 @@ Dec 5, 2019 - Dec 15, 2019
 
 ## DAY-38
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (ACM ICPC Team)- Please find the question [here](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
 * Question 2 ()- Please find the question [here]()
 * Question 3 ()- Please find the question [here]()
 * Question 4 ()- Please find the question [here]()
