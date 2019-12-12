@@ -1394,7 +1394,7 @@
         <td>152</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in rotated array</a></td>
+        <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Excel Title to Number</a></td>
         <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1687,9 +1687,7 @@ Dec 5, 2019 - Dec 15, 2019
 ## DAY-38
 
 * Question 1 (ACM ICPC Team)- Please find the question [here](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
-* Question 2 ()- Please find the question [here]()
-* Question 3 ()- Please find the question [here]()
-* Question 4 ()- Please find the question [here]()
+* Question 2 (Excel Title to Number)- Please find the question [here](https://leetcode.com/problems/excel-sheet-column-number/)
 
 ## DAY-39
 
