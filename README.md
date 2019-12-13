@@ -1182,7 +1182,9 @@
     <tr> 
         <td></td>
         <td></td>
-        <td colspan="4"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
+        <td></td>
+        <td colspan="2"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
+        <td></td>
         <td></td>
         <td></td>
     </tr> 
