@@ -1187,6 +1187,7 @@
         <td>Done</td>
         <td>Every</td>
         <td>Day</td>
+        <td></td>
     </tr> 
     <tr> 
         <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day (Exam Time)</a></td>
