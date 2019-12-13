@@ -1180,6 +1180,7 @@
         <td></td>
     </tr>
     <tr> 
+        <td rowspan="1"></td>
         <td></td>
         <td>Fewer</td>
         <td>Questions</td>
