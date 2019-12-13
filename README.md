@@ -1176,12 +1176,6 @@
     <tr>
         <td></td>
     </tr>
-    <tr>
-        <td></td>
-    </tr>
-    <tr> 
-        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
-    </tr> 
     <tr> 
         <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day (Exam Time)</a></td>
         <td rowspan="4"><a href="./code-files/Day-031-040/Day-31/">31</a></td> 
@@ -1215,6 +1209,12 @@
         <td><a href="https://leetcode.com/problems/generate-parentheses/">Generate Parantheses</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
     <tr>
         <td></td>
@@ -1264,6 +1264,12 @@
         <td></td>
     </tr>
     <tr> 
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
         <td rowspan="3"><a href="./code-files/Day-031-040/Day-33/">33</a></td> 
         <td>138</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
@@ -1287,6 +1293,12 @@
         <td><a href="https://leetcode.com/problems/single-number/">Single Number</a></td>
         <td><a href="./code-files/Day-031-040/Day-33/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-33/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
     <tr>
         <td></td>
@@ -1328,6 +1340,12 @@
         <td></td>
     </tr>
     <tr> 
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
         <td rowspan="2"><a href="./code-files/Day-031-040/Day-35/">35</a></td> 
         <td>145</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
@@ -1343,6 +1361,12 @@
         <td><a href="https://leetcode.com/problems/excel-sheet-column-title/">Excel Collumn Name</a></td>
         <td><a href="./code-files/Day-031-040/Day-35/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-35/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
     <tr>
         <td></td>
@@ -1368,6 +1392,12 @@
         <td></td>
     </tr>
     <tr> 
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
         <td rowspan="2"><a href="./code-files/Day-031-040/Day-37/">37</a></td> 
         <td>149</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
@@ -1388,6 +1418,12 @@
         <td></td>
     </tr>
     <tr> 
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
         <td rowspan="2"><a href="./code-files/Day-031-040/Day-38/">38</a></td> 
         <td>151</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
@@ -1403,6 +1439,12 @@
         <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Excel Title to Number</a></td>
         <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
     <tr>
         <td></td>
