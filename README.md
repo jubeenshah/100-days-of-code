@@ -1210,15 +1210,9 @@
         <td><a href="./code-files/Day-031-040/Day-31/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td rowspan="5"><a href="./code-files/Day-031-040/Day-32/">32</a></td> 
         <td>133</td>
@@ -1260,15 +1254,9 @@
         <td><a href="./code-files/Day-031-040/Day-32/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-32/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td rowspan="3"><a href="./code-files/Day-031-040/Day-33/">33</a></td> 
         <td>138</td>
@@ -1294,15 +1282,9 @@
         <td><a href="./code-files/Day-031-040/Day-33/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-33/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td rowspan="4"><a href="./code-files/Day-031-040/Day-34/">34</a></td> 
         <td>141</td>
@@ -1336,15 +1318,9 @@
         <td><a href="./code-files/Day-031-040/Day-34/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-34/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-031-040/Day-35/">35</a></td> 
         <td>145</td>
@@ -1362,15 +1338,9 @@
         <td><a href="./code-files/Day-031-040/Day-35/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-35/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-031-040/Day-36/">36</a></td> 
         <td>147</td>
@@ -1388,15 +1358,9 @@
         <td><a href="./code-files/Day-031-040/Day-36/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-36/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-031-040/Day-37/">37</a></td> 
         <td>149</td>
@@ -1413,16 +1377,10 @@
         <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Search in rotated array</a></td>
         <td><a href="./code-files/Day-031-040/Day-37/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-37/Question-2/solution.ipynb">Solution.ipynb</a></td>
-    </tr> 
-    <tr>
-        <td></td>
     </tr>
     <tr> 
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-031-040/Day-38/">38</a></td> 
         <td>151</td>
@@ -1440,14 +1398,8 @@
         <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
-    <tr>
-        <td></td>
-    </tr>
     <tr> 
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
-    </tr> 
-    <tr>
-        <td></td>
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-031-040/Day-39/">39</a></td> 
