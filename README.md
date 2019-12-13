@@ -1181,13 +1181,13 @@
     </tr>
     <tr> 
         <td rowspan="1"></td>
-        <td>Exam        |</td>
-        <td>Time        |</td>
-        <td>Fewer       |</td>
-        <td>Questions   |</td>
-        <td>Done        |</td>
-        <td>Every       |</td>
-        <td>Day         |</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Exam&color=red></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Time&color=red></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Fewer&color=yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Questions&color=blue></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Done&color=violet></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Every&color=success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Day&color=pink></td>
     </tr> 
     <tr> 
         <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day (Exam Time)</a></td>
