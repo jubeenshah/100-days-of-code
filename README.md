@@ -1176,6 +1176,17 @@
     <tr>
         <td></td>
     </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td></td>
+        <td>Fewer</td>
+        <td>Questions</td>
+        <td>Done</td>
+        <td>Every</td>
+        <td>Day</td>
+    </tr> 
     <tr> 
         <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day (Exam Time)</a></td>
         <td rowspan="4"><a href="./code-files/Day-031-040/Day-31/">31</a></td> 
