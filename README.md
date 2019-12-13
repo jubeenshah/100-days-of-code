@@ -1181,13 +1181,13 @@
     </tr>
     <tr> 
         <td rowspan="1"></td>
-        <td></td>
+        <td>Exam</td>
+        <td>Time</td>
         <td>Fewer</td>
         <td>Questions</td>
         <td>Done</td>
         <td>Every</td>
         <td>Day</td>
-        <td></td>
     </tr> 
     <tr> 
         <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day (Exam Time)</a></td>
