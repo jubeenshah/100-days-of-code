@@ -1180,7 +1180,9 @@
         <td></td>
     </tr>
     <tr> 
-        <td colspan="8"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
+        <td></td>
+        <td colspan="6"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
+        <td></td>
     </tr> 
     <tr> 
         <td rowspan="60"><a href="./code-files/Day-031-040/">40 Day (Exam Time)</a></td>
