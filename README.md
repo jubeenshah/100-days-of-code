@@ -1414,7 +1414,7 @@
         <td>154</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Excel Title to Number</a></td>
+        <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</a></td>
         <td><a href="./code-files/Day-031-040/Day-39/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-39/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1712,7 +1712,7 @@ Dec 5, 2019 - Dec 15, 2019
 ## DAY-39
 
 * Question 1 (Introduction to sets)- Please find the question [here](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Rotate Array)- Please find the question [here](https://leetcode.com/problems/rotate-array/)
 
 ## DAY-40
 
