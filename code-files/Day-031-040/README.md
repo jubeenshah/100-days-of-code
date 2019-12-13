@@ -48,10 +48,8 @@
 
 ## DAY-39
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Introduction to sets)- Please find the question [here](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
 * Question 2 ()- Please find the question [here]()
-* Question 3 ()- Please find the question [here]()
-* Question 4 ()- Please find the question [here]()
 
 ## DAY-40
 

@@ -9,20 +9,20 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=38&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=152&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=121&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=39&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=154&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=123&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=29&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-103-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-49-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-104-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-50-orange)](#100-days-of-code)
 
 
 <table> 
     <tr>
         <th>Span</th>  
         <th>Day</th> 
-        <th>Sr.</th>
+        <th>Sr.</th>5
         <th>Difficulty</th>
         <th>Portal</th>
         <th>Question</th>
@@ -1398,6 +1398,26 @@
         <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-38/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-031-040/Day-39/">39</a></td> 
+        <td>153</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-031-040/Day-39/Question-1/question.pdf">Introduction to Sets</a></td>
+        <td><a href="./code-files/Day-031-040/Day-39/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-39/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+   <tr> 
+        <td>154</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">Excel Title to Number</a></td>
+        <td><a href="./code-files/Day-031-040/Day-39/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-031-040/Day-39/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
 </table> 
 
 
@@ -1691,10 +1711,8 @@ Dec 5, 2019 - Dec 15, 2019
 
 ## DAY-39
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Introduction to sets)- Please find the question [here](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
 * Question 2 ()- Please find the question [here]()
-* Question 3 ()- Please find the question [here]()
-* Question 4 ()- Please find the question [here]()
 
 ## DAY-40
 
