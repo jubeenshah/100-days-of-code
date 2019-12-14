@@ -53,7 +53,5 @@
 
 ## DAY-40
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Taum and B'day)- Please find the question [here](https://www.hackerrank.com/challenges/taum-and-bday/problem)
 * Question 2 ()- Please find the question [here]()
-* Question 3 ()- Please find the question [here]()
-* Question 4 ()- Please find the question [here]()
