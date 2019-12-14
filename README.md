@@ -1459,6 +1459,9 @@
         <td><a href="./code-files/Day-041-050/Day-41/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-41/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr>
+    <tr> 
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
+    </tr> 
 </table> 
 
 
