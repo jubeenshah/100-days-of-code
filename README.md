@@ -1438,6 +1438,27 @@
         <td><a href="./code-files/Day-031-040/Day-40/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-40/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+        <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="60"><a href="./code-files/Day-041-050/">50 Day (Exam Time)</a></td>
+        <td rowspan="2"><a href="./code-files/Day-041-050/Day-41/">41</a></td> 
+        <td>157</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-041-050/Day-41/Question-1/question.pdf"></a></td>
+        <td><a href="./code-files/Day-041-050/Day-41/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-41/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>158</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/generate-parentheses/"></a></td>
+        <td><a href="./code-files/Day-041-050/Day-41/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-41/Question-4/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
 </table> 
 
 
@@ -1738,3 +1759,57 @@ Dec 5, 2019 - Dec 15, 2019
 
 * Question 1 (Taum and B'day)- Please find the question [here](https://www.hackerrank.com/challenges/taum-and-bday/problem)
 * Question 2 (Sort an Array)- Please find the question [here](https://leetcode.com/problems/sort-an-array/)
+
+# Day 041-050
+
+Dec 16, 2019 - Dec 26, 2019 
+
+## DAY-41
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-42
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-43
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-44
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-45
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-46
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-47
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-48
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-49
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-50
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
