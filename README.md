@@ -1465,6 +1465,284 @@
 </table> 
 
 
+
+
+
+
+
+# Day 041-050
+
+Dec 16, 2019 - Dec 26, 2019 
+
+## DAY-41
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-42
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-43
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-44
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-45
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-46
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-47
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-48
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-49
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-50
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+# Day 031-040
+
+Dec 5, 2019 - Dec 15, 2019 
+
+## DAY-31
+
+* Question 1 (Jumping Clouds)- Please find the question [here](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
+* Question 2 (Find Digits)- Please find the question [here](https://www.hackerrank.com/challenges/find-digits/problem)
+* Question 3 (Max Depth)- Please find the question [here](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+* Question 4 (Generate Parantheses)- Please find the question [here](https://leetcode.com/problems/generate-parentheses/)
+
+## DAY-32
+
+* Question 1 (Binary Level Order Traversal)- Please find the question [here](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+* Question 2 (Minimum Depth)- Please find the question [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+* Question 3 (Pascal's Triangle)- Please find the question [here](https://leetcode.com/problems/pascals-triangle/)
+* Question 4 (Pascal's Triangle II)- Please find the question [here](https://leetcode.com/problems/pascals-triangle-ii/submissions/)
+* Question 5 (Extra Long Factorials)- Please find the question [here](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
+
+## DAY-33
+
+* Question 1 (Append and Delete)- Please find the question [here](https://www.hackerrank.com/challenges/append-and-delete)
+* Question 2 (Sherlock and Squares)- Please find the question [here](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
+* Question 3 (Single Number)- Please find the question [here](https://leetcode.com/problems/single-number/)
+
+## DAY-34
+
+* Question 1 (Library Fine)- Please find the question [here](https://www.hackerrank.com/challenges/library-fine/problem)
+* Question 2 (Cut The Sticks)- Please find the question [here](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
+* Question 3 (Non-Divisible Subset)- Please find the question [here](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
+* Question 4 (Next Permutation)- Please find the question [here](https://leetcode.com/problems/next-permutation/)
+
+## DAY-35
+
+* Question 1 (Equalize the Array)- Please find the question [here](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
+* Question 2 (Excel Collumn Name)- Please find the question [here](https://leetcode.com/problems/excel-sheet-column-title/)
+
+## DAY-36
+
+* Question 1 (Polar Coordinates)- Please find the question [here](https://www.hackerrank.com/challenges/polar-coordinates/problem)
+* Question 2 (Trailing Zeros)- Please find the question [here](https://leetcode.com/problems/factorial-trailing-zeroes/)
+
+## DAY-37
+
+* Question 1 (Queen Attack)- Please find the question [here](https://www.hackerrank.com/challenges/queens-attack-2/problem)
+* Question 2 (Search in rotated array)- Please find the question [here](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+## DAY-38
+
+* Question 1 (ACM ICPC Team)- Please find the question [here](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
+* Question 2 (Excel Title to Number)- Please find the question [here](https://leetcode.com/problems/excel-sheet-column-number/)
+
+## DAY-39
+
+* Question 1 (Introduction to sets)- Please find the question [here](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
+* Question 2 (Rotate Array)- Please find the question [here](https://leetcode.com/problems/rotate-array/)
+
+## DAY-40
+
+* Question 1 (Taum and B'day)- Please find the question [here](https://www.hackerrank.com/challenges/taum-and-bday/problem)
+* Question 2 (Sort an Array)- Please find the question [here](https://leetcode.com/problems/sort-an-array/)
+
+# Day 021-030
+
+Nov 25, 2019 - Dec 4, 2019 
+
+## DAY-21
+
+* Question 1 (Nested Lists)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-1/question.pdf)
+* Question 2 (Longest Pallindrome)- Please find the question [here](https://leetcode.com/problems/longest-palindromic-substring/)
+* Question 3 (Median of Two Arrays)- Please find the question [here](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+* Question 4 (Finding the percentage)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-4/question.pdf)
+* Question 4 (List)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-5/question.pdf)
+
+## DAY-22
+
+* Question 1 (Generics)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-1/question.pdf)
+* Question 2 (Zig-Zag Conversation)- Please find the question [here](https://leetcode.com/problems/zigzag-conversion/)
+* Question 3 (Regex Match)- Please find the question [here](https://leetcode.com/problems/regular-expression-matching/)
+* Question 4 (Hurdle Race)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-4/question.pdf)
+* Question 5 (PDF Viewer)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-5/question.pdf)
+
+## DAY-23
+
+* Question 1 (Binary Search Tree)- Please find the question [here](./code-files/Day-021-030/Day-23/Question-1/question.pdf)
+* Question 2 (Level Order Traversal)- Please find the question [here](./code-files/Day-021-030/Day-23/Question-2/question.pdf)
+
+## DAY-24
+
+* Question 1 (Linked List)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-1/question.pdf)
+* Question 2 (Utopian Tree)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-2/question.pdf)
+* Question 3 (Angry Professor)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-2/question.pdf)
+* Question 4 (String to Integer)- Please find the question [here](https://leetcode.com/problems/string-to-integer-atoi/)
+
+## DAY-25
+
+* Question 1 (Text Wrap)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-1/question.pdf)
+* Question 2 (Welcome Pattern)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-2/question.pdf)
+* Question 3 (Format String)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-3/question.pdf)
+* Question 4 (Beautiful Day)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-4/question.pdf)
+* Question 5 (Most water)- Please find the question [here](https://leetcode.com/problems/container-with-most-water/)
+* Question 6 (Int To Roman)- Please find the question [here](https://leetcode.com/problems/integer-to-roman/)
+
+## DAY-26
+
+* Question 1 (Is Prime)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-1/question.pdf)
+* Question 2 (Viral Advertising)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-2/question.pdf)
+* Question 3 (Word Rangoli)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-3/question.pdf)
+* Question 4 (Three Sum)- Please find the question [here](https://leetcode.com/problems/3sum)
+* Question 5 (CPP -Hello World)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-5/question.pdf)
+* Question 6 (CPP -Input/Output)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-6/question.pdf)
+* Question 7 (3 Sum Closest)- Please find the question [here](https://leetcode.com/problems/3sum-closest/)
+* Question 8 (Combination of Digits)- Please find the question [here](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+
+## DAY-27
+
+* Question 1 (Libray Fine Collection)- Please find the question [here](https://www.hackerrank.com/challenges/30-nested-logic/problem)
+* Question 2 (Capatalize Word)- Please find the question [here](https://www.hackerrank.com/challenges/capitalize/problem)
+* Question 3 (The Minion Game)- Please find the question [here](https://www.hackerrank.com/challenges/the-minion-game/problem)
+* Question 4 (Remove Nth Node)- Please find the question [here](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+## DAY-28
+
+* Question 1 (Unit Testing)- Please find the question [here](https://www.hackerrank.com/challenges/30-testing/problem)
+* Question 2 (Merge the Tools)- Please find the question [here](https://www.hackerrank.com/challenges/merge-the-tools/problem)
+* Question 3 (itertools.product())- Please find the question [here](https://www.hackerrank.com/challenges/itertools-product/problem)
+* Question 4 (itertools.permutations())- Please find the question [here](https://www.hackerrank.com/challenges/itertools-permutations/problem)
+* Question 5 (itertools.combinations())- Please find the question [here](https://www.hackerrank.com/challenges/itertools-combinations/problem)
+* Question 6 (Divide Integers)- Please find the question [here](https://leetcode.com/problems/divide-two-integers/)
+
+## DAY-29
+
+* Question 1 (Regex Match)- Please find the question [here](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
+* Question 2 (collections.Counter())- Please find the question [here](https://www.hackerrank.com/challenges/collections-counter/problem)
+* Question 3 (Save The Prisoner)- Please find the question [here](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+* Question 4 (Is Pallindrome)- Please find the question [here](https://leetcode.com/problems/valid-palindrome)
+* Question 5 (And Operation)- Please find the question [here](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
+
+## DAY-30
+
+* Question 1 (Circular Array)- Please find the question [here](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
+* Question 2 (Sequence Equation)- Please find the question [here](https://www.hackerrank.com/challenges/permutation-equation/problem)
+* Question 3 (Dynamic Array)- Please find the question [here](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)
+* Question 4 (Vector Erase)- Please find the question [here](https://www.hackerrank.com/challenges/vector-erase/problem)
+* Question 5 (Symmetric Tree)- Please find the question [here](https://leetcode.com/problems/symmetric-tree/)
+
+# Day 011-020
+
+Nov 15, 2019 - Nov 25, 2019 
+
+## DAY-11
+
+* Question 1 (Binary Count)- Please find the question [here](./code-files/Day-011-020/Day-11/Question-1/question.pdf)
+* Question 2 (Longest Common Prefix)- Please find the question [here](https://leetcode.com/problems/longest-common-prefix/)
+* Question 3 (Valid Parantheses)- Please find the question [here](https://leetcode.com/problems/valid-parentheses)
+* Question 4 (Programmers day)- Please find the question [here](./code-files/Day-011-020/Day-11/Question-4/question.pdf)
+
+## DAY-12
+
+* Question 1 (Luck Balance)- Please find the question [here](./code-files/Day-011-020/Day-12/Question-1/question.pdf)
+* Question 2 (Merge Sorted List)- Please find the question [here](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+## DAY-13
+
+* Question 1 (Bon Apetit) - Please find the question [here](./code-files/Day-011-020/Day-13/Question-1/question.pdf)
+* Question 2 (Remove Duplicates) - Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+* Question 3 (Remove Value)- Please find the question [here](https://leetcode.com/problems/remove-element/)
+* Question 4 (Number of Pairs)- Please find the question [here](./code-files/Day-011-020/Day-13/Question-4/question.pdf)
+
+## DAY-14
+
+* Question 1 (Inheritance) - Please find the question [here](./code-files/Day-011-020/Day-14/Question-1/question.pdf)
+* Question 2 (Abstract Class) - Please find the question [here](./code-files/Day-011-020/Day-14/Question-2/question.pdf)
+* Question 3 (Implement strStr()) - Please find the question [here](https://leetcode.com/problems/implement-strstr)
+* Question 4 (Search Insert Position) - Please find the question [here](https://leetcode.com/problems/search-insert-position/)
+
+## DAY-15
+
+* Question 1 (Scope)- Please find the question [here](./code-files/Day-011-020/Day-15/Question-1/question.pdf)
+* Question 2 (Count and Say)- Please find the question [here](https://leetcode.com/problems/count-and-say/)
+* Question 3 (Maximum Subarray)- Please find the question [here](https://leetcode.com/problems/maximum-subarray)
+
+## DAY-16
+
+* Question 1 (Drawing 📚 ) - Please find the question [here](./code-files/Day-011-020/Day-16/Question-1/question.pdf)
+* Question 2 (Electronics Shop) - Please find the question [here](./code-files/Day-011-020/Day-16/Question-2/question.pdf)
+* Question 3 (Length of Last Word) - Please find the question [here](https://leetcode.com/problems/length-of-last-word)
+* Question 4 (Plus ☝️) - Please find the question [here](https://leetcode.com/problems/plus-one/)
+
+## DAY-17
+
+* Question 1 (is Leap Year) - Please find the question [here](./code-files/Day-011-020/Day-17/Question-1/question.pdf)
+* Question 2 (Cats and Mouse) - Please find the question [here](./code-files/Day-011-020/Day-17/Question-2/question.pdf)
+* Question 3 (Add Binary) - Please find the question [here](https://leetcode.com/problems/add-binary/)
+* Question 4 (Square Root) - Please find the question [here](https://leetcode.com/problems/sqrtx/)
+
+## DAY-18
+
+* Question 1 (More Exceptions)- Please find the question [here](./code-files/Day-011-020/Day-18/Question-1/question.pdf)
+* Question 2 (Stacks and Queues)- Please find the question [here](./code-files/Day-011-020/Day-18/Question-2/question.pdf)
+* Question 3 (Climbing Stairs)- Please find the question [here](https://leetcode.com/problems/climbing-stairs/)
+* Question 4 (deleteDuplicates)- Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
+
+## DAY-19
+
+* Question 1 (List Comprehensions)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-1/question.pdf)
+* Question 2 (findRunnersUp)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-2/question.pdf)
+* Question 3 (Merge Sorted Array)- Please find the question [here](https://leetcode.com/problems/merge-sorted-array)
+* Question 4 (Same 🌳 )- Please find the question [here](https://leetcode.com/problems/same-tree/)
+* Question 5 (Forming Magic Squares)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-5/question.pdf)
+
+## DAY-20
+
+* Question 1 (Interfaces) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-1/question.pdf)
+* Question 2 (Picking Numbers) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-2/question.pdf)
+* Question 3 (Add Two Numbers) - Please find the question [here](https://leetcode.com/problems/add-two-numbers/)
+* Question 4 (Longest Substring) - Please find the question [here](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+* Question 5 (Climbing Leaderboard) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-5/question.pdf)
+
 # Day 001-010
 
 Nov 4, 2019 - Nov 14, 2019 
@@ -1540,279 +1818,4 @@ Nov 4, 2019 - Nov 14, 2019
 * Question 1 (Triple Sum) - Please find the question [here](./code-files/Day-001-010/Day-10/Question-1/question.pdf)
 * Question 2 (Roman to Integer) - Please find the question [here](https://leetcode.com/problems/roman-to-integer/)
 
-# Day 011-020
 
-Nov 15, 2019 - Nov 25, 2019 
-
-## DAY-11
-
-* Question 1 (Binary Count)- Please find the question [here](./code-files/Day-011-020/Day-11/Question-1/question.pdf)
-* Question 2 (Longest Common Prefix)- Please find the question [here](https://leetcode.com/problems/longest-common-prefix/)
-* Question 3 (Valid Parantheses)- Please find the question [here](https://leetcode.com/problems/valid-parentheses)
-* Question 4 (Programmers day)- Please find the question [here](./code-files/Day-011-020/Day-11/Question-4/question.pdf)
-
-## DAY-12
-
-* Question 1 (Luck Balance)- Please find the question [here](./code-files/Day-011-020/Day-12/Question-1/question.pdf)
-* Question 2 (Merge Sorted List)- Please find the question [here](https://leetcode.com/problems/merge-two-sorted-lists/)
-
-## DAY-13
-
-* Question 1 (Bon Apetit) - Please find the question [here](./code-files/Day-011-020/Day-13/Question-1/question.pdf)
-* Question 2 (Remove Duplicates) - Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-* Question 3 (Remove Value)- Please find the question [here](https://leetcode.com/problems/remove-element/)
-* Question 4 (Number of Pairs)- Please find the question [here](./code-files/Day-011-020/Day-13/Question-4/question.pdf)
-
-## DAY-14
-
-* Question 1 (Inheritance) - Please find the question [here](./code-files/Day-011-020/Day-14/Question-1/question.pdf)
-* Question 2 (Abstract Class) - Please find the question [here](./code-files/Day-011-020/Day-14/Question-2/question.pdf)
-* Question 3 (Implement strStr()) - Please find the question [here](https://leetcode.com/problems/implement-strstr)
-* Question 4 (Search Insert Position) - Please find the question [here](https://leetcode.com/problems/search-insert-position/)
-
-## DAY-15
-
-* Question 1 (Scope)- Please find the question [here](./code-files/Day-011-020/Day-15/Question-1/question.pdf)
-* Question 2 (Count and Say)- Please find the question [here](https://leetcode.com/problems/count-and-say/)
-* Question 3 (Maximum Subarray)- Please find the question [here](https://leetcode.com/problems/maximum-subarray)
-
-## DAY-16
-
-* Question 1 (Drawing 📚 ) - Please find the question [here](./code-files/Day-011-020/Day-16/Question-1/question.pdf)
-* Question 2 (Electronics Shop) - Please find the question [here](./code-files/Day-011-020/Day-16/Question-2/question.pdf)
-* Question 3 (Length of Last Word) - Please find the question [here](https://leetcode.com/problems/length-of-last-word)
-* Question 4 (Plus ☝️) - Please find the question [here](https://leetcode.com/problems/plus-one/)
-
-## DAY-17
-
-* Question 1 (is Leap Year) - Please find the question [here](./code-files/Day-011-020/Day-17/Question-1/question.pdf)
-* Question 2 (Cats and Mouse) - Please find the question [here](./code-files/Day-011-020/Day-17/Question-2/question.pdf)
-* Question 3 (Add Binary) - Please find the question [here](https://leetcode.com/problems/add-binary/)
-* Question 4 (Square Root) - Please find the question [here](https://leetcode.com/problems/sqrtx/)
-
-## DAY-18
-
-* Question 1 (More Exceptions)- Please find the question [here](./code-files/Day-011-020/Day-18/Question-1/question.pdf)
-* Question 2 (Stacks and Queues)- Please find the question [here](./code-files/Day-011-020/Day-18/Question-2/question.pdf)
-* Question 3 (Climbing Stairs)- Please find the question [here](https://leetcode.com/problems/climbing-stairs/)
-* Question 4 (deleteDuplicates)- Please find the question [here](https://leetcode.com/problems/remove-duplicates-from-sorted-list)
-
-
-## DAY-19
-
-* Question 1 (List Comprehensions)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-1/question.pdf)
-* Question 2 (findRunnersUp)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-2/question.pdf)
-* Question 3 (Merge Sorted Array)- Please find the question [here](https://leetcode.com/problems/merge-sorted-array)
-* Question 4 (Same 🌳 )- Please find the question [here](https://leetcode.com/problems/same-tree/)
-* Question 5 (Forming Magic Squares)- Please find the question [here](./code-files/Day-011-020/Day-19/Question-5/question.pdf)
-
-## DAY-20
-
-* Question 1 (Interfaces) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-1/question.pdf)
-* Question 2 (Picking Numbers) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-2/question.pdf)
-* Question 3 (Add Two Numbers) - Please find the question [here](https://leetcode.com/problems/add-two-numbers/)
-* Question 4 (Longest Substring) - Please find the question [here](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-* Question 5 (Climbing Leaderboard) - Please find the question [here](./code-files/Day-011-020/Day-20/Question-5/question.pdf)
-
-# Day 021-030
-
-Nov 25, 2019 - Dec 4, 2019 
-
-## DAY-21
-
-* Question 1 (Nested Lists)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-1/question.pdf)
-* Question 2 (Longest Pallindrome)- Please find the question [here](https://leetcode.com/problems/longest-palindromic-substring/)
-* Question 3 (Median of Two Arrays)- Please find the question [here](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-* Question 4 (Finding the percentage)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-4/question.pdf)
-* Question 4 (List)- Please find the question [here](./code-files/Day-021-030/Day-21/Question-5/question.pdf)
-
-## DAY-22
-
-* Question 1 (Generics)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-1/question.pdf)
-* Question 2 (Zig-Zag Conversation)- Please find the question [here](https://leetcode.com/problems/zigzag-conversion/)
-* Question 3 (Regex Match)- Please find the question [here](https://leetcode.com/problems/regular-expression-matching/)
-* Question 4 (Hurdle Race)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-4/question.pdf)
-* Question 5 (PDF Viewer)- Please find the question [here](./code-files/Day-021-030/Day-22/Question-5/question.pdf)
-
-## DAY-23
-
-* Question 1 (Binary Search Tree)- Please find the question [here](./code-files/Day-021-030/Day-23/Question-1/question.pdf)
-* Question 2 (Level Order Traversal)- Please find the question [here](./code-files/Day-021-030/Day-23/Question-2/question.pdf)
-
-## DAY-24
-
-* Question 1 (Linked List)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-1/question.pdf)
-* Question 2 (Utopian Tree)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-2/question.pdf)
-* Question 3 (Angry Professor)- Please find the question [here](./code-files/Day-021-030/Day-24/Question-2/question.pdf)
-* Question 4 (String to Integer)- Please find the question [here](https://leetcode.com/problems/string-to-integer-atoi/)
-
-## DAY-25
-
-* Question 1 (Text Wrap)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-1/question.pdf)
-* Question 2 (Welcome Pattern)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-2/question.pdf)
-* Question 3 (Format String)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-3/question.pdf)
-* Question 4 (Beautiful Day)- Please find the question [here](./code-files/Day-021-030/Day-25/Question-4/question.pdf)
-* Question 5 (Most water)- Please find the question [here](https://leetcode.com/problems/container-with-most-water/)
-* Question 6 (Int To Roman)- Please find the question [here](https://leetcode.com/problems/integer-to-roman/)
-
-## DAY-26
-
-* Question 1 (Is Prime)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-1/question.pdf)
-* Question 2 (Viral Advertising)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-2/question.pdf)
-* Question 3 (Word Rangoli)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-3/question.pdf)
-* Question 4 (Three Sum)- Please find the question [here](https://leetcode.com/problems/3sum)
-* Question 5 (CPP -Hello World)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-5/question.pdf)
-* Question 6 (CPP -Input/Output)- Please find the question [here](./code-files/Day-021-030/Day-26/Question-6/question.pdf)
-* Question 7 (3 Sum Closest)- Please find the question [here](https://leetcode.com/problems/3sum-closest/)
-* Question 8 (Combination of Digits)- Please find the question [here](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
-
-## DAY-27
-
-* Question 1 (Libray Fine Collection)- Please find the question [here](https://www.hackerrank.com/challenges/30-nested-logic/problem)
-* Question 2 (Capatalize Word)- Please find the question [here](https://www.hackerrank.com/challenges/capitalize/problem)
-* Question 3 (The Minion Game)- Please find the question [here](https://www.hackerrank.com/challenges/the-minion-game/problem)
-* Question 4 (Remove Nth Node)- Please find the question [here](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-
-## DAY-28
-
-* Question 1 (Unit Testing)- Please find the question [here](https://www.hackerrank.com/challenges/30-testing/problem)
-* Question 2 (Merge the Tools)- Please find the question [here](https://www.hackerrank.com/challenges/merge-the-tools/problem)
-* Question 3 (itertools.product())- Please find the question [here](https://www.hackerrank.com/challenges/itertools-product/problem)
-* Question 4 (itertools.permutations())- Please find the question [here](https://www.hackerrank.com/challenges/itertools-permutations/problem)
-* Question 5 (itertools.combinations())- Please find the question [here](https://www.hackerrank.com/challenges/itertools-combinations/problem)
-* Question 6 (Divide Integers)- Please find the question [here](https://leetcode.com/problems/divide-two-integers/)
-
-
-
-## DAY-29
-
-* Question 1 (Regex Match)- Please find the question [here](https://www.hackerrank.com/challenges/30-regex-patterns/problem)
-* Question 2 (collections.Counter())- Please find the question [here](https://www.hackerrank.com/challenges/collections-counter/problem)
-* Question 3 (Save The Prisoner)- Please find the question [here](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
-* Question 4 (Is Pallindrome)- Please find the question [here](https://leetcode.com/problems/valid-palindrome)
-* Question 5 (And Operation)- Please find the question [here](https://www.hackerrank.com/challenges/30-bitwise-and/problem)
-
-## DAY-30
-
-* Question 1 (Circular Array)- Please find the question [here](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
-* Question 2 (Sequence Equation)- Please find the question [here](https://www.hackerrank.com/challenges/permutation-equation/problem)
-* Question 3 (Dynamic Array)- Please find the question [here](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)
-* Question 4 (Vector Erase)- Please find the question [here](https://www.hackerrank.com/challenges/vector-erase/problem)
-* Question 5 (Symmetric Tree)- Please find the question [here](https://leetcode.com/problems/symmetric-tree/)
-
-
-# Day 031-040
-
-Dec 5, 2019 - Dec 15, 2019 
-
-## DAY-31
-
-* Question 1 (Jumping Clouds)- Please find the question [here](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
-* Question 2 (Find Digits)- Please find the question [here](https://www.hackerrank.com/challenges/find-digits/problem)
-* Question 3 (Max Depth)- Please find the question [here](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-* Question 4 (Generate Parantheses)- Please find the question [here](https://leetcode.com/problems/generate-parentheses/)
-
-## DAY-32
-
-* Question 1 (Binary Level Order Traversal)- Please find the question [here](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
-* Question 2 (Minimum Depth)- Please find the question [here](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-* Question 3 (Pascal's Triangle)- Please find the question [here](https://leetcode.com/problems/pascals-triangle/)
-* Question 4 (Pascal's Triangle II)- Please find the question [here](https://leetcode.com/problems/pascals-triangle-ii/submissions/)
-* Question 5 (Extra Long Factorials)- Please find the question [here](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
-
-## DAY-33
-
-* Question 1 (Append and Delete)- Please find the question [here](https://www.hackerrank.com/challenges/append-and-delete)
-* Question 2 (Sherlock and Squares)- Please find the question [here](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
-* Question 3 (Single Number)- Please find the question [here](https://leetcode.com/problems/single-number/)
-
-## DAY-34
-
-* Question 1 (Library Fine)- Please find the question [here](https://www.hackerrank.com/challenges/library-fine/problem)
-* Question 2 (Cut The Sticks)- Please find the question [here](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
-* Question 3 (Non-Divisible Subset)- Please find the question [here](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
-* Question 4 (Next Permutation)- Please find the question [here](https://leetcode.com/problems/next-permutation/)
-
-## DAY-35
-
-* Question 1 (Equalize the Array)- Please find the question [here](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
-* Question 2 (Excel Collumn Name)- Please find the question [here](https://leetcode.com/problems/excel-sheet-column-title/)
-
-## DAY-36
-
-* Question 1 (Polar Coordinates)- Please find the question [here](https://www.hackerrank.com/challenges/polar-coordinates/problem)
-* Question 2 (Trailing Zeros)- Please find the question [here](https://leetcode.com/problems/factorial-trailing-zeroes/)
-
-## DAY-37
-
-* Question 1 (Queen Attack)- Please find the question [here](https://www.hackerrank.com/challenges/queens-attack-2/problem)
-* Question 2 (Search in rotated array)- Please find the question [here](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-
-## DAY-38
-
-* Question 1 (ACM ICPC Team)- Please find the question [here](https://www.hackerrank.com/challenges/acm-icpc-team/problem)
-* Question 2 (Excel Title to Number)- Please find the question [here](https://leetcode.com/problems/excel-sheet-column-number/)
-
-## DAY-39
-
-* Question 1 (Introduction to sets)- Please find the question [here](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem)
-* Question 2 (Rotate Array)- Please find the question [here](https://leetcode.com/problems/rotate-array/)
-
-## DAY-40
-
-* Question 1 (Taum and B'day)- Please find the question [here](https://www.hackerrank.com/challenges/taum-and-bday/problem)
-* Question 2 (Sort an Array)- Please find the question [here](https://leetcode.com/problems/sort-an-array/)
-
-# Day 041-050
-
-Dec 16, 2019 - Dec 26, 2019 
-
-## DAY-41
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
-
-## DAY-42
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
-
-## DAY-43
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
-
-## DAY-44
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
-
-## DAY-45
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
-
-## DAY-46
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
-
-## DAY-47
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
-
-## DAY-48
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
-
-## DAY-49
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
-
-## DAY-50
-
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
