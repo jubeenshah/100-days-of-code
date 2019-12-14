@@ -11,8 +11,8 @@
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=40&color=ff69b4)](#100-days-of-code)
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=156&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=125&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=29&color=yellow)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=124&color=success)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=30&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-105-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-51-orange)](#100-days-of-code)
@@ -1432,9 +1432,9 @@
     </tr> 
    <tr> 
         <td>156</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/rotate-array/">Rotate Array</a></td>
+        <td><a href="https://leetcode.com/problems/sort-an-array/">Sort an Array</a></td>
         <td><a href="./code-files/Day-031-040/Day-40/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-40/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1737,4 +1737,4 @@ Dec 5, 2019 - Dec 15, 2019
 ## DAY-40
 
 * Question 1 (Taum and B'day)- Please find the question [here](https://www.hackerrank.com/challenges/taum-and-bday/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Sort an Array)- Please find the question [here](https://leetcode.com/problems/sort-an-array/)
