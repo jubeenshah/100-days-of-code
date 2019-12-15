@@ -1453,11 +1453,11 @@
     </tr> 
     <tr> 
         <td>158</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/generate-parentheses/"></a></td>
-        <td><a href="./code-files/Day-041-050/Day-41/Question-4/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-041-050/Day-41/Question-4/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Sorted Square List</a></td>
+        <td><a href="./code-files/Day-041-050/Day-41/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-41/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr> 
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Type&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
@@ -1477,7 +1477,7 @@ Dec 16, 2019 - Dec 26, 2019
 ## DAY-41
 
 * Question 1 (Default Dict)- Please find the question [here](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Squares of sorted array)- Please find the question [here](https://leetcode.com/problems/squares-of-a-sorted-array/)
 
 ## DAY-42
 
