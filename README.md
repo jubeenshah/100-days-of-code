@@ -22,7 +22,7 @@
     <tr>
         <th>Span</th>  
         <th>Day</th> 
-        <th>Sr.</th>5
+        <th>Sr.</th>
         <th>Difficulty</th>
         <th>Portal</th>
         <th>Question</th>
