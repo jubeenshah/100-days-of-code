@@ -9,13 +9,13 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=40&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=156&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=124&color=success)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=41&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=158&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=126&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=30&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-105-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-51-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-106-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-52-orange)](#100-days-of-code)
 
 
 <table> 
@@ -1447,7 +1447,7 @@
         <td>157</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-041-050/Day-41/Question-1/question.pdf"></a></td>
+        <td><a href="./code-files/Day-041-050/Day-41/Question-1/question.pdf">Default Dict</a></td>
         <td><a href="./code-files/Day-041-050/Day-41/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-41/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1476,7 +1476,7 @@ Dec 16, 2019 - Dec 26, 2019
 
 ## DAY-41
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Default Dict)- Please find the question [here](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
 * Question 2 ()- Please find the question [here]()
 
 ## DAY-42

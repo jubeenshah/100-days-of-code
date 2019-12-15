@@ -1,6 +1,6 @@
 ## DAY-41
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Default Dict)- Please find the question [here](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem)
 * Question 2 ()- Please find the question [here]()
 
 ## DAY-42
