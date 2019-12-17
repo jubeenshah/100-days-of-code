@@ -736,7 +736,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="60"><a href="./code-files/Day-021-030/">30 Day</a></td>
+        <td rowspan="59"><a href="./code-files/Day-021-030/">30 Day</a></td>
         <td rowspan="5"><a href="./code-files/Day-021-030/Day-21/">21</a></td> 
         <td>79</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
@@ -1177,7 +1177,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="36"><a href="./code-files/Day-031-040/">40 Day (Exam Time)</a></td>
+        <td rowspan="37"><a href="./code-files/Day-031-040/">40 Day (Exam Time)</a></td>
         <td rowspan="4"><a href="./code-files/Day-031-040/Day-31/">31</a></td> 
         <td>129</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
