@@ -1495,7 +1495,7 @@
         <td>162</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Majority Element</a></td>
+        <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
         <td><a href="./code-files/Day-041-050/Day-43/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-43/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1521,7 +1521,7 @@ Dec 16, 2019 - Dec 26, 2019
 ## DAY-43
 
 * Question 1 (Exceptions)- Please find the question [here](https://www.hackerrank.com/challenges/exceptions/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Contains Duplicate)- Please find the question [here](https://leetcode.com/problems/contains-duplicate/)
 
 ## DAY-44
 
