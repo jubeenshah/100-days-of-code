@@ -1515,7 +1515,7 @@
         <td>164</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/contains-duplicate/">Contains Duplicate</a></td>
+        <td><a href="https://leetcode.com/problems/count-primes/">Count Prime</a></td>
         <td><a href="./code-files/Day-041-050/Day-44/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-44/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1546,7 +1546,7 @@ Dec 16, 2019 - Dec 26, 2019
 ## DAY-44
 
 * Question 1 (Collections Tuple)- Please find the question [here](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Count Prime)- Please find the question [here](https://leetcode.com/problems/count-primes/)
 
 ## DAY-45
 
