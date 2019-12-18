@@ -938,8 +938,8 @@
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-021-030//Day-26/Question-1/question.pdf">Is Prime</a></td>
-        <td><a href="./code-files/Day-021-030//Day-26/Question-1/solution.playground">Solution.py</a></td>
-        <td><a href="./code-files/Day-021-030//Day-26/Question-1/background.pdf">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-021-030//Day-26/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>102</td>
