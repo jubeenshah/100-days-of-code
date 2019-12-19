@@ -9,13 +9,13 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=44&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=164&color=blue)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=45&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=166&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=132&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=30&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=32&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-109-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-44-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-110-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-45-orange)](#100-days-of-code)
 
 
 <table> 
@@ -1522,6 +1522,26 @@
     <tr>
         <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Note&message=Exam%20Time%20Fewer%20Questions%20Done%20Every%20Day&color=red></td>
     </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-041-050/Day-45/">45</a></td> 
+        <td>163</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-041-050/Day-45/Question-1/question.pdf">Absolute Difference</a></td>
+        <td><a href="./code-files/Day-041-050/Day-45/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-45/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
+        <td>164</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">First and Last postion</a></td>
+        <td><a href="./code-files/Day-041-050/Day-45/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-45/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
+        <td colspan="8" align="center"> <img src=https://img.shields.io/static/v1?label=Note&message=Exams%20Over&color=yellowgreen></td>
+    </tr>
 </table>
 
 # Day 041-050
@@ -1550,8 +1570,8 @@ Dec 16, 2019 - Dec 26, 2019
 
 ## DAY-45
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Absolute Difference)- Please find the question [here](https://www.hackerrank.com/challenges/python-time-delta/problem)
+* Question 2 (First and Last Position)- Please find the question [here](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 ## DAY-46
 
