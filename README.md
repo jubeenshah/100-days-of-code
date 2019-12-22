@@ -1562,9 +1562,9 @@
     <tr>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-041-050/Day-47/">47</a></td> 
+        <td rowspan="3"><a href="./code-files/Day-041-050/Day-47/">47</a></td> 
         <td>167</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-1/question.pdf">LL Insert Node</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-1/solution.py">Solution.py</a></td>
@@ -1572,11 +1572,27 @@
     </tr>
     <tr>
         <td>168</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
-        <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/powx-n/">LL Delete Node</a></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-041-050/Day-47/Question-2/question.pdf">LL Delete Node</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
+        <td>169</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-041-050/Day-47/Question-3/question.pdf">LL Reverse Print</a></td>
+        <td><a href="./code-files/Day-041-050/Day-47/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-47/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
+        <td>170</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-041-050/Day-47/Question-4/question.pdf">LL Reverse List</a></td>
+        <td><a href="./code-files/Day-041-050/Day-47/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-47/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
     </tr>
@@ -1620,6 +1636,8 @@ Dec 16, 2019 - Dec 26, 2019
 
 * Question 1 (Linked List Insert Node)- Please find the question [here](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=false)
 * Question 2 (Linked List Delete Node)- Please find the question [here](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
+* Question 3 (Linked List Reverse Print)- Please find the question [here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
+* Question 4 (Linked List Reverse List)- Please find the question [here](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)
 
 ## DAY-48
 
