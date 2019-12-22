@@ -1574,7 +1574,7 @@
         <td>168</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/powx-n/">Pow X^N</a></td>
+        <td><a href="https://leetcode.com/problems/powx-n/">LL Delete Node</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1619,7 +1619,7 @@ Dec 16, 2019 - Dec 26, 2019
 ## DAY-47
 
 * Question 1 (Linked List Insert Node)- Please find the question [here](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=false)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Linked List Delete Node)- Please find the question [here](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
 
 ## DAY-48
 
