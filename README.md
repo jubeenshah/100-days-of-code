@@ -17,7 +17,6 @@
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-115-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-48-orange)](#100-days-of-code)
 
-
 <table> 
     <tr>
         <th>Span</th>  
