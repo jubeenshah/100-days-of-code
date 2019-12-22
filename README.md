@@ -1595,6 +1595,14 @@
         <td><a href="./code-files/Day-041-050/Day-47/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
+        <td>171</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/reverse-bits/">Reverse Bits</a></td>
+        <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
     </tr>
 </table>
 
@@ -1638,6 +1646,8 @@ Dec 16, 2019 - Dec 26, 2019
 * Question 2 (Linked List Delete Node)- Please find the question [here](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
 * Question 3 (Linked List Reverse Print)- Please find the question [here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 * Question 4 (Linked List Reverse List)- Please find the question [here](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)
+* Question 5 (Reverse Bits)- Please find the question [here](https://leetcode.com/problems/reverse-bits/)
+* Question 6 ()- Please find the question [here]()
 
 ## DAY-48
 
