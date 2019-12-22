@@ -10,12 +10,12 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=47&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=170&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=136&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=172&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=138&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=35&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-115-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-46-orange)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-48-orange)](#100-days-of-code)
 
 
 <table> 
@@ -1562,7 +1562,7 @@
     <tr>
     </tr>
     <tr> 
-        <td rowspan="3"><a href="./code-files/Day-041-050/Day-47/">47</a></td> 
+        <td rowspan="6"><a href="./code-files/Day-041-050/Day-47/">47</a></td> 
         <td>167</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1596,9 +1596,17 @@
     </tr>
     <tr>
         <td>171</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/reverse-bits/">Reverse Bits</a></td>
+        <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
+        <td>172</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 bits</a></td>
         <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1647,7 +1655,7 @@ Dec 16, 2019 - Dec 26, 2019
 * Question 3 (Linked List Reverse Print)- Please find the question [here](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 * Question 4 (Linked List Reverse List)- Please find the question [here](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)
 * Question 5 (Reverse Bits)- Please find the question [here](https://leetcode.com/problems/reverse-bits/)
-* Question 6 ()- Please find the question [here]()
+* Question 6 (Number of 1 bits)- Please find the question [here](https://leetcode.com/problems/number-of-1-bits/)
 
 ## DAY-48
 
