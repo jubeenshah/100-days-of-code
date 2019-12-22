@@ -1559,6 +1559,7 @@
         <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
+    <td></td>
     </tr>
     <tr> 
         <td rowspan="6"><a href="./code-files/Day-041-050/Day-47/">47</a></td> 
@@ -1610,6 +1611,7 @@
         <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
+    <td></td>
     </tr>
 </table>
 
