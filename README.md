@@ -1646,7 +1646,7 @@
         <td>178</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/powx-n/">Pow X^N</a></td>
+        <td><a href="https://leetcode.com/problems/house-robber/">House Robber</a></td>
         <td><a href="./code-files/Day-041-050/Day-49/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-49/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
