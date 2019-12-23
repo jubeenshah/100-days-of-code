@@ -1706,7 +1706,7 @@ Dec 16, 2019 - Dec 26, 2019
 ## DAY-49
 
 * Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 2 (House Robber)- Please find the question [here](https://leetcode.com/problems/house-robber/)
 
 ## DAY-50
 
