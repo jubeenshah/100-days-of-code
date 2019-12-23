@@ -1636,7 +1636,7 @@
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-041-050/Day-46/">49</a></td> 
         <td>177</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="https://www.hackerrank.com/challenges/array-left-rotation/problem">Left Rotation</a></td>
         <td><a href="./code-files/Day-041-050/Day-49/Question-1/solution.py">Solution.py</a></td>
@@ -1644,7 +1644,7 @@
     </tr>
     <tr>
         <td>178</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/powx-n/">Pow X^N</a></td>
         <td><a href="./code-files/Day-041-050/Day-49/Question-2/solution.py">Solution.py</a></td>
