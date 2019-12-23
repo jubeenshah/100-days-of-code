@@ -10,12 +10,12 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=49&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=172&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=138&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=178&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=141&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=35&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=2&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-115-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-48-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-116-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-62-orange)](#100-days-of-code)
 
 <table> 
     <tr>
@@ -1523,7 +1523,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-041-050/Day-45/">45</a></td> 
-        <td>163</td>
+        <td>165</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-041-050/Day-45/Question-1/question.pdf">Absolute Difference</a></td>
@@ -1531,7 +1531,7 @@
         <td><a href="./code-files/Day-041-050/Day-45/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
-        <td>164</td>
+        <td>166</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">First and Last postion</a></td>
@@ -1543,7 +1543,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-041-050/Day-46/">46</a></td> 
-        <td>165</td>
+        <td>167</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-041-050/Day-46/Question-1/question.pdf">Encryption</a></td>
@@ -1551,7 +1551,7 @@
         <td><a href="./code-files/Day-041-050/Day-46/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
-        <td>166</td>
+        <td>168</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/powx-n/">Pow X^N</a></td>
@@ -1563,7 +1563,7 @@
     </tr>
     <tr> 
         <td rowspan="6"><a href="./code-files/Day-041-050/Day-47/">47</a></td> 
-        <td>167</td>
+        <td>169</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-1/question.pdf">LL Insert Node</a></td>
@@ -1571,7 +1571,7 @@
         <td><a href="./code-files/Day-041-050/Day-47/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
-        <td>168</td>
+        <td>170</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-2/question.pdf">LL Delete Node</a></td>
@@ -1579,7 +1579,7 @@
         <td><a href="./code-files/Day-041-050/Day-47/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
-        <td>169</td>
+        <td>171</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-3/question.pdf">LL Reverse Print</a></td>
@@ -1587,7 +1587,7 @@
         <td><a href="./code-files/Day-041-050/Day-47/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
-        <td>170</td>
+        <td>172</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-041-050/Day-47/Question-4/question.pdf">LL Reverse List</a></td>
@@ -1595,7 +1595,7 @@
         <td><a href="./code-files/Day-041-050/Day-47/Question-4/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
-        <td>171</td>
+        <td>173</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/reverse-bits/">Reverse Bits</a></td>
@@ -1603,7 +1603,7 @@
         <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
-        <td>172</td>
+        <td>174</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/number-of-1-bits/">Number of 1 bits</a></td>
@@ -1615,7 +1615,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-041-050/Day-48/">48</a></td> 
-        <td>165</td>
+        <td>175</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=sucess></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-041-050/Day-48/Question-1/question.pdf">Dynamic Array</a></td>
@@ -1623,10 +1623,10 @@
         <td><a href="./code-files/Day-041-050/Day-48/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
-        <td>166</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td>176</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/powx-n/">Pow X^N</a></td>
+        <td><a href="https://leetcode.com/problems/happy-number/">Happy Number</a></td>
         <td><a href="./code-files/Day-041-050/Day-48/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-48/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1635,7 +1635,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-041-050/Day-46/">46</a></td> 
-        <td>165</td>
+        <td>177</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-041-050/Day-46/Question-1/question.pdf">Encryption</a></td>
@@ -1643,7 +1643,7 @@
         <td><a href="./code-files/Day-041-050/Day-46/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
-        <td>166</td>
+        <td>178</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/powx-n/">Pow X^N</a></td>
@@ -1701,7 +1701,7 @@ Dec 16, 2019 - Dec 26, 2019
 ## DAY-48
 
 * Question 1 (Dynamic Array)- Please find the question [here](https://www.hackerrank.com/challenges/dynamic-array/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Happy Number)- Please find the question [here](https://leetcode.com/problems/happy-number/)
 
 ## DAY-49
 
