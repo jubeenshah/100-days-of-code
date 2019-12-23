@@ -1634,21 +1634,21 @@
     <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-041-050/Day-46/">46</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-041-050/Day-46/">49</a></td> 
         <td>177</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-041-050/Day-46/Question-1/question.pdf">Encryption</a></td>
-        <td><a href="./code-files/Day-041-050/Day-46/Question-1/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-041-050/Day-46/Question-1/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="https://www.hackerrank.com/challenges/array-left-rotation/problem">Left Rotation</a></td>
+        <td><a href="./code-files/Day-041-050/Day-49/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-49/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
         <td>178</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/powx-n/">Pow X^N</a></td>
-        <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-041-050/Day-46/Question-2/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="./code-files/Day-041-050/Day-49/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-49/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
     <td></td>
@@ -1705,7 +1705,7 @@ Dec 16, 2019 - Dec 26, 2019
 
 ## DAY-49
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Left Rotation)- Please find the question [here](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 * Question 2 (House Robber)- Please find the question [here](https://leetcode.com/problems/house-robber/)
 
 ## DAY-50
