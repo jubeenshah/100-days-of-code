@@ -45,10 +45,10 @@
 
 ## DAY-49
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Left Rotation)- Please find the question [here](https://www.hackerrank.com/challenges/array-left-rotation/problem)
+* Question 2 (House Robber)- Please find the question [here](https://leetcode.com/problems/house-robber/)
 
 ## DAY-50
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Sparse Arrays)- Please find the question [here](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+* Question 2 (Coolguy and two subsequence)- Please find the question [here](https://www.hackerrank.com/challenges/coolguy-and-two-subsequences/problem)

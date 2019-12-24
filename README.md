@@ -1634,7 +1634,7 @@
     <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-041-050/Day-46/">49</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-041-050/Day-50/">49</a></td> 
         <td>177</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
@@ -1649,6 +1649,34 @@
         <td><a href="https://leetcode.com/problems/house-robber/">House Robber</a></td>
         <td><a href="./code-files/Day-041-050/Day-49/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-49/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
+    <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-041-050/Day-50/">50</a></td> 
+        <td>179</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-041-050/Day-50/Question-1/question.pd">Sparse Arrays</a></td>
+        <td><a href="./code-files/Day-041-050/Day-50/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-50/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
+        <td>180</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=Red></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-041-050/Day-50/Question-2/question.pdf">Coolguy and Two Subsequence</a></td>
+        <td><a href="./code-files/Day-041-050/Day-50/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-50/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
+    <tr>
+        <td>181</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/house-robber/">House Robber</a></td>
+        <td><a href="./code-files/Day-041-050/Day-50/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-041-050/Day-50/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
     <tr>
     <td></td>
@@ -1710,8 +1738,8 @@ Dec 16, 2019 - Dec 26, 2019
 
 ## DAY-50
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Sparse Arrays)- Please find the question [here](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+* Question 2 (Coolguy and two subsequence)- Please find the question [here](https://www.hackerrank.com/challenges/coolguy-and-two-subsequences/problem)
 
 # Day 031-040
 
