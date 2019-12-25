@@ -1441,7 +1441,7 @@
         <td></td>
     </tr>
     <tr> 
-        <td rowspan="60"><a href="./code-files/Day-041-050/">50 Day (Exam Time)</a></td>
+        <td rowspan="33"><a href="./code-files/Day-041-050/">50 Day (Exam Time)</a></td>
         <td rowspan="2"><a href="./code-files/Day-041-050/Day-41/">41</a></td> 
         <td>157</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
