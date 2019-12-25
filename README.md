@@ -1704,16 +1704,16 @@
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Number of Islands</a></td>
-        <td><a href="./code-files/Day-011-020/Day-13/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-011-020/Day-13/Question-2/solution.py">Solution.ipynb</a></td>
+        <td><a href="/code-files/Day-051-060/Day-51/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-051-060/Day-51/Question-3/solution.py">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>185</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Remove Duplicates</a></td>
-        <td><a href="./code-files/Day-011-020/Day-13/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-011-020/Day-13/Question-2/solution.py">Solution.ipynb</a></td>
+        <td><a href="/code-files/Day-051-060/Day-51/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-051-060/Day-51/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table>
 
