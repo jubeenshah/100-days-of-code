@@ -9,7 +9,7 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=50&color=ff69b4)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=51&color=ff69b4)](#100-days-of-code)
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=181&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=142&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=36&color=yellow)](#100-days-of-code)
@@ -1681,7 +1681,87 @@
     <tr>
     <td></td>
     </tr>
+    <tr> 
+        <td rowspan="60"><a href="./code-files/Day-051-060/">60 Day (Exam Time)</a></td>
+        <td rowspan="2"><a href="./code-files/Day-051-060/Day-51/">51</a></td> 
+        <td>182</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-051-060/Day-51/Question-1/question.pdf">Default Dict</a></td>
+        <td><a href="./code-files/Day-051-060/Day-51/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-051-060/Day-51/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>183</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Sorted Square List</a></td>
+        <td><a href="./code-files/Day-051-060/Day-51/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-051-060/Day-51/Question-2/solution.ipynb">Solution.ipynb</a></td>
+    </tr>
 </table>
+
+# Day 051-060
+
+Dec 25, 2019 - Jan 04, 2020 
+
+## DAY-51
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-52
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-53
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+
+## DAY-54
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+
+## DAY-55
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+
+## DAY-56
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+
+## DAY-57
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+
+## DAY-58
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+
+## DAY-59
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+
+## DAY-60
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
 
 # Day 041-050
 
