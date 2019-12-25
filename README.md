@@ -1711,7 +1711,7 @@
         <td>185</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Remove Duplicates</a></td>
+        <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Array Self Product</a></td>
         <td><a href="/code-files/Day-051-060/Day-51/Question-4/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-051-060/Day-51/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -1726,7 +1726,7 @@ Dec 25, 2019 - Jan 04, 2020
 * Question 1 (Find Angle MBC)- Please find the question [here](https://www.hackerrank.com/challenges/find-angle/problem)
 * Question 2 (Triangle Quest 2)- Please find the question [here](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
 * Question 3 (Number of Islands)- Please find the question [here](https://leetcode.com/problems/number-of-islands/)
-* Question 4 ()- Please find the question [here]()
+* Question 4 (Array Self Product)- Please find the question [here](https://leetcode.com/problems/product-of-array-except-self/)
 
 ## DAY-52
 
