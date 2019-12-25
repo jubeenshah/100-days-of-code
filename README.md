@@ -1693,9 +1693,9 @@
     </tr> 
     <tr> 
         <td>183</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
-        <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">Sorted Square List</a></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-051-060/Day-51/Question-2/question.pdf">Triangle Quest 2</a></td>
         <td><a href="./code-files/Day-051-060/Day-51/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-051-060/Day-51/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1707,8 +1707,8 @@ Dec 25, 2019 - Jan 04, 2020
 
 ## DAY-51
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Find Angle MBC)- Please find the question [here](https://www.hackerrank.com/challenges/find-angle/problem)
+* Question 2 (Triangle Quest 2)- Please find the question [here](https://www.hackerrank.com/challenges/triangle-quest-2/problem)
 
 ## DAY-52
 
