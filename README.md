@@ -1719,7 +1719,7 @@
     <td></td>
     </tr>
     <tr> 
-        <td rowspan="2"><a href="./code-files/Day-051-060/Day-52/">52</a></td> 
+        <td rowspan="4"><a href="./code-files/Day-051-060/Day-52/">52</a></td> 
         <td>186</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
