@@ -10,12 +10,12 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=52&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=188&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=144&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=189&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=145&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=41&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=3&color=red)](#100-days-of-code)
 [![Hackerrank !](https://img.shields.io/badge/Hackerrank-121-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-67-orange)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-68-orange)](#100-days-of-code)
 
 <table> 
     <tr>
@@ -1740,8 +1740,16 @@
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Stock Market</a></td>
-        <td><a href="/code-files/Day-051-060/Day-52/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="/code-files/Day-051-060/Day-52/Question-2/solution.py">Solution.ipynb</a></td>
+        <td><a href="/code-files/Day-051-060/Day-52/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-051-060/Day-52/Question-3/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>189</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Alien Language</a></td>
+        <td><a href="/code-files/Day-051-060/Day-52/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-051-060/Day-52/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table>
 
@@ -1761,6 +1769,8 @@ Dec 25, 2019 - Jan 04, 2020
 * Question 1 (No Idea)- Please find the question [here](https://www.hackerrank.com/challenges/no-idea/problem)
 * Question 2 (Reverse Linked List)- Please find the question [here](https://leetcode.com/problems/reverse-linked-list/)
 * Question 3 (Best time to buy stock)- Please find the question [here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* Question 4 (Alien Language)- Please find the question [here](https://leetcode.com/problems/verifying-an-alien-dictionary/)
+
 
 ## DAY-53
 
