@@ -1729,11 +1729,11 @@
     </tr> 
     <tr> 
         <td>185</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Array Self Product</a></td>
-        <td><a href="/code-files/Day-051-060/Day-52/Question-4/solution.py">Solution.py</a></td>
-        <td><a href="/code-files/Day-051-060/Day-52/Question-4/solution.py">Solution.ipynb</a></td>
+        <td><a href="https://leetcode.com/problems/reverse-linked-list/">Reverese Linked List</a></td>
+        <td><a href="/code-files/Day-051-060/Day-52/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-051-060/Day-52/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table>
 
@@ -1751,7 +1751,7 @@ Dec 25, 2019 - Jan 04, 2020
 ## DAY-52
 
 * Question 1 (No Idea)- Please find the question [here](https://www.hackerrank.com/challenges/no-idea/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Reverse Linked List)- Please find the question [here](https://leetcode.com/problems/reverse-linked-list/)
 
 ## DAY-53
 
