@@ -9,12 +9,12 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=51&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=185&color=blue)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=52&color=ff69b4)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=187&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=142&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=40&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=41&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=3&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-120-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-121-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-65-orange)](#100-days-of-code)
 
 <table> 
@@ -1715,6 +1715,26 @@
         <td><a href="/code-files/Day-051-060/Day-51/Question-4/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-051-060/Day-51/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+    <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-051-060/Day-52/">52</a></td> 
+        <td>182</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-051-060/Day-52/Question-1/question.pdf">No Idea</a></td>
+        <td><a href="./code-files/Day-051-060/Day-52/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-051-060/Day-52/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>185</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Array Self Product</a></td>
+        <td><a href="/code-files/Day-051-060/Day-52/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-051-060/Day-52/Question-4/solution.py">Solution.ipynb</a></td>
+    </tr> 
 </table>
 
 # Day 051-060
@@ -1730,7 +1750,7 @@ Dec 25, 2019 - Jan 04, 2020
 
 ## DAY-52
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (No Idea)- Please find the question [here](https://www.hackerrank.com/challenges/no-idea/problem)
 * Question 2 ()- Please find the question [here]()
 
 ## DAY-53
