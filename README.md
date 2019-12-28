@@ -1785,9 +1785,9 @@
     </tr> 
     <tr> 
         <td>191</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-051-060/Day-54/Question-2/question.pdf">Ordered Dict</a></td>
+        <td><a href="./code-files/Day-051-060/Day-54/Question-2/question.pdf">Word Order</a></td>
         <td><a href="./code-files/Day-051-060/Day-54/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-051-060/Day-54/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
