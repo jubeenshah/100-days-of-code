@@ -1795,9 +1795,9 @@
         <td>191</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/fizz-buzz/">FizzBuzz</a></td>
-        <td><a href="/code-files/Day-051-060/Day-54/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="/code-files/Day-051-060/Day-54/Question-2/solution.py">Solution.ipynb</a></td>
+        <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+        <td><a href="/code-files/Day-051-060/Day-54/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-051-060/Day-54/Question-3/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table>
 
@@ -1829,7 +1829,8 @@ Dec 25, 2019 - Jan 04, 2020
 ## DAY-54
 
 * Question 1 (Ordered Dict)- Please find the question [here](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Word Order)- Please find the question [here](https://www.hackerrank.com/challenges/word-order/problem)
+* Question 3 (Reverse Strings)- Please find the question [here](https://leetcode.com/problems/reverse-string/)
 
 
 ## DAY-55
