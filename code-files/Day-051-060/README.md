@@ -7,8 +7,10 @@
 
 ## DAY-52
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (No Idea)- Please find the question [here](https://www.hackerrank.com/challenges/no-idea/problem)
+* Question 2 (Reverse Linked List)- Please find the question [here](https://leetcode.com/problems/reverse-linked-list/)
+* Question 3 (Best time to buy stock)- Please find the question [here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* Question 4 (Alien Language)- Please find the question [here](https://leetcode.com/problems/verifying-an-alien-dictionary/)
 
 ## DAY-53
 

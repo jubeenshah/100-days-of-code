@@ -1756,20 +1756,20 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-051-060/Day-53/">53</a></td> 
-        <td>186</td>
+        <td>190</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-051-060/Day-53/Question-1/question.pdf">No Idea</a></td>
+        <td><a href="./code-files/Day-051-060/Day-53/Question-1/question.pdf">Compare Linked Lists</a></td>
         <td><a href="./code-files/Day-051-060/Day-53/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-051-060/Day-53/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>189</td>
+        <td>191</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Alien Language</a></td>
-        <td><a href="/code-files/Day-051-060/Day-53/Question-4/solution.py">Solution.py</a></td>
-        <td><a href="/code-files/Day-051-060/Day-53/Question-4/solution.py">Solution.ipynb</a></td>
+        <td><a href="https://leetcode.com/problems/fizz-buzz/">FizzBuzz</a></td>
+        <td><a href="/code-files/Day-051-060/Day-53/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-051-060/Day-53/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table>
 
@@ -1794,8 +1794,8 @@ Dec 25, 2019 - Jan 04, 2020
 
 ## DAY-53
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Compare Linked Lists)- Please find the question [here](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
+* Question 2 (Fizz Buzz)- Please find the question [here](https://leetcode.com/problems/fizz-buzz/)
 
 
 ## DAY-54
