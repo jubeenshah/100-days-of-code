@@ -1777,11 +1777,19 @@
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-051-060/Day-54/">54</a></td> 
         <td>190</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-051-060/Day-54/Question-1/question.pdf">Compare Linked Lists</a></td>
+        <td><a href="./code-files/Day-051-060/Day-54/Question-1/question.pdf">Ordered Dict</a></td>
         <td><a href="./code-files/Day-051-060/Day-54/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-051-060/Day-54/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>191</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-051-060/Day-54/Question-2/question.pdf">Ordered Dict</a></td>
+        <td><a href="./code-files/Day-051-060/Day-54/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-051-060/Day-54/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>191</td>
@@ -1820,7 +1828,7 @@ Dec 25, 2019 - Jan 04, 2020
 
 ## DAY-54
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Ordered Dict)- Please find the question [here](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
 * Question 2 ()- Please find the question [here]()
 
 
