@@ -34,7 +34,7 @@
         <td>01</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">Sock Merchant</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.pdf">🧦  Merchant</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-1/Day-1-Q1.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -50,7 +50,7 @@
         <td>03</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.pdf">Jumping on Clouds</a></td>
+        <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.pdf">Jumping on ⛅️ </a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-1/Question-3/Day-1-Q3.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -78,7 +78,7 @@
         <td>06</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.pdf">Hourglass Sum</a></td>
+        <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.pdf">⏳  Sum</a></td>
         <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-2/Question-1/Day-2-Q1.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -174,7 +174,7 @@
         <td>17</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-4/Question-8/question.pdf">Birthday Candles</a></td>
+        <td><a href="./code-files/Day-001-010/Day-4/Question-8/question.pdf">🎂  🕯 </a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-8/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-4/Question-8/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -194,7 +194,7 @@
         <td>19</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-5/Question-1/question.pdf">Ransom Note</a></td>
+        <td><a href="./code-files/Day-001-010/Day-5/Question-1/question.pdf">Ransom 📝 </a></td>
         <td><a href="./code-files/Day-001-010/Day-5/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-5/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -222,7 +222,7 @@
         <td>22</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-6/Question-2/question.pdf">Mark and Toys</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-2/question.pdf">Mark and 🧸 </a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -270,7 +270,7 @@
         <td>28</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-6/Question-8/question.pdf">Kangaroo</a></td>
+        <td><a href="./code-files/Day-001-010/Day-6/Question-8/question.pdf">🦘 </a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-8/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-6/Question-8/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -346,7 +346,7 @@
         <td>36</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-001-010/Day-9/Question-1/question.pdf">Phone Numbers</a></td>
+        <td><a href="./code-files/Day-001-010/Day-9/Question-1/question.pdf">☎️  Numbers</a></td>
         <td><a href="./code-files/Day-001-010/Day-9/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-001-010/Day-9/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -503,7 +503,7 @@
         <td>53</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/search-insert-position/">Search Insert Poistion</a></td>
+        <td><a href="https://leetcode.com/problems/search-insert-position/">Search Insert Position</a></td>
         <td><a href="./code-files/Day-011-020/Day-14/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-14/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -587,7 +587,7 @@
         <td>62</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-011-020/Day-17/Question-2/question.pdf">Cats and Mouse</a></td>
+        <td><a href="./code-files/Day-011-020/Day-17/Question-2/question.pdf">🐱  and 🐭 </a></td>
         <td><a href="./code-files/Day-011-020/Day-17/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-011-020/Day-17/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -864,7 +864,7 @@
         <td>93</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-24/Question-3/question.pdf">Angry Profoessor</a></td>
+        <td><a href="./code-files/Day-021-030//Day-24/Question-3/question.pdf">Angry Professor </a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-24/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -892,7 +892,7 @@
         <td>96</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-021-030//Day-25/Question-2/question.pdf">Welcome Tree</a></td>
+        <td><a href="./code-files/Day-021-030//Day-25/Question-2/question.pdf">Welcome 🌲 </a></td>
         <td><a href="./code-files/Day-021-030//Day-25/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-25/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -916,7 +916,7 @@
         <td>99</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/container-with-most-water/">Most water</a></td>
+        <td><a href="https://leetcode.com/problems/container-with-most-water/">Most 💧 </a></td>
         <td><a href="./code-files/Day-021-030//Day-25/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-25/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1168,7 +1168,7 @@
         <td>128</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/symmetric-tree/">Symmetric Tree</a></td>
+        <td><a href="https://leetcode.com/problems/symmetric-tree/">Symmetric 🌳 </a></td>
         <td><a href="./code-files/Day-021-030//Day-30/Question-5/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-021-030//Day-30/Question-5/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1181,7 +1181,7 @@
         <td>129</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-031-040/Day-31/Question-1/question.pdf">Jumping Clouds</a></td>
+        <td><a href="./code-files/Day-031-040/Day-31/Question-1/question.pdf">Jumping ⛅️ </a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-31/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1289,7 +1289,7 @@
         <td>141</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-031-040/Day-34/Question-1/question.pdf">Library Fine</a></td>
+        <td><a href="./code-files/Day-031-040/Day-34/Question-1/question.pdf">📚  Fine</a></td>
         <td><a href="./code-files/Day-031-040/Day-34/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-34/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1333,7 +1333,7 @@
         <td>146</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/excel-sheet-column-title/">Excel Collumn Name</a></td>
+        <td><a href="https://leetcode.com/problems/excel-sheet-column-title/">Excel Column  Name</a></td>
         <td><a href="./code-files/Day-031-040/Day-35/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-031-040/Day-35/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1534,7 +1534,7 @@
         <td>166</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">First and Last postion</a></td>
+        <td><a href="https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/">First and Last position</a></td>
         <td><a href="./code-files/Day-041-050/Day-45/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-041-050/Day-45/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr>
@@ -1747,7 +1747,7 @@
         <td>189</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">Alien Language</a></td>
+        <td><a href="https://leetcode.com/problems/verifying-an-alien-dictionary/">👽  Language</a></td>
         <td><a href="/code-files/Day-051-060/Day-52/Question-4/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-051-060/Day-52/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
