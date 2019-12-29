@@ -20,14 +20,15 @@
 
 ## DAY-54
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Ordered Dict)- Please find the question [here](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem)
+* Question 2 (Word Order)- Please find the question [here](https://www.hackerrank.com/challenges/word-order/problem)
+* Question 3 (Reverse Strings)- Please find the question [here](https://leetcode.com/problems/reverse-string/)
 
 
 ## DAY-55
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Merge Sorted lists)- Please find the question [here](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
+* Question 2 (Add Strings)- Please find the question [here](https://leetcode.com/problems/add-strings/)
 
 
 ## DAY-56

@@ -1803,27 +1803,19 @@
     <td></td>
     </tr>
     <tr> 
-        <td rowspan="3"><a href="./code-files/Day-051-060/Day-55/">55</a></td> 
+        <td rowspan="2"><a href="./code-files/Day-051-060/Day-55/">55</a></td> 
         <td>192</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-051-060/Day-55/Question-1/question.pdf">Ordered Dict</a></td>
+        <td><a href="./code-files/Day-051-060/Day-55/Question-1/question.pdf">Merge Sorted Lists</a></td>
         <td><a href="./code-files/Day-051-060/Day-55/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-051-060/Day-55/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>193</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
-        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-051-060/Day-55/Question-2/question.pdf">Word Order</a></td>
-        <td><a href="./code-files/Day-051-060/Day-55/Question-2/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-051-060/Day-55/Question-2/solution.ipynb">Solution.ipynb</a></td>
-    </tr> 
-    <tr> 
-        <td>194</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
+        <td><a href="https://leetcode.com/problems/add-strings/">Add String</a></td>
         <td><a href="/code-files/Day-051-060/Day-55/Question-3/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-051-060/Day-55/Question-3/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -1863,8 +1855,8 @@ Dec 25, 2019 - Jan 04, 2020
 
 ## DAY-55
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Merge Sorted lists)- Please find the question [here](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)
+* Question 2 (Add Strings)- Please find the question [here](https://leetcode.com/problems/add-strings/)
 
 
 ## DAY-56
