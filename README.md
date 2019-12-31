@@ -20,7 +20,7 @@
 <table> 
     <tr>
         <th>Span</th>  
-        <th>Day</th> 
+        <th>Day</th>
         <th>Sr.</th>
         <th>Difficulty</th>
         <th>Portal</th>
