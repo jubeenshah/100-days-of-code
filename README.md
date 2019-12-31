@@ -10,12 +10,12 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=57&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=191&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=149&color=success)](#100-days-of-code)
+[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=197&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=153&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=42&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=3&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-124-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-70-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-125-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-72-orange)](#100-days-of-code)
 
 <table> 
     <tr>
@@ -1824,7 +1824,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-051-060/Day-56/">56</a></td> 
-        <td>192</td>
+        <td>194</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-051-060/Day-56/Question-1/question.pdf">Get Node Value</a></td>
@@ -1832,7 +1832,7 @@
         <td><a href="./code-files/Day-051-060/Day-56/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>193</td>
+        <td>195</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-051-060/Day-56/Question-2/question.pdf">Delete duplicate Node</a></td>
@@ -1844,15 +1844,15 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-051-060/Day-57/">57</a></td> 
-        <td>192</td>
+        <td>196</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
-        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-051-060/Day-57/Question-1/question.pdf">Merge Sorted Lists</a></td>
-        <td><a href="./code-files/Day-051-060/Day-57/Question-1/solution.py">Solution.py</a></td>
-        <td><a href="./code-files/Day-051-060/Day-57/Question-1/solution.ipynb">Solution.ipynb</a></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/add-strings/">Fibonacci</a></td>
+        <td><a href="/code-files/Day-051-060/Day-57/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-051-060/Day-57/Question-1/solution.py">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>193</td>
+        <td>197</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/add-strings/">Add String</a></td>
@@ -1907,7 +1907,7 @@ Dec 25, 2019 - Jan 04, 2020
 
 ## DAY-57
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Fibonacci Number)- Please find the question [here](https://leetcode.com/problems/fibonacci-number/)
 * Question 2 ()- Please find the question [here]()
 
 
