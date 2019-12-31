@@ -1847,7 +1847,7 @@
         <td>199</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/add-strings/">Fibonacci</a></td>
+        <td><a href="https://leetcode.com/problems/add-strings/">Fibonacci Number</a></td>
         <td><a href="/code-files/Day-051-060/Day-57/Question-1/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-051-060/Day-57/Question-1/solution.py">Solution.ipynb</a></td>
     </tr> 
