@@ -1776,7 +1776,7 @@
     </tr>
     <tr> 
         <td rowspan="3"><a href="./code-files/Day-051-060/Day-54/">54</a></td> 
-        <td>190</td>
+        <td>192</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-051-060/Day-54/Question-1/question.pdf">Ordered Dict</a></td>
@@ -1784,7 +1784,7 @@
         <td><a href="./code-files/Day-051-060/Day-54/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>191</td>
+        <td>193</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-051-060/Day-54/Question-2/question.pdf">Word Order</a></td>
@@ -1792,7 +1792,7 @@
         <td><a href="./code-files/Day-051-060/Day-54/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>191</td>
+        <td>194</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/reverse-string/">Reverse String</a></td>
@@ -1804,7 +1804,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-051-060/Day-55/">55</a></td> 
-        <td>192</td>
+        <td>195</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-051-060/Day-55/Question-1/question.pdf">Merge Sorted Lists</a></td>
@@ -1812,7 +1812,7 @@
         <td><a href="./code-files/Day-051-060/Day-55/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>193</td>
+        <td>196</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/add-strings/">Add String</a></td>
@@ -1824,7 +1824,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-051-060/Day-56/">56</a></td> 
-        <td>194</td>
+        <td>197</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-051-060/Day-56/Question-1/question.pdf">Get Node Value</a></td>
@@ -1832,7 +1832,7 @@
         <td><a href="./code-files/Day-051-060/Day-56/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>195</td>
+        <td>198</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-051-060/Day-56/Question-2/question.pdf">Delete duplicate Node</a></td>
@@ -1844,7 +1844,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-051-060/Day-57/">57</a></td> 
-        <td>196</td>
+        <td>199</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/add-strings/">Fibonacci</a></td>
@@ -1852,7 +1852,7 @@
         <td><a href="/code-files/Day-051-060/Day-57/Question-1/solution.py">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>197</td>
+        <td>200</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/add-strings/">Add String</a></td>
