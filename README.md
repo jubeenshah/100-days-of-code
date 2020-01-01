@@ -1847,7 +1847,7 @@
         <td>199</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/add-strings/">Fibonacci Number</a></td>
+        <td><a href="https://leetcode.com/problems/fibonacci-numbers/">Fibonacci Number</a></td>
         <td><a href="/code-files/Day-051-060/Day-57/Question-1/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-051-060/Day-57/Question-1/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -1859,7 +1859,45 @@
         <td><a href="/code-files/Day-051-060/Day-57/Question-2/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-051-060/Day-57/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+    <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-051-060/Day-58/">58</a></td> 
+        <td>201</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/decode-string/">Decode String</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-1/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>202</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/most-common-word/">Add String</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>203</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-3/question.pdf">Maximum Value</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-3/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-3/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>204</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-4/question.pdf">Delete duplicate Node</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-4/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-051-060/Day-58/Question-4/solution.py">Solution.ipynb</a></td>
+    </tr> 
 </table>
+</table>
+
 
 # Day 051-060
 
@@ -1913,8 +1951,10 @@ Dec 25, 2019 - Jan 04, 2020
 
 ## DAY-58
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Decode String)- Please find the question [here](https://leetcode.com/problems/decode-string/)
+* Question 2 (Most Common Word)- Please find the question [here](https://leetcode.com/problems/most-common-word/)
+* Question 3 (Maximum Element)- Please find the question [here](https://www.hackerrank.com/challenges/maximum-element/problem)
+* Question 4 (Balanced Brackets)- Please find the question [here](https://www.hackerrank.com/challenges/balanced-brackets/problem?h_r=next-challenge&h_v=zen)
 
 
 ## DAY-59
