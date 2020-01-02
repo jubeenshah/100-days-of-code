@@ -11,10 +11,10 @@
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=59&color=ff69b4)](#100-days-of-code)
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=208&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=157&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=45&color=yellow)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=158&color=success)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=46&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=4&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-129-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-131-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-77-orange)](#100-days-of-code)
 
 <table> 
@@ -1919,7 +1919,7 @@
         <td>207</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-051-060/Day-59/Question-3/question.pdf">Maximum Value</a></td>
+        <td><a href="./code-files/Day-051-060/Day-59/Question-3/question.pdf">Cycle Detection</a></td>
         <td><a href="./code-files/Day-051-060/Day-59/Question-3/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-051-060/Day-59/Question-3/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -1997,7 +1997,7 @@ Dec 25, 2019 - Jan 04, 2020
 
 * Question 1 (LRU Cache)- Please find the question [here](https://leetcode.com/problems/lru-cache/)
 * Question 2 (Trapping Rain Water)- Please find the question [here](https://leetcode.com/problems/trapping-rain-water/)
-* Question 3 ()- Please find the question [here]()
+* Question 3 (Cycle Detection)- Please find the question [here](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
 * Question 4 ()- Please find the question [here]()
 
 
