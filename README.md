@@ -1917,7 +1917,7 @@
     </tr> 
     <tr> 
         <td>207</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-051-060/Day-59/Question-3/question.pdf">Cycle Detection</a></td>
         <td><a href="./code-files/Day-051-060/Day-59/Question-3/solution.py">Solution.py</a></td>
@@ -1925,9 +1925,9 @@
     </tr> 
     <tr> 
         <td>208</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-051-060/Day-59/Question-4/question.pdf">Delete duplicate Node</a></td>
+        <td><a href="./code-files/Day-051-060/Day-59/Question-4/question.pdf">Find Merge Points LL</a></td>
         <td><a href="./code-files/Day-051-060/Day-59/Question-4/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-051-060/Day-59/Question-4/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -1998,7 +1998,7 @@ Dec 25, 2019 - Jan 04, 2020
 * Question 1 (LRU Cache)- Please find the question [here](https://leetcode.com/problems/lru-cache/)
 * Question 2 (Trapping Rain Water)- Please find the question [here](https://leetcode.com/problems/trapping-rain-water/)
 * Question 3 (Cycle Detection)- Please find the question [here](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)
-* Question 4 ()- Please find the question [here]()
+* Question 4 (Find Merge Points in Linked Lists)- Please find the question [here](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)
 
 
 ## DAY-60
