@@ -1947,7 +1947,7 @@
         <td>210</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-051-060/Day-60/Question-2/question.pdf">Cycle Detection</a></td>
+        <td><a href="./code-files/Day-051-060/Day-60/Question-2/question.pdf">Queues Using Stacks</a></td>
         <td><a href="./code-files/Day-051-060/Day-60/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-051-060/Day-60/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -2024,7 +2024,7 @@ Dec 25, 2019 - Jan 03, 2020
 ## DAY-60
 
 * Question 1 (Move Zeroes)- Please find the question [here](https://leetcode.com/problems/move-zeroes/)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Queues Using Stacks)- Please find the question [here](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
 
 
 # Day 041-050
