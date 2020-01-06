@@ -1960,7 +1960,7 @@
         <td>211</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-061-070/Day-61/Question-1/question.pdf"></a></td>
+        <td><a href="./code-files/Day-061-070/Day-61/Question-1/question.pdf">Sherlock and Strings</a></td>
         <td><a href="./code-files/Day-061-070/Day-61/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-061-070/Day-61/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -2021,7 +2021,7 @@ Jan 04, 2020 - Jan 13, 2020
 
 ## DAY-61
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Sherlock and Valid Strings)- Please find the question [here](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
 * Question 2 ()- Please find the question [here]()
 
 ## DAY-62
