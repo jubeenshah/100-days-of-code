@@ -1683,7 +1683,7 @@
     </tr>
     <tr> 
         <td rowspan="40"><a href="./code-files/Day-051-060/">60 Day</a></td>
-        <td rowspan="2"><a href="./code-files/Day-051-060/Day-51/">51</a></td> 
+        <td rowspan="4"><a href="./code-files/Day-051-060/Day-51/">51</a></td> 
         <td>182</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
