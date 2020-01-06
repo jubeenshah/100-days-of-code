@@ -1980,7 +1980,7 @@
         <td>213</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-061-070/Day-62/Question-1/question.pdf"></a></td>
+        <td><a href="./code-files/Day-061-070/Day-62/Question-1/question.pdf">Kaprekar Number</a></td>
         <td><a href="./code-files/Day-061-070/Day-62/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-061-070/Day-62/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -2026,7 +2026,7 @@ Jan 04, 2020 - Jan 13, 2020
 
 ## DAY-62
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Kaprekar Number)- Please find the question [here](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
 * Question 2 ()- Please find the question [here]()
 
 ## DAY-63
