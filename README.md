@@ -1951,6 +1951,27 @@
         <td><a href="./code-files/Day-051-060/Day-60/Question-2/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-051-060/Day-60/Question-2/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+    <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="60"><a href="./code-files/Day-061-070/">70 Day</a></td>
+        <td rowspan="2"><a href="./code-files/Day-061-070/Day-61/">61</a></td> 
+        <td>211</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-061-070/Day-61/Question-1/question.pdf">Find Angle</a></td>
+        <td><a href="./code-files/Day-061-070/Day-61/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-061-070/Day-61/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>212</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Array Self Product</a></td>
+        <td><a href="/code-files/Day-061-070/Day-61/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-061-070/Day-61/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
 </table>
 </table>
 
