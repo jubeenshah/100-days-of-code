@@ -9,7 +9,7 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=61&color=ff69b4)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=62&color=ff69b4)](#100-days-of-code)
 [![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=210&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=158&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=46&color=yellow)](#100-days-of-code)
@@ -1953,6 +1953,60 @@
     </tr> 
 </table>
 </table>
+
+# Day 061-070
+
+Jan 04, 2020 - Jan 13, 2020
+
+## DAY-61
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-62
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-63
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-64
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-65
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-66
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-67
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-68
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-69
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
+
+## DAY-70
+
+* Question 1 ()- Please find the question [here]()
+* Question 2 ()- Please find the question [here]()
 
 
 # Day 051-060
