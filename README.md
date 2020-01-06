@@ -1977,7 +1977,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-62/">62</a></td> 
-        <td>211</td>
+        <td>213</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-061-070/Day-62/Question-1/question.pdf">Find Angle</a></td>
@@ -1985,7 +1985,7 @@
         <td><a href="./code-files/Day-061-070/Day-62/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>212</td>
+        <td>214</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Array Self Product</a></td>
@@ -1997,7 +1997,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-63/">63</a></td> 
-        <td>211</td>
+        <td>215</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-061-070/Day-63/Question-1/question.pdf">Find Angle</a></td>
@@ -2005,7 +2005,7 @@
         <td><a href="./code-files/Day-061-070/Day-63/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>212</td>
+        <td>216</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/merge-two-sorted-lists/">Array Self Product</a></td>
