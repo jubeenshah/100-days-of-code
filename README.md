@@ -1978,7 +1978,7 @@
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-62/">62</a></td> 
         <td>213</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-061-070/Day-62/Question-1/question.pdf">Kaprekar Number</a></td>
         <td><a href="./code-files/Day-061-070/Day-62/Question-1/solution.py">Solution.py</a></td>
