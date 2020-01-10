@@ -9,13 +9,13 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=63&color=ff69b4)](#100-days-of-code)
-[![NumberOfQuestions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=216&color=blue)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=64&color=ff69b4)](#100-days-of-code)
+[![Number Of Questions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=218&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=161&color=success)](#100-days-of-code)
-[![Medium !](https://img.shields.io/static/v1?label=Medium&message=51&color=yellow)](#100-days-of-code)
+[![Medium !](https://img.shields.io/static/v1?label=Medium&message=53&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=4&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-135-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-81-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-136-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-82-orange)](#100-days-of-code)
 
 <table> 
     <tr>
@@ -2012,6 +2012,26 @@
         <td><a href="/code-files/Day-061-070/Day-63/Question-2/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-061-070/Day-63/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
+    <tr>
+    <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-061-070/Day-64/">64</a></td> 
+        <td>217</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-061-070/Day-64/Question-1/question.pdf">Organizing Containers of Balls</a></td>
+        <td><a href="./code-files/Day-061-070/Day-64/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-061-070/Day-64/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>218</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/merge-intervals/">Merge Intervals</a></td>
+        <td><a href="/code-files/Day-061-070/Day-64/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-061-070/Day-64/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
 </table>
 </table>
 
@@ -2036,8 +2056,8 @@ Jan 04, 2020 - Jan 13, 2020
 
 ## DAY-64
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 1 (Organizing Containers of Balls)- Please find the question [here](https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem)
+* Question 2 (Merge Intervals)- Please find the question [here](https://leetcode.com/problems/merge-intervals/)
 
 ## DAY-65
 
