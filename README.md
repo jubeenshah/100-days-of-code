@@ -2088,7 +2088,7 @@
         <td>218</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/merge-intervals/">Merge Intervals</a></td>
+        <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/submissions/">Nth Tribonacci Number</a></td>
         <td><a href="/code-files/Day-061-070/Day-67/Question-2/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-061-070/Day-67/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -2133,7 +2133,7 @@ Jan 04, 2020 - Jan 13, 2020
 ## DAY-67
 
 * Question 1 (Set Discard, Remove, Pop)- Please find the question [here](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Nth Tribonacci Number)- Please find the question [here](https://leetcode.com/problems/n-th-tribonacci-number/submissions/)
 
 ## DAY-68
 
