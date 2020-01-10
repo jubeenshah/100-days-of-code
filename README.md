@@ -10,12 +10,12 @@
 <br>
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=67&color=ff69b4)](#100-days-of-code)
-[![Number Of Questions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=218&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=161&color=success)](#100-days-of-code)
+[![Number Of Questions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=224&color=blue)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=167&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=53&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=4&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-136-brightgreen)](#100-days-of-code)
-[![Leetcode !](https://img.shields.io/badge/Leetcode-82-orange)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-139-brightgreen)](#100-days-of-code)
+[![Leetcode !](https://img.shields.io/badge/Leetcode-85-orange)](#100-days-of-code)
 
 <table> 
     <tr>
@@ -2080,7 +2080,7 @@
         <td>217</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-061-070/Day-67/Question-1/question.pdf">Set Remove,Discard,Pop</a></td>
+        <td><a href="./code-files/Day-061-070/Day-67/Question-1/question.pdf">Set Remove, Discard, Pop</a></td>
         <td><a href="./code-files/Day-061-070/Day-67/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-061-070/Day-67/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
