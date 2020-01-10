@@ -2046,7 +2046,7 @@
     </tr> 
     <tr> 
         <td>218</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort</a></td>
         <td><a href="/code-files/Day-061-070/Day-65/Question-2/solution.py">Solution.py</a></td>
@@ -2066,7 +2066,7 @@
     </tr> 
     <tr> 
         <td>218</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/first-bad-version/">First Bad Version</a></td>
         <td><a href="/code-files/Day-061-070/Day-66/Question-2/solution.py">Solution.py</a></td>
@@ -2078,7 +2078,7 @@
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-67/">67</a></td> 
         <td>217</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-061-070/Day-67/Question-1/question.pdf">Set Remove, Discard, Pop</a></td>
         <td><a href="./code-files/Day-061-070/Day-67/Question-1/solution.py">Solution.py</a></td>
@@ -2086,7 +2086,7 @@
     </tr> 
     <tr> 
         <td>218</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/submissions/">Nth Tribonacci Number</a></td>
         <td><a href="/code-files/Day-061-070/Day-67/Question-2/solution.py">Solution.py</a></td>
