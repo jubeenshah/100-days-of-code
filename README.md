@@ -2058,9 +2058,9 @@
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-66/">66</a></td> 
         <td>217</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-061-070/Day-66/Question-1/question.pdf">Organizing Containers of Balls</a></td>
+        <td><a href="./code-files/Day-061-070/Day-66/Question-1/question.pdf">Set Add</a></td>
         <td><a href="./code-files/Day-061-070/Day-66/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-061-070/Day-66/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -2122,7 +2122,7 @@ Jan 04, 2020 - Jan 13, 2020
 ## DAY-65
 
 * Question 1 (Sorted Symmetric Difference)- Please find the question [here](https://www.hackerrank.com/challenges/symmetric-difference/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Set Add)- Please find the question [here](https://www.hackerrank.com/challenges/py-set-add/problem?h_r=next-challenge&h_v=zen)
 
 ## DAY-66
 
