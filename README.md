@@ -2048,7 +2048,7 @@
         <td>218</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/merge-intervals/">Merge Intervals</a></td>
+        <td><a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort</a></td>
         <td><a href="/code-files/Day-061-070/Day-65/Question-2/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-061-070/Day-65/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -2068,7 +2068,7 @@
         <td>218</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/merge-intervals/">Merge Intervals</a></td>
+        <td><a href="https://leetcode.com/problems/first-bad-version/">First Bad Version</a></td>
         <td><a href="/code-files/Day-061-070/Day-66/Question-2/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-061-070/Day-66/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -2080,7 +2080,7 @@
         <td>217</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-061-070/Day-67/Question-1/question.pdf">Organizing Containers of Balls</a></td>
+        <td><a href="./code-files/Day-061-070/Day-67/Question-1/question.pdf">Set Remove,Discard,Pop</a></td>
         <td><a href="./code-files/Day-061-070/Day-67/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-061-070/Day-67/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -2122,16 +2122,17 @@ Jan 04, 2020 - Jan 13, 2020
 ## DAY-65
 
 * Question 1 (Sorted Symmetric Difference)- Please find the question [here](https://www.hackerrank.com/challenges/symmetric-difference/problem)
-* Question 2 (Set Add)- Please find the question [here](https://www.hackerrank.com/challenges/py-set-add/problem?h_r=next-challenge&h_v=zen)
+* Question 2 (Relative Sort)- Please find the question [here](https://leetcode.com/problems/relative-sort-array/)
 
 ## DAY-66
 
-* Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+
+* Question 1 (Set Add)- Please find the question [here](https://www.hackerrank.com/challenges/py-set-add/problem?h_r=next-challenge&h_v=zen)
+* Question 2 (First Bad Version)- Please find the question [here](https://leetcode.com/problems/first-bad-version/)
 
 ## DAY-67
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Set Discard, Remove, Pop)- Please find the question [here](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem)
 * Question 2 ()- Please find the question [here]()
 
 ## DAY-68
