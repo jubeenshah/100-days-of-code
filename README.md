@@ -2037,7 +2037,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-65/">65</a></td> 
-        <td>217</td>
+        <td>219</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-061-070/Day-65/Question-1/question.pdf">Sorted Symmetric Difference</a></td>
@@ -2045,7 +2045,7 @@
         <td><a href="./code-files/Day-061-070/Day-65/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>218</td>
+        <td>220</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/relative-sort-array/">Relative Sort</a></td>
@@ -2057,7 +2057,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-66/">66</a></td> 
-        <td>217</td>
+        <td>221</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-061-070/Day-66/Question-1/question.pdf">Set Add</a></td>
@@ -2065,7 +2065,7 @@
         <td><a href="./code-files/Day-061-070/Day-66/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>218</td>
+        <td>222</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/first-bad-version/">First Bad Version</a></td>
@@ -2077,7 +2077,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-67/">67</a></td> 
-        <td>217</td>
+        <td>223</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-061-070/Day-67/Question-1/question.pdf">Set Remove, Discard, Pop</a></td>
@@ -2085,7 +2085,7 @@
         <td><a href="./code-files/Day-061-070/Day-67/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>218</td>
+        <td>224</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/submissions/">Nth Tribonacci Number</a></td>
@@ -2097,7 +2097,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-68/">68</a></td> 
-        <td>217</td>
+        <td>225</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-061-070/Day-68/Question-1/question.pdf">Beautiful Triplets</a></td>
@@ -2105,7 +2105,7 @@
         <td><a href="./code-files/Day-061-070/Day-68/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>218</td>
+        <td>226</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Hard&color=Red></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/integer-to-english-words">Int To Strings</a></td>
@@ -2117,7 +2117,7 @@
     </tr>
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-69/">69</a></td> 
-        <td>217</td>
+        <td>227</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
         <td><a href="./code-files/Day-061-070/Day-69/Question-1/question.pdf">Set Remove, Discard, Pop</a></td>
@@ -2125,7 +2125,7 @@
         <td><a href="./code-files/Day-061-070/Day-69/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
-        <td>218</td>
+        <td>228</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
         <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/submissions/">Nth Tribonacci Number</a></td>
