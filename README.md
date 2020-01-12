@@ -9,7 +9,7 @@
 [![Python!](https://img.shields.io/static/v1?label=Tools%20Used&message=Visual%20Studio&color=orange)](#100-days-of-code)
 <br>
 
-[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=67&color=ff69b4)](#100-days-of-code)
+[![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=69&color=ff69b4)](#100-days-of-code)
 [![Number Of Questions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=224&color=blue)](#100-days-of-code)
 [![Easy !](https://img.shields.io/static/v1?label=Easy&message=167&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=53&color=yellow)](#100-days-of-code)
@@ -2091,6 +2091,46 @@
         <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/submissions/">Nth Tribonacci Number</a></td>
         <td><a href="/code-files/Day-061-070/Day-67/Question-2/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-061-070/Day-67/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+    <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-061-070/Day-68/">68</a></td> 
+        <td>217</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-061-070/Day-68/Question-1/question.pdf">Set Remove, Discard, Pop</a></td>
+        <td><a href="./code-files/Day-061-070/Day-68/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-061-070/Day-68/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>218</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/submissions/">Nth Tribonacci Number</a></td>
+        <td><a href="/code-files/Day-061-070/Day-68/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-061-070/Day-68/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+    <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-061-070/Day-69/">69</a></td> 
+        <td>217</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-061-070/Day-69/Question-1/question.pdf">Set Remove, Discard, Pop</a></td>
+        <td><a href="./code-files/Day-061-070/Day-69/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-061-070/Day-69/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>218</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/submissions/">Nth Tribonacci Number</a></td>
+        <td><a href="/code-files/Day-061-070/Day-69/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-061-070/Day-69/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table>
 </table>
