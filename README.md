@@ -2118,17 +2118,17 @@
     <tr> 
         <td rowspan="2"><a href="./code-files/Day-061-070/Day-69/">69</a></td> 
         <td>227</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-061-070/Day-69/Question-1/question.pdf">Set Remove, Discard, Pop</a></td>
+        <td><a href="./code-files/Day-061-070/Day-69/Question-1/question.pdf">Bigger is Better</a></td>
         <td><a href="./code-files/Day-061-070/Day-69/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-061-070/Day-69/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
     <tr> 
         <td>228</td>
-        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/submissions/">Nth Tribonacci Number</a></td>
+        <td><a href="https://leetcode.com/problems/spiral-matrix/">Spiral Matrix</a></td>
         <td><a href="/code-files/Day-061-070/Day-69/Question-2/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-061-070/Day-69/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -2141,7 +2141,7 @@ Jan 04, 2020 - Jan 13, 2020
 
 ## DAY-61
 
-* Question 1 (Sherlock and Valid Strings)- Please find the question [here](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
+* Question 1 (Sherlock and Valid Strings)- Please find the question [here](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem)
 * Question 2 (Meeting Rooms)- Please find the question [here](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ## DAY-62
@@ -2183,7 +2183,7 @@ Jan 04, 2020 - Jan 13, 2020
 ## DAY-69
 
 * Question 1 ()- Please find the question [here]()
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Spiral Matrix)- Please find the question [here](https://leetcode.com/problems/spiral-matrix/)
 
 ## DAY-70
 
