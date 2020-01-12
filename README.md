@@ -2108,7 +2108,7 @@
         <td>218</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://leetcode.com/">Leetcode</a></td>
-        <td><a href="https://leetcode.com/problems/n-th-tribonacci-number/submissions/">Nth Tribonacci Number</a></td>
+        <td><a href="https://leetcode.com/problems/integer-to-english-words">Int To Strings</a></td>
         <td><a href="/code-files/Day-061-070/Day-68/Question-2/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-061-070/Day-68/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
@@ -2178,7 +2178,7 @@ Jan 04, 2020 - Jan 13, 2020
 ## DAY-68
 
 * Question 1 (Beautiful Triplets)- Please find the question [here](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
-* Question 2 ()- Please find the question [here]()
+* Question 2 (Integer To String)- Please find the question [here](https://leetcode.com/problems/integer-to-english-words)
 
 ## DAY-69
 
