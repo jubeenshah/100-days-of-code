@@ -2100,7 +2100,7 @@
         <td>217</td>
         <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
         <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
-        <td><a href="./code-files/Day-061-070/Day-68/Question-1/question.pdf">Set Remove, Discard, Pop</a></td>
+        <td><a href="./code-files/Day-061-070/Day-68/Question-1/question.pdf">Beautiful Triplets</a></td>
         <td><a href="./code-files/Day-061-070/Day-68/Question-1/solution.py">Solution.py</a></td>
         <td><a href="./code-files/Day-061-070/Day-68/Question-1/solution.ipynb">Solution.ipynb</a></td>
     </tr> 
@@ -2177,7 +2177,7 @@ Jan 04, 2020 - Jan 13, 2020
 
 ## DAY-68
 
-* Question 1 ()- Please find the question [here]()
+* Question 1 (Beautiful Triplets)- Please find the question [here](https://www.hackerrank.com/challenges/beautiful-triplets/problem)
 * Question 2 ()- Please find the question [here]()
 
 ## DAY-69
