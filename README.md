@@ -11,10 +11,10 @@
 
 [![Current Day!](https://img.shields.io/static/v1?label=Current%20Day&message=70&color=ff69b4)](#100-days-of-code)
 [![Number Of Questions!](https://img.shields.io/static/v1?label=Questions%20Solved&message=228&color=blue)](#100-days-of-code)
-[![Easy !](https://img.shields.io/static/v1?label=Easy&message=168&color=success)](#100-days-of-code)
+[![Easy !](https://img.shields.io/static/v1?label=Easy&message=169&color=success)](#100-days-of-code)
 [![Medium !](https://img.shields.io/static/v1?label=Medium&message=55&color=yellow)](#100-days-of-code)
 [![Hard !](https://img.shields.io/static/v1?label=Hard&message=5&color=red)](#100-days-of-code)
-[![Hackerrank !](https://img.shields.io/badge/Hackerrank-141-brightgreen)](#100-days-of-code)
+[![Hackerrank !](https://img.shields.io/badge/Hackerrank-142-brightgreen)](#100-days-of-code)
 [![Leetcode !](https://img.shields.io/badge/Leetcode-87-orange)](#100-days-of-code)
 
 <table> 
@@ -2131,6 +2131,26 @@
         <td><a href="https://leetcode.com/problems/spiral-matrix/">Spiral Matrix</a></td>
         <td><a href="/code-files/Day-061-070/Day-69/Question-2/solution.py">Solution.py</a></td>
         <td><a href="/code-files/Day-061-070/Day-69/Question-2/solution.py">Solution.ipynb</a></td>
+    </tr> 
+    <tr>
+    <td></td>
+    </tr>
+    <tr> 
+        <td rowspan="2"><a href="./code-files/Day-061-070/Day-70/">70</a></td> 
+        <td>229</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Easy&color=Success></td>
+        <td><a href="https://www.hackerrank.com/dashboard">Hackerrank</a></td>
+        <td><a href="./code-files/Day-061-070/Day-70/Question-1/question.pdf">Bigger is Better</a></td>
+        <td><a href="./code-files/Day-061-070/Day-70/Question-1/solution.py">Solution.py</a></td>
+        <td><a href="./code-files/Day-061-070/Day-70/Question-1/solution.ipynb">Solution.ipynb</a></td>
+    </tr> 
+    <tr> 
+        <td>230</td>
+        <td><img src=https://img.shields.io/static/v1?label=Type&message=Med&color=Yellow></td>
+        <td><a href="https://leetcode.com/">Leetcode</a></td>
+        <td><a href="https://leetcode.com/problems/spiral-matrix/">Spiral Matrix</a></td>
+        <td><a href="/code-files/Day-061-070/Day-70/Question-2/solution.py">Solution.py</a></td>
+        <td><a href="/code-files/Day-061-070/Day-70/Question-2/solution.py">Solution.ipynb</a></td>
     </tr> 
 </table>
 </table>
