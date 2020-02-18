@@ -1,4 +1,4 @@
-# 100 days of code
+# 70 days of code
 [![Python!](https://img.shields.io/static/v1?label=Solved%20with&message=Python&color=blueviolet)](#100-days-of-code)
 [![Python!](https://img.shields.io/static/v1?label=Solved%20with&message=Swift&color=red)](#100-days-of-code)
 [![Python!](https://img.shields.io/static/v1?label=Solved%20with&message=C%2B%2B&color=yellow)](#100-days-of-code)
